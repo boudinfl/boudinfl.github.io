@@ -1,0 +1,11 @@
+    <nav>
+      <ul>
+          <li class="{% if page.url == "/" %}active{% endif %}"><a href="{{ "/index.html" | prepend: site.baseurl }}">Home</a></li>
+        {% for item in site.pages %} {% if item.title %}
+          <li class="{% if page.url == item.url %}active{% endif %}">
+          	<a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
+          </li>
+        {% endif %} {% endfor %}
+			<li><a href="{{ "/data/cv-boudin.pdf" | prepend: site.baseurl }}">CV</a></li>
+      </ul>
+    </nav>

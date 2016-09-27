@@ -1,0 +1,24 @@
+---
+---
+
+{% assign author_number = entry.author_array | size | minus: 1 %}
+{% for i in (0..author_number) %}
+	{{ entry.author_array[i].first }} {{ entry.author_array[i].last }}{% if i < author_number %},{% else %}.{% endif %}
+{% endfor %}
+
+<!-- {% for author in entry.author_array %}
+	{{ author.first }} {{ author.last }}
+{% endfor %} -->
+<!-- 
+{{ entry.author }}. --> {{ entry.year }}.<br>
+<b>{{ entry.title }}</b>.<br>
+<i>
+	{% if entry.booktitle %} {{ entry.booktitle }} {% endif %}
+	{% if entry.journal %} {{ entry.journal }} {% endif %}
+	{% if entry.school %} {{ entry.school }} {% endif %}
+</i>.<br>
+{% if entry.url %}&raquo; <a href="{{ entry.url }}">paper</a>{% endif %}
+{% if entry.hal %}
+{% assign urlArray = entry.hal | split: '/' %}
+&raquo; <a href="{{ entry.hal }}">{{ urlArray | last }}</a>
+{% endif %}
