@@ -147,11 +147,13 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    Florian Boudin, Jian-Yun Nie, Joan Bartlett, Roland Grad, Pierre Pluye, Martin Dawes.\\
    *BMC Medical Informatics and Decision Making, 2010.*
 
- - **[Positional Language Models for Clinical Information Retrieval](http://aclweb.org/anthology/D10-1011).**\\
+ - **[Positional Language Models for Clinical Information Retrieval](http://aclweb.org/anthology/D10-1011).**
+   [[dataset](https://github.com/boudinfl/CLIREC)]\\
    Florian Boudin, Jian-Yun Nie, Martin Dawes.\\
    *Conference on Empirical Methods in Natural Language Processing (EMNLP), 2010.*
 
- - **[Clinical Information Retrieval using Document and PICO Structure](http://www.aclweb.org/anthology/N10-1124).**\\
+ - **[Clinical Information Retrieval using Document and PICO Structure](http://www.aclweb.org/anthology/N10-1124).**
+   [[dataset](https://github.com/boudinfl/CLIREC)]\\
    Florian Boudin, Jian-Yun Nie, Martin Dawes.\\
    *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2010.*
 
@@ -159,7 +161,8 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    Florian Boudin, Lixin Shi, Jian-Yun Nie.\\
    *European Conference on Information Retrieval (ECIR), 2010.*
 
- - **[Deriving a test collection for clinical information retrieval from systematic reviews](/data/articles/boudin_dtmbio10.pdf).**\\
+ - **[Deriving a test collection for clinical information retrieval from systematic reviews](/data/articles/boudin_dtmbio10.pdf).**
+   [[dataset](https://github.com/boudinfl/CLIREC)]\\
    Florian Boudin, Jian-Yun Nie, Martin Dawes.\\
    *Data and Text Mining in Biomedical Informatics (DTMBIO), 2010.*
 
