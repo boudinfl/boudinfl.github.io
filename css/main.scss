@@ -101,7 +101,7 @@ nav ul {
 nav ul li {
 	display: table-cell;
 	text-align: center;
-	width: 16.66%;
+	width: 14.28%;
 }
 
 nav ul li.active {
@@ -131,4 +131,10 @@ ul.bibliography li {
 	border-top-left-radius: 5px;
 	border-bottom-left-radius: 5px;
 	background-color: #EEE;
+	line-height: 1.3;
 }
+
+ul.bibliography li p {
+	margin: 0px;
+}
+
