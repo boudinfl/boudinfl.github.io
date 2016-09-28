@@ -79,7 +79,8 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    Florian Boudin.\\
    *International Joint Conference on Natural Language Processing (IJCNLP), 2013.*
 
- - **[Keyphrase Extraction for N-best Reranking in Multi-Sentence Compression](http://aclweb.org/anthology/N13-1030).**\\
+ - **[Keyphrase Extraction for N-best Reranking in Multi-Sentence Compression](http://aclweb.org/anthology/N13-1030).**
+   [[dataset](https://github.com/boudinfl/lina-msc), [code](https://github.com/boudinfl/takahe)]\\
    Florian Boudin, Emmanuel Morin.\\
    *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2013.*
 
