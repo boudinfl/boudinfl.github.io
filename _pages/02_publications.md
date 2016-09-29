@@ -8,6 +8,7 @@ Below is a list of my publications organized by date.
 You can also find my [Google Scholar profile](http://scholar.google.com/citations?user=Vk68rbkAAAAJ&hl=en).
 
 # 2016
+{: .underline}
 
    {: .bibliography}
 
@@ -32,6 +33,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    *Défi Fouille de Textes (DEFT), 2016.*
 
 # 2015
+{: .underline}
 
    {: .bibliography}
 
@@ -48,6 +50,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    *Eighth Workshop on Building and Using Comparable Corpora (BUCC), 2015.*
 
 # 2014
+{: .underline}
 
    {: .bibliography}
 
@@ -68,6 +71,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    *Traitement Automatique des Langues Naturelles (TALN), 2014.*
 
 # 2013
+{: .underline}
 
    {: .bibliography}
 
@@ -101,6 +105,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    *INitiative for the Evaluation of XML Retrieval (INEX), 2013.*
 
 # 2012
+{: .underline}
 
    {: .bibliography}
 
@@ -121,6 +126,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    *Défi Fouille de Textes (DEFT), 2012.*
 
 # 2011
+{: .underline}
 
    {: .bibliography}
 
@@ -141,6 +147,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    *INitiative for the Evaluation of XML Retrieval (INEX), 2011.*
 
 # 2010
+{: .underline}
 
    {: .bibliography}
 
@@ -168,6 +175,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    *Data and Text Mining in Biomedical Informatics (DTMBIO), 2010.*
 
 # 2009
+{: .underline}
 
    {: .bibliography}
 
@@ -180,6 +188,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    *Current Issues in Linguistic Theory: Recent Advances in Natural Language Processing, 2009.*
 
 # 2008
+{: .underline}
 
    {: .bibliography}
 
@@ -204,6 +213,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    *Laboratoire Informatique d’Avignon – Université d’Avignon, 2008.*
 
 # 2007
+{: .underline}
 
    {: .bibliography}
 
@@ -220,6 +230,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    *Document Understanding Conference (DUC), 2007.*
 
 # 2006
+{: .underline}
 
    {: .bibliography}
 

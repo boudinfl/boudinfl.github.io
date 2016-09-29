@@ -5,6 +5,7 @@ permalink: /research/
 ---
 
 # Research interests
+{: .underline}
 
 My research interests are in Natural Language Processing, Information Retrieval
 and Machine Learning. I am currently working on:
@@ -15,12 +16,14 @@ and Machine Learning. I am currently working on:
 * Developing tools and ressources for French NLP
 
 # Research projects
+{: .underline}
 
 * 2016 -- [TALIAS - Natural Language Processing for indexing scientific articles](https://boudinfl.github.io/talias/)
 * 2015 -- [GOLEM - Keyphrase Extraction with Integer Linear Programming](http://boudinfl.github.io/golem/)
 * 2012-2015 -- [TERMITH - Terminologie et Indexation de Textes en sciences Humaines](http://www.atilf.fr/ressources/termith/)
 
 # Service
+{: .underline}
 
 * Maintainer of [TALN Archives](http://www.atala.org/taln_archives/), a digital archive of French research articles in Natural Language Processing
 * I was an elected member of the [ATALA](http://www.atala.org/) from 2013-2016
