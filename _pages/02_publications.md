@@ -88,7 +88,8 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    Florian Boudin, Emmanuel Morin.\\
    *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2013.*
 
- - **[TALN Archives : une archive numérique francophone des articles de recherche en Traitement Automatique de la Langue](http://www.atala.org/taln_archives/TALN/TALN-2013/taln-2013-court-001.pdf).**\\
+ - **[TALN Archives : une archive numérique francophone des articles de recherche en Traitement Automatique de la Langue](http://www.atala.org/taln_archives/TALN/TALN-2013/taln-2013-court-001.pdf).**
+   [[dataset](https://github.com/boudinfl/taln-archives)]\\
    Florian Boudin.\\
    *Traitement Automatique des Langues Naturelles (TALN), 2013.*
 
