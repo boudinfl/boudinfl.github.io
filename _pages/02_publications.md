@@ -12,6 +12,10 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .bibliography}
 
+ - **pke: an open source python-based keyphrase extraction toolkit.**\\
+   Florian Boudin.\\
+   *International Conference on Computational Linguistics (COLING), demonstration papers, 2016.*
+
  - **Keyphrase Annotation with Graph Co-Ranking.**\\
    Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
    *International Conference on Computational Linguistics (COLING), 2016.*
