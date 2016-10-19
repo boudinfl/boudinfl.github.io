@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+      <title>Technologies Web 1</title>
+
+      <link rel="stylesheet" href="reveal.js/css/reveal.min.css">
+      <link rel="stylesheet" href="css/simple-theme.css" id="theme">
+
+      <!-- For syntax highlighting -->
+      <link rel="stylesheet" href="reveal.js/lib/css/zenburn.css">
+
+      <!-- If the query includes 'print-pdf', include the PDF print sheet -->
+      <script>
+        if( window.location.search.match( /print-pdf/gi ) ) {
+          var link = document.createElement( 'link' );
+          link.rel = 'stylesheet';
+          link.type = 'text/css';
+          link.href = 'reveal.js/css/print/pdf.css';
+          document.getElementsByTagName( 'head' )[0].appendChild( link );
+        }
+      </script>
+
+      <!--[if lt IE 9]>
+        <script src="lib/js/html5shiv.js"></script>
+      <![endif]-->
+
+  </head>
+
+  <body>
+
+    <div class="reveal">
+      <div class="slides">
+
+          <section>
+            <h1>Technologies Web 1</h1>
+            <h2>Florian Boudin</h2>
+            <h3>Révision 3 du 2 septembre 2014</h3>
+            <h4>HTTP, HTML5 et CSS3</h4>
+          </section>
+
+          <section>
+            <h1>Préambule</h1>
+            <ul>
+              <li>Notions abordées dans cette partie du module
+                <ul>
+                  <li>Protocole HTTP</li>
+                  <li>Langage de balisage HTML, nouveautés HTML5</li>
+                  <li>Feuilles de style CSS, nouveautés CSS3</li>
+                </ul>
+              </li>
+              <li>Volume horaire (10h40)
+                <ul>
+                  <li>7 séances TD/TP + 1 séance de projet partagée avec Javascript</li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Le protocole HTTP</h1>
+          </section>
+
+          <section>
+            <h1>Sources</h1>
+            <img src="img/precis_concis_http.jpg" alt="precis_concis_http.jpg" style="width:250px"/>
+            <p>et <a href="http://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTML_CSS_Basics.html">Web protocols</a> de Chua Hock-Chuan</p>
+          </section>
+
+          <section>
+            <h1>Le web</h1>
+            <img src="img/TheWeb.png" alt="TheWeb.png" style="width:100%"/>
+          </section>
+
+          <section>
+            <h1>Le web (cont.)</h1>
+            <ul>
+              <li>De nombreuses applications sont exécutées simultanément
+                <ul>
+                  <li>e.g. nagivation web, email, transfert de fichiers, streaming</li>
+                </ul>
+              </li>
+              <li>Pour que les clients et les serveurs communiquent, les applications doivent utiliser un protocole
+                <ul>
+                  <li>e.g. <span class="fragment highlight-red">HTTP</span>, FTP, SMTP, POP</li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Qu’est ce que HTTP?</h1>
+            <ul>
+              <li>HTTP signifie HyperText Transfert Protocol.</li>
+              <li>Protocole de communication client-serveur développé pour le World Wide Web, e.g. <a href="http://www.univ-nantes.fr">http://www.univ-nantes.fr</a>.</li>
+              <li>Moyen de communication standardisé, HTTP spécifie comment les clients demandent des données et comment les serveurs répondent.</li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Qu’est ce que HTTP? (cont.)</h1>
+            <ul>
+              <li>En comprenant comment HTTP fonctionne, on peut :
+                <ul>
+                  <li>Comprendre les interactions entre les clients et les serveurs web.</li>
+                  <li>Interroger manuellement des serveurs et recevoir des informations que les navigateurs cachent.</li>
+                  <li>Comprendre la configuration et les capacités d’un serveur.</li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Transaction HTTP</h1>
+            <img src="img/HTTP.png" alt="HTTP.png" style="width:100%"/>
+          </section>
+
+          <section>
+            <h1>Les requêtes</h1>
+            <ul>
+              <li>Soit l’URL : <a href="http://www.univ-nantes.fr">http://www.univ-nantes.fr:80/</a></li>
+              <li>Le navigateur interprète cette URL de la façon suivante :
+                <ul>
+                  <li>[ <a href="#">http://</a> ] utiliser le protocole HTTP</li>
+                  <li>[ <a href="#">www.univ-nantes.fr</a> ] contacter une machine sur le réseau dont le nom d’hôte est <a href="#">www.univ-nantes.fr</a></li>
+                  <li>[ <a href="#">:80</a> ] se connecter sur le port 80 (valeur par défaut)</li>
+                  <li>[ <a href="#">/</a> ] chemin du document, ici la racine</li>
+                </ul>
+              </li>
+              <li>En résumé, le navigateur se connecte sur le port 80 de <a href="#">www.univ-nantes.fr</a> en utilisant le protocole HTTP.</li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Requête envoyée au serveur</h1>
+            <pre><code data-trim contenteditable>
+(1) GET / HTTP/1.1
+(2) Host: www.univ-nantes.fr
+(3) User-Agent: Mozilla/5.0 (Macintosh; ...
+(4) Accept: text/html,application/xhtml+xml, ...
+(5) Accept-Language: fr,fr-fr;q=0.8,en-us; ...
+(6) Accept-Encoding: gzip, deflate
+(7) Connection: keep-alive
+            </code></pre>
+            <ol>
+              <li style="margin: 0px;">Commande</li>
+              <li style="margin: 0px;">Nom d’hôte du serveur</li>
+              <li style="margin: 0px;">Client utilisé</li>
+              <li style="margin: 0px;">Types MIME acceptés</li>
+              <li style="margin: 0px;">Langues des documents acceptées</li>
+              <li style="margin: 0px;">Méthodes de compression des documents acceptées</li>
+              <li style="margin: 0px;">Gestion de la persistance de la connexion</li>
+            </ol>
+          </section>
+
+          <section>
+            <h1>Réponse du serveur</h1>
+            <pre><code data-trim contenteditable>
+(1) HTTP/1.1 200 OK
+(2) Date: Fri, 14 Sep 2012 11:32:14 GMT
+(3) Server: Koala Web Server/2.4.0 (FreeBSD 6.2)
+(4) Vary: Accept-Encoding
+(5) Content-Encoding: gzip
+(6) Content-Type: text/html;charset=ISO-8859-1
+(7) Connection: close
+(8) Transfer-Encoding: chunked
+(9)
+(10) &lt;!DOCTYPE html ...
+            </code></pre>
+            <table>
+              <tr>
+                <td>
+                  <ol>
+                    <li style="margin: 0px;">Code de statut HTTP</li>
+                    <li style="margin: 0px;">Date</li>
+                    <li style="margin: 0px;">Informations sur le serveur</li>
+                    <li style="margin: 0px;">Cache pour le proxy</li>
+                    <li style="margin: 0px;">Méthode de compression</li>
+                  </ol>
+                </td>
+                <td>
+                  <ol start="6">
+                    <li style="margin: 0px;">Type MIME</li>
+                    <li style="margin: 0px;">Fermeture de la connexion</li>
+                    <li style="margin: 0px;">Encodage de transfert</li>
+                    <li style="margin: 0px;">Ligne vide</li>
+                    <li style="margin: 0px;">Corps de la réponse</li>
+                  </ol>
+                </td>
+              </tr>
+            </table>
+          </section>
+
+          <section>
+            <h1>Détails d'une transaction HTTP</h1>
+            <img src="img/HTTP_Steps.png" alt="HTTP_Steps.png" style="width:100%"/>
+          </section>
+
+          <section>
+            <h1>Structure d’une requête client</h1>
+            <table class="http">
+              <tr style="background:#FFCCCC;">
+                <th>Ligne de commande</th>
+                <td><code>GET /index.html HTTP/1.1</code></td>
+              </tr>
+              <tr style="background:#FFBBBB;">
+                <th>En-tête de requête</th>
+                <td>
+                  <code>
+                    Host: www.univ-nantes.fr <br>
+                    User-Agent: Mozilla/5.0 <br>
+                    Accept: text/html ...
+                  </code>
+                </td>
+              </tr>
+              <tr style="background:#FFAAAA;">
+                <th>Ligne vide</th>
+                <td></td>
+              </tr>
+              <tr style="background:#FF9999;">
+                <th>Corps de requête</th>
+                <td></td>
+              </tr>
+            </table>
+          </section>
+
+          <section>
+            <h1>Les méthodes des clients</h1>
+            <ul>
+              <li><code>GET</code> : récupérer un document</li>
+              <li><code>HEAD</code> : récupérer les informations véhiculées par les en-têtes</li>
+              <li><code>POST</code> : envoi de données au serveur</li>
+              <li><code>PUT/DELETE</code> : ajouter/supprimer un document</li>
+              <li><code>TRACE</code> : récupérer le chemin parcouru par le message du client</li>
+              <li><code>OPTIONS</code> : récupérer les options disponibles pour l'URL</li>
+              <li><code>CONNECT</code> : accès à des serveurs web sécurisés par l'intermédiaire d'un serveur d'authentification</li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Structure d’une réponse</h1>
+            <table class="http">
+              <tr style="background:#FFCCCC;">
+                <th>Ligne de statut</th>
+                <td><code>HTTP/1.1 200 OK</code></td>
+              </tr>
+              <tr style="background:#FFBBBB;">
+                <th>En-tête de réponse</th>
+                <td>
+                  <code>
+                    Server: Koala Web Server/2.4.0 <br>
+                    Vary: Accept-Encoding <br>
+                    Content-Encoding: gzip ...
+                  </code>
+                </td>
+              </tr>
+              <tr style="background:#FFAAAA;">
+                <th>Ligne vide</th>
+                <td></td>
+              </tr>
+              <tr style="background:#FF9999;">
+                <th>Corps de réponse</th>
+                <td><code>&lt;!DOCTYPE html&gt; ...</code></td>
+              </tr>
+            </table>
+          </section>
+
+          <section>
+            <h1>Codes de réponses des serveurs</h1>
+            <ul>
+              <li><code>100-199</code> : message informatif</li>
+              <li><code>200-299</code> : requête accomplie avec succès</li>
+              <li><code>300-399</code> : requête redirigée</li>
+              <li><code>400-499</code> : requête incomplète</li>
+              <li><code>500-599</code> : erreurs du serveur</li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Exemple de requête <code>GET</code></h1>
+            <pre><code data-trim contenteditable>
+GET / HTTP/1.1
+Host: imgur.com
+Connection: keep-alive
+Accept: text/html,application/xml;q=0.9,image/webp,*/*;q=0.8 ...
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) ...
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: fr-FR,fr;q=0.8,en-US;q=0.6,en;q=0.4
+            </code></pre>
+
+<pre><code data-trim contenteditable>
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Content-Length: 17104
+Accept-Ranges: bytes
+Date: Mon, 01 Sep 2014 08:39:39 GMT
+Age: 91
+Connection: keep-alive
+Vary: Accept-Encoding
+Server: cat factory 1.0
+</code></pre>
+          </section>
+
+          <section>
+            <h1>HTTP et les formulaires HTML</h1>
+            <ul>
+              <li>Les méthodes <code>GET</code> et <code>POST</code> sont les plus utilisées</li>
+              <li>Envoyer des données via un formulaire
+                <pre><code data-trim contenteditable>
+&lt;form action="test.php" method="GET"&gt; &leftarrow; POST
+  &lt;input type="text" name="nom1"&gt;
+  &lt;input type="text" name="nom2"&gt;
+  &lt;input type="submit" value="Envoyer"&gt;
+&lt;/form&gt; 
+                </code></pre>
+                <pre><code data-trim contenteditable>
+GET /test.php?nom1=value1&amp;nom2=value2 HTTP/1.1
+Host: www.univ-nantes.fr
+User-Agent: Mozilla/5.0 (Macintosh; ...
+...
+                </code></pre>
+                <pre><code data-trim contenteditable>
+POST /test.php HTTP/1.1
+Host: www.univ-nantes.fr
+...
+nom1=value1&amp;nom2=value2
+                </code></pre>
+              </li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Requête HTTP avec telnet</h1>
+            <img src="img/telnet.png" alt="telnet.png" style="width:90%"/>
+          </section>
+
+          <section>
+            <h1>Visualiser les transactions HTTP</h1>
+            <ul>
+              <li>Firefox
+                <ul>
+                  <li>Outils &rightarrow; Développement web &rightarrow; outil de développement</li>
+                  <li>Installer <a href="http://getfirebug.com/">firebug</a></li>
+                </ul>
+              </li>
+              <li>Safari
+                <ul>
+                  <li>Activer le menu développement (Préférences &rightarrow; Avancées)</li>
+                </ul>
+              </li>
+              <li>Chrome
+                <ul>
+                  <li>Afficher &rightarrow; Options pour les développeurs &rightarrow; Outils de développement</li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+
+          <section>
+            <img src="img/HTML5.png" alt="Logo HTML5" style="height:100%">
+          </section>
+
+          <section>
+            <h1>Introduction</h1>
+            <ul>
+              <li>HTML signifie (HyperText Markup Language)</li>
+              <li>Conçu pour représenter les pages Web</li>
+              <li>Le HTML est un langage de <em>balisage</em></li>
+              <li>Les fichiers HTML portent l’extention <code>.html</code> ou <code>.htm</code></li>
+              <li>Visualisation sur un navigateur Web (e.g. Firefox)</li>
+              <li>Edition avec un éditeur de texte/Web (e.g. Dreamweaver)</li>
+            </ul>
+          </section>
+
+
+          <section>
+            <h1>Un document HTML</h1>
+
+            <table>
+              <tr>
+                <td style="vertical-align:middle;">
+<pre><code data-trim contenteditable>
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Titre du document&lt;/title&gt;
+    &lt;meta charset="UTF-8" /&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Un document HTML&lt;/h1&gt;
+    &lt;p&gt;Créer une page web, 
+       c'est facile!&lt;/p&gt;
+    &lt;img src="html5.jpg" alt="meme" /&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+                </td>
+                <td style="vertical-align:middle;">
+                  <img src="img/document_HTML.png" alt="document" style="width:520px" />
+                </td>
+              </tr>
+            </table>
+          </section>
+
+          <section>
+            <h1>Les balises HTML</h1>
+            <ul>
+              <li>Les balises sont des <em>mots-clés entourés de chevrons</em></li>
+              <li>Elles vont normalement par paires (e.g. <code>&lt;p&gt;...&lt;/p&gt;</code>)</li>
+              <li>La première est appelée <em>ouvrante</em>, la seconde <em>fermante</em></li>
+              <li><em>Attention de ne pas oublier la balise fermante !</em></li>
+              <li>Utiliser des minuscules pour les balises (<code>&lt;p&gt;</code>, pas <code>&lt;P&gt;</code>)</li>
+              <li>Les commentaires s’écrivent <code>&lt;!-- commentaire --&gt;</code></li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Les balises principales</h1>
+            <ul>
+              <li>Sections : <code>&lt;h1&gt;</code>, <code>&lt;h2&gt;</code>, <code>&lt;h3&gt;</code>, etc.</li>
+              <li>Paragraphes : <code>&lt;p&gt;</code></li>
+              <li>Hyperliens : <code>&lt;a href="https://goo.gl"&gt;...&lt;/a&gt;</code></li>
+              <li>Images : <code>&lt;img src="pic.jpg" alt="text"/&gt;</code></li>
+              <li>Marqueurs sémantiques : <code>&lt;b&gt;</code>, <code>&lt;i&gt;</code>, <code>&lt;em&gt;</code>, <code>&lt;strong&gt;</code></li>
+              <li>Retour à la ligne : <code>&lt;br&gt;</code></li>
+              <li>Listes : <code>&lt;ul&gt;</code>, <code>&lt;ol&gt;</code>, <code>&lt;li&gt;</code></li>
+              <li>Tableaux : <code>&lt;table&gt;</code>, <code>&lt;tr&gt;</code>, <code>&lt;td&gt;</code>, <code>&lt;th&gt;</code></li>
+              <li>Formulaires : <code>&lt;form&gt;</code>, <code>&lt;input&gt;</code></li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Les éléments</h1>
+            <ul>
+              <li>Le contenu entre deux balises est un <em>élément</em> HTML</li>
+              <li>Certains éléments peuvent être vides</li>
+              <li>Les éléments vides sont fermés à la 1ère balise <code>&lt;img /&gt;</code>
+                <ul>
+                  <li>&rightarrow; n’est plus obligatoire en HTML5</li>
+                </ul>
+              </li>
+              <li>La plupart des éléments peuvent avoir des attributs</li>
+            </ul>
+            <table class="booktabs" style="font-size:80%;">
+              <tr>
+                <th>Balise ouvrante</th>
+                <th>Élément</th>
+                <th>Balise fermante</th>
+              </tr>
+              <tr>
+                <td><code>&lt;p&gt;</code></td>
+                <td><code>Ceci est un texte</code></td>
+                <td><code>&lt;/p&gt;</code></td>
+              </tr>
+              <tr>
+                <td><code>&lt;a href="page.html"&gt;</code></td>
+                <td><code>Ceci est un lien</code></td>
+                <td><code>&lt;/a&gt;</code></td>
+              </tr>
+              <tr>
+                <td><code>&lt;img src="pic.jpg"/&gt;</code></td>
+                <td></td>
+                <td></td>
+              </tr>
+            </table>
+          </section>
+
+          <section>
+            <h1>Les attributs</h1>
+            <ul>
+              <li>La plupart des éléments peuvent avoir un ou plusieurs attributs</li>
+              <li>Ils donnent une information additionnelle au sujet d’un élément</li>
+              <li>Les attributs sont <em>toujours</em> spécifiés dans la balise ouvrante</li>
+              <li>Les attributs sont représentés par des paires nom / valeur
+                <ul>
+                  <li><code>&lt;balise nom=""&gt;</code></li>
+                </ul>
+              </li>
+              <li>Les valeurs des attributs doivent être entourés de <code>"</code> ou <code>'</code></li>
+              <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes">Liste complète</a> des attributs possibles pour chaque élément</li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Quelques nouveautés de HTML5</h1>
+            <ul>
+              <li>Nouveaux éléments de structuration : <code>&lt;section&gt;</code>, <code>&lt;header&gt;</code>, <code>&lt;footer&gt;</code>, <code>&lt;nav&gt;</code>, etc.</li>
+              <li>Insertion de vidéos/sons : <code>&lt;video&gt;</code>, <code>&lt;audio&gt;</code></li>
+              <li>Barre de progression : <code>&lt;progress&gt;</code></li>
+              <li>Nouveaux attributs de la balise <code>&lt;input&gt;</code> : <code>placeholder</code>, <code>required</code>, <code>pattern</code>, etc.</li>
+              <li><a href="http://www.kevs3d.co.uk/dev/html5logo/">Elément de dessin 2D/3D</a> <code>&lt;canvas&gt;</code></li>
+            </ul>
+          </section>
+
+          <section>
+            <img src="img/CSS3.jpg" alt="Logo CSS3" style="width:100%" />
+          </section>
+
+          <section>
+            <img src="img/screenshot_html.png" alt="HTML" style="width:100%" />
+          </section>
+
+          <section>
+            <img src="img/screenshot_html+css.png" alt="HTML + CSS" style="width:100%" />
+          </section>
+
+          <section>
+            <h1>Introduction</h1>
+            <ul>
+              <li>CSS signifie Cascading Style Sheets</li>
+              <li>Un style définit comment les éléments HTML sont affichés</li>
+              <li>Les styles ont été ajoutés pour résoudre un problème
+                <ul>
+                  <li>HTML a été créé pour définir le contenu d’un document</li>
+                  <li>Les balises <code>&lt;font color="..."&gt;</code> (HTML 3.2) sont devenues un cauchemar pour les développeurs web</li>
+                  <li>Séparer le contenu (HTML) de la mise en forme (CSS)</li>
+                </ul>
+              </li>
+              <li>La mise en forme peut être stockée dans un fichier séparé</li>
+              <li>Les feuilles de style externes permettent de gagner du temps
+                <ul>
+                  <li>Modifier le <code>.css</code> &rightarrow; changer l’apparence de toutes les pages</li>
+                </ul>
+              </li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>La syntaxe CSS</h1>
+            <ul>
+              <li>Une règle CSS est composée de deux parties
+                <img src="img/selecteur_css.jpg" alt="selecteur CSS" style="width:90%" />
+              </li>
+              <li>Exemples
+                <pre><code data-trim contenteditable>
+p { // Sélecteur des paragraphes
+  color: red; // Couleur du texte en rouge
+  text-align: center; // Alignement du texte centré
+}
+
+h1 { // Sélecteur des titres de section de niveau 1
+  font-style: italic; // Style du texte en italique
+}
+                </code></pre>
+              </li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Ajouter du CSS à un document</h1>
+            <ol>
+              <li>A l’aide d’une feuille de style externe (fichier .css)
+                <ul>
+                  <li>Pour un site multi-page, le css est mis en cache</li>
+                </ul>
+                <pre><code data-trim contenteditable>
+&lt;head&gt;
+  &lt;link rel="stylesheet" href="fichier.css" /&gt;
+&lt;/head&gt;
+                </code></pre>
+              </li>
+              <li>A l’aide d’une feuille de style interne
+                <ul>
+                  <li>Pour un site statique mono-page</li>
+                </ul>
+                <pre><code data-trim contenteditable>
+&lt;head&gt;
+  &lt;style&gt; p { color:red; } &lt;/style&gt;
+&lt;/head&gt;
+                </code></pre>
+              </li>
+              <li>Dans l’attribut style des éléments HTML (<em>à proscrire</em>)
+                <pre><code data-trim contenteditable>
+&lt;p style="color:red;"&gt;Blah blah blah&lt;/p&gt;
+                </code></pre>
+              </li>
+            </ol>
+          </section>
+
+          <section>
+            <h1>Nommer les éléments</h1>
+            <ul>
+              <li>Il peut être nécessaire de nommer un élément en particulier
+                <ul>
+                  <li>L’attribut <code>id</code> permet de spécifier un identifiant unique</li>
+                </ul>
+                <pre><code data-trim contenteditable>
+&lt;p id="intro"&gt;Blah blah blah&lt;/p&gt;
+                </code></pre>
+                <pre><code data-trim contenteditable>
+#intro { // sélecteur de l’élément "intro"
+  font-size: 16pt;
+}
+                </code></pre>
+              </li>
+              <li>Les identifiants sont sensibles à la casse, <code>intro</code> &#8800; <code>Intro</code></li>
+              <li>Nommer les éléments en fonction de ce qu’ils sont
+                <pre><code data-trim contenteditable>
+&lt;p id="rouge"&gt;Attention, une erreur est survenue&lt;/p&gt;
+
+&lt;p id="erreur"&gt;Attention, une erreur est survenue&lt;/p&gt;
+                </code></pre>
+              </li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Nommer les éléments (cont.)</h1>
+            <ul>
+              <li>Il peut être nécessaire de nommer un ensemble d’éléments
+                <ul>
+                  <li>L’attribut <code>class</code> permet de spécifier un groupe d’éléments</li>
+                </ul>
+                <pre><code data-trim contenteditable>
+&lt;h1 class="important"&gt;blih blih blih bluh&lt;/h1&gt;
+&lt;p class="important"&gt;blah blah blah&lt;/p&gt;
+&lt;p&gt;blah bluh blah blih bloh&lt;/p&gt;
+                </code></pre>
+
+                <pre><code data-trim contenteditable>
+.important {// éléments de classe "important"
+  font-size: 120%;
+}
+
+p.important {// paragraphes de classe "important"
+  background-color: yellow;
+}
+                </code></pre>
+              </li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Regrouper les règles</h1>
+            <ul>
+              <li>Il possible de regrouper un ensemble de règles identiques
+                <ul>
+                  <li>Mettre les sélecteurs à la suite, séparés par des virgules</li>
+                </ul>
+              </li>
+            </ul>
+            <table style="margin:auto;">
+              <tr>
+                <td style="vertical-align:middle;">
+<pre><code data-trim contenteditable>
+h1 {
+font-size: 130%;
+color: red;
+}
+
+h2 {
+font-size: 110%;
+color: red;
+}
+
+h3 {
+color: red;
+}
+</code></pre>
+                </td>
+                <td style="vertical-align:middle;">
+<pre><code data-trim contenteditable>
+h1, h2, h3 {
+color: red;
+}
+
+h1 {
+font-size: 130%;
+}
+
+h2 {
+font-size: 110%;
+}
+</code></pre>
+                </td>
+              </tr>
+            </table>
+          </section>
+
+          <section>
+            <h1>Sélecteurs CSS</h1>
+            <table class="booktabs" style="font-size:70%;line-height:100%;">
+              <tr>
+                <th>Selecteur</th>
+                <th>Exemple</th>
+                <th>Description</th>
+              </tr>
+              <tr>
+                <td><code>.class</code></td>
+                <td><code>.intro</code></td>
+                <td>Selects all elements with <code>class="intro"</code></td>
+              </tr>
+              <tr>
+                <td><code>#id</code></td>
+                <td><code>#firstname</code></td>
+                <td>Selects the element with <code>id="firstname"</code></td>
+              </tr>
+              <tr>
+                <td><code>*</code></td>
+                <td><code>*</code></td>
+                <td>Selects all elements</td>
+              </tr>
+              <tr>
+                <td><code>element</code></td>
+                <td><code>p</code></td>
+                <td>Selects all <code>&lt;p&gt;</code> elements</td>
+              </tr>
+              <tr>
+                <td><code>element,element</code></td>
+                <td><code>div, p</code></td>
+                <td>Selects all <code>&lt;div&gt;</code> and all <code>&lt;p&gt;</code> elements</td>
+              </tr>
+              <tr>
+                <td><code>element element</code></td>
+                <td><code>div p</code></td>
+                <td>Selects all <code>&lt;p&gt;</code> inside <code>&lt;div&gt;</code> elements</td>
+              </tr>
+              <tr>
+                <td><code>element+element</code></td>
+                <td><code>div + p</code></td>
+                <td>Selects all <code>&lt;p&gt;</code> elements that are placed immediately after <code>&lt;div&gt;</code> elements</td>
+              </tr>
+              <tr>
+                <td><code>[attribute]</code></td>
+                <td><code>[target]</code></td>
+                <td>Selects all elements with a target attribute</td>
+              </tr>
+              <tr>
+                <td><code>:hover</code></td>
+                <td><code>a:hover</code></td>
+                <td>Selects links on mouse over</td>
+              </tr>
+              <tr>
+                <td><code>::first-letter</code></td>
+                <td><code>p::first-letter</code></td>
+                <td>Selects the first letter of every <code>&lt;p&gt;</code> element</td>
+              </tr>
+            </table>
+            <p>&rightarrow; <a href="http://www.w3.org/TR/css3-selectors/">Liste complète</a> des sélecteurs CSS3</p>
+          </section>
+
+          <section>
+            <h1>Modèle de boîte CSS</h1>
+            <ul>
+              <li>Chaque élément dans la page est considéré comme une boîte
+                <ul>
+                  <li>Chaque boîte est un rectangle composé du contenu de l’élément, d’un remplissage, d’une bordure et de marges</li>
+                </ul>
+              </li>
+            </ul>
+            <div style="border: 1px dashed black;padding:0px 30px 30px 30px;margin:auto;">
+              Marge (margin)
+              <div style="border: 1px solid black;padding:0px 30px 30px 30px;">
+                Bordure (border)
+                <div style="border: 1px solid black;padding:0px 30px 30px 30px;">
+                  Remplissage (padding)
+                  <div style="border: 1px dashed black;padding:45px;">
+                    Zone de contenu
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section>
+            <h1>Modèle de boîte CSS</h1>
+            <p style="margin:0px;padding:0px;border:1px solid black;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.</p>
+            <p style="margin:30px;padding:20px;border:10px solid black;">Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.</p>
+            <ul>
+              <li>Premier paragraphe : <code>margin:0px; padding:0px; border:1px;</code></li>
+              <li>Second paragraphe : <code>margin:30px; padding:20px; border:10px;</code></li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Showcase HTML5+CSS3</h1>
+            <ul>
+              <li><a href="http://beta.theexpressiveweb.com">http://beta.theexpressiveweb.com</a></li>
+            </ul>
+          </section>
+
+          <section>
+            <h1>Récapitulatif</h1>
+            <ul>
+              <li>HTTP
+                <ul>
+                  <li><em>Protocole de communication</em> client-serveur</li>
+                </ul>
+              </li>
+              <li>HTML
+                <ul>
+                  <li><em>Langage de balisage</em> conçu pour représenter les pages Web</li>
+                </ul>
+              </li>
+              <li>CSS
+                <ul>
+                  <li>Sert à <em>décrire la présentation</em> des documents HTML</li>
+                </ul>
+              </li>
+              <li><em>Séparation</em> entre le contenu (HTML) et la forme (CSS)</li>
+            </ul>
+          </section>
+
+      </div>
+    </div>
+
+    <script src="reveal.js/lib/js/head.min.js"></script>
+    <script src="reveal.js/js/reveal.min.js"></script>
+
+    <script>
+
+    // Full list of configuration options available here:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+    controls: false,
+    progress: true,
+    history: true,
+    center: true,
+    slideNumber: true,
+
+    theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+    transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
+
+    // Parallax scrolling
+    // parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
+    // parallaxBackgroundSize: '2100px 900px',
+
+    // Optional libraries used to extend on reveal.js
+    dependencies: [
+    { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+    { src: 'reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+    { src: 'reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+    { src: 'reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+    { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+    { src: 'reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+    ]
+    });
+
+    </script>
+
+  </body>
+
+</html>

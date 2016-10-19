@@ -1,0 +1,192 @@
+@import url(http://fonts.googleapis.com/css?family=Gentium+Basic);
+
+/*********************************************
+ * GLOBAL STYLES
+ *********************************************/
+body {
+  background: white;
+  background-color: white; }
+
+.reveal {
+  font-family: 'Gentium Basic', georgia, serif;
+  font-size: 36px;
+  font-weight: normal;
+  color: black; }
+
+.reveal em {
+  color: Crimson;
+}
+
+.reveal pre {
+  width: 100%;
+}
+
+.reveal pre code {
+  max-height: 100%;
+}
+
+/* Style des tables de requêtes http */
+
+table.http {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+table.http td, table.http th {
+  padding: 10px;
+}
+
+table.http th {
+  border-right: 1px dashed white;
+}
+
+table.booktabs {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+table.booktabs td, table.booktabs th {
+  border: 2px solid black;
+  padding: 5px;
+}
+
+table.booktabs th {
+  font-weight: bold;
+  color: Crimson;
+}
+
+
+.reveal ul ul li, .reveal ul ol li, .reveal ol ul li, .reveal ol ol li  {
+  font-size: 90%;
+  margin: 0px;
+}
+
+.reveal ul ul li:last-child, .reveal ul ol li:last-child, .reveal ol ul li:last-child, .reveal ol ol li:last-child  {
+  margin-bottom: 10px;
+}
+
+::selection {
+  color: white;
+  background: rgba(0, 0, 0, 0.99);
+  text-shadow: none; }
+
+/*********************************************
+ * HEADERS
+ *********************************************/
+.reveal h1 {
+  font-size: 190%;
+  margin-bottom: 30px;
+  color: #570F58;
+  font-weight: bold;
+}
+
+.reveal h2 {
+  font-size: 150%;
+  margin-bottom: 30px;
+}
+
+.reveal h3 {
+  font-size: 125%;
+  margin-bottom: 20px;
+}
+
+.reveal h4 {
+  font-size: 110%;
+  margin-bottom: 10px;
+}
+
+
+/*********************************************
+ * LINKS
+ *********************************************/
+.reveal a:not(.image) {
+  color: darkblue;
+  text-decoration: none;
+  -webkit-transition: color .15s ease;
+  -moz-transition: color .15s ease;
+  -ms-transition: color .15s ease;
+  -o-transition: color .15s ease;
+  transition: color .15s ease; }
+
+.reveal a:not(.image):hover {
+  color: #0000f1;
+  text-shadow: none;
+  border: none; }
+
+.reveal .roll span:after {
+  color: #fff;
+  background: #00003f; }
+
+/*********************************************
+ * IMAGES
+ *********************************************/
+.reveal section img {
+  margin: 15px 0px;
+}
+
+.reveal a:hover img {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: darkblue;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
+
+/*********************************************
+ * NAVIGATION CONTROLS
+ *********************************************/
+.reveal .controls div.navigate-left,
+.reveal .controls div.navigate-left.enabled {
+  border-right-color: darkblue; }
+
+.reveal .controls div.navigate-right,
+.reveal .controls div.navigate-right.enabled {
+  border-left-color: darkblue; }
+
+.reveal .controls div.navigate-up,
+.reveal .controls div.navigate-up.enabled {
+  border-bottom-color: darkblue; }
+
+.reveal .controls div.navigate-down,
+.reveal .controls div.navigate-down.enabled {
+  border-top-color: darkblue; }
+
+.reveal .controls div.navigate-left.enabled:hover {
+  border-right-color: #0000f1; }
+
+.reveal .controls div.navigate-right.enabled:hover {
+  border-left-color: #0000f1; }
+
+.reveal .controls div.navigate-up.enabled:hover {
+  border-bottom-color: #0000f1; }
+
+.reveal .controls div.navigate-down.enabled:hover {
+  border-top-color: #0000f1; }
+
+/*********************************************
+ * PROGRESS BAR
+ *********************************************/
+.reveal .progress {
+  background: rgba(0, 0, 0, 0.2); }
+
+.reveal .progress span {
+  background: darkblue;
+  -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  -ms-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  -o-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985); }
+
+/*********************************************
+ * SLIDE NUMBER
+ *********************************************/
+.reveal .slide-number {
+  color: darkblue; }
+
+/*********************************************
+* bullet lists
+*********************************************/
+.reveal li {
+  margin-bottom: 15px;
+}
+
+.reveal li.shadow {
+  opacity: 0.3;
+}
