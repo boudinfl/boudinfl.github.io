@@ -10,8 +10,8 @@ permalink: /research/
 My research interests are in Natural Language Processing, Information Retrieval
 and Machine Learning. I am currently working on:
 
-* Keyphrase Extraction
-* Text Summarization and Multi-sentence Compression
+* Keyphrase Extraction and Text Summarization
+* Graph-based approaches for Natural Language Processing
 * Cross-Lingual Natural Language Processing
 * Developing tools and ressources for French NLP
 

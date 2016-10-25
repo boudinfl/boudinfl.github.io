@@ -10,9 +10,10 @@
 
 body {
 	font-family: Lucida, Lucida Bright, Lucida Sans, Lucida Sans Unicode, serif;
-	font-size: 12pt;
+	font-size: 13pt;
 	margin: 5px 0px 5px 0px;
 	line-height: 1.5;
+	background-color: #FFFFFF;
 }
 
 h1, h2, h3, h4 {
@@ -21,10 +22,11 @@ h1, h2, h3, h4 {
 
 h1 {
 	font-size: 130%;
-	margin-bottom: 15px;
+	margin: 10px 0px 15px 0px;
 }
 
 #name {
+	margin-top: 0px;
 	font-weight: bold;
 	font-size: 150%;
 }
@@ -35,7 +37,7 @@ h1 {
 
 h2 {
 	font-size: 120%;
-	margin-bottom: 10px;
+	margin: 5px 0px 10px 0px;
 }
 
 h3 {
@@ -48,7 +50,7 @@ p {
 }
 
 ul {
-	margin-bottom: 10px;
+	margin-bottom: 15px;
 	margin-left: 15px;
 }
 
@@ -98,7 +100,7 @@ nav {
 	border-top: 1px solid #AAA;
 	border-bottom: 1px solid #AAA;
 	text-align: center;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 }
 
 nav ul {
@@ -112,6 +114,8 @@ nav ul li {
 	display: table-cell;
 	text-align: center;
 	width: 14.28%;
+	height: 2em;
+	line-height: 2em;
 }
 
 nav ul li.active {

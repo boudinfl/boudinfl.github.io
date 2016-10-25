@@ -12,6 +12,10 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .bibliography}
 
+- **How Document Pre-processing affects Keyphrase Extraction Performance.**\\
+  Florian Boudin, Hugo Mougard and Damien Cram.\\
+  *COLING 2016 Workshop on Noisy User-generated Text (WNUT).* 
+
  - **pke: an open source python-based keyphrase extraction toolkit.**\\
    Florian Boudin.\\
    *International Conference on Computational Linguistics (COLING), demonstration papers, 2016.*
