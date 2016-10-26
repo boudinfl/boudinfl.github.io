@@ -10,9 +10,10 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 # 2016
 {: .underline}
 
-   {: .bibliography}
+   {: .block}
 
-- **How Document Pre-processing affects Keyphrase Extraction Performance.**\\
+- **How Document Pre-processing affects Keyphrase Extraction Performance.**
+  [[arXiv](https://arxiv.org/abs/1610.07809)]\\
   Florian Boudin, Hugo Mougard and Damien Cram.\\
   *COLING 2016 Workshop on Noisy User-generated Text (WNUT).* 
 
@@ -43,7 +44,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 # 2015
 {: .underline}
 
-   {: .bibliography}
+   {: .block}
 
  - **[Concept-based Summarization using Integer Linear Programming: From Concept Pruning to Multiple Optimal Solutions](http://aclweb.org/anthology/D15-1220).**
    [[bib](http://aclweb.org/anthology/D15-1220.bib)]\\
@@ -63,7 +64,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 # 2014
 {: .underline}
 
-   {: .bibliography}
+   {: .block}
 
  - **[TopicRank : ordonnancement de sujets pour l’extraction automatique de termes-clés](http://www.atala.org/IMG/pdf/2._Bougoin-TAL55-1.pdf).**\\
    Adrien Bougouin, Florian Boudin.\\
@@ -84,7 +85,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 # 2013
 {: .underline}
 
-   {: .bibliography}
+   {: .block}
 
  - **[TopicRank: Graph-Based Topic Ranking for Keyphrase Extraction](http://aclweb.org/anthology/I13-1062).**
    [[bib](http://aclweb.org/anthology/I13-1062.bib)]\\
@@ -121,7 +122,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 # 2012
 {: .underline}
 
-   {: .bibliography}
+   {: .block}
 
  - **[Using a Medical Thesaurus to Predict Query Difficulty](/data/articles/boudin_ecir12.pdf).**\\
    Florian Boudin, Jian-Yun Nie, Martin Dawes.\\
@@ -143,7 +144,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 # 2011
 {: .underline}
 
-   {: .bibliography}
+   {: .block}
 
  - **[A Graph-based Approach to Cross-language Multi-document Summarization](http://polibits.gelbukh.com/2011_43/43_16.pdf).**\\
    Florian Boudin, Stéphane Huet, Juan-Manuel Torres-Moreno.\\
@@ -164,7 +165,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 # 2010
 {: .underline}
 
-   {: .bibliography}
+   {: .block}
 
  - **[Combining classifiers for robust PICO element detection](http://www.biomedcentral.com/1472-6947/10/29).**\\
    Florian Boudin, Jian-Yun Nie, Joan Bartlett, Roland Grad, Pierre Pluye, Martin Dawes.\\
@@ -192,7 +193,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 # 2009
 {: .underline}
 
-   {: .bibliography}
+   {: .block}
 
  - **[Résumé automatique multi-document et indépendance de la langue : une première évaluation en français](http://www.atala.org/taln_archives/TALN/TALN-2009/taln-2009-court-035.pdf).**\\
    Florian Boudin, Juan-Manuel Torres-Moreno. \\
@@ -205,7 +206,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 # 2008
 {: .underline}
 
-   {: .bibliography}
+   {: .block}
 
  - **[A Scalable MMR Approach to Sentence Scoring for Multi-Document Update Summarization](http://aclweb.org/anthology/C08-2006).**
    [[bib](http://aclweb.org/anthology/C08-2006.bib)]\\
@@ -231,7 +232,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 # 2007
 {: .underline}
 
-   {: .bibliography}
+   {: .block}
 
  - **[A Cosine Maximization Minimization approach for User Oriented Multi-Document Update Summarization](/data/articles/boudin_ranlp07.pdf).**\\
    Florian Boudin, Juan-Manuel Torres-Moreno.\\
@@ -248,7 +249,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 # 2006
 {: .underline}
 
-   {: .bibliography}
+   {: .block}
 
  - **[The LIA-Thales summarization system at DUC-2006](http://www-nlpir.nist.gov/projects/duc/pubs/2006papers/LIA-Thales_Duc06_final.pdf).**\\
    Benoit Favre, Frederic Béchet, Patrice Bellot, Florian Boudin, Marc El-Beze, Laurent Gillard, Guy Lapalme, Juan-Manuel Torres-Moreno.\\

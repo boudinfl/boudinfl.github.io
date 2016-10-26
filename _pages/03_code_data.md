@@ -19,8 +19,8 @@ permalink: /code/
   If you use this toolkit, please cite:
 
    - **`pke`: an open source python-based keyphrase extraction toolkit.** Florian
-   Boudin. *International Conference on Computational Linguistics (COLING), 
-   demonstration papers, 2016.*
+     Boudin. *International Conference on Computational Linguistics (COLING), 
+     demonstration papers, 2016.*
 
 - [`takahe`](https://github.com/boudinfl/takahe)
 
