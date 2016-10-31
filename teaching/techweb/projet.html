@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Technologies Web 1 - Projet</title>
+        <style>
+         @import url(http://fonts.googleapis.com/css?family=Coming+Soon);
+
+         body {
+             font-family: 'Coming Soon', cursive;
+         }
+
+         article {
+             padding-left: 20px;
+         }
+
+         nav ol {
+             list-style-position: inside;
+             padding: 0px;
+         }
+
+         nav ol ol {
+             padding-left: 20px;
+         }
+
+         nav ol li {
+             padding-left: 5px;
+         }
+
+         li.intro, li.html_css, li.js, li.rendu {
+             margin-bottom: 20px;
+         }
+
+         article#intro, li.intro {
+             border-left: 3px solid blue;
+             background: #F0FFFF;
+         }
+
+         article#html_css, li.html_css {
+             border-left: 3px solid GoldenRod;
+             background: #FFFFF0;
+         }
+
+         article#js, li.js {
+             border-left: 3px solid Crimson;
+             background: #FFF0FF;
+         }
+
+         article#rendu, li.rendu {
+             border-left: 3px solid ForestGreen;
+             background: #EEFFEE;
+         }
+
+         /* article#ex5, li.ex5 {
+             border-left: 3px solid DarkSlateBlue ;
+             background: #EEEEFF;
+         } */
+
+         article h2, nav h2 {
+             border-bottom: 1px solid DarkGray;
+         }
+
+         code {
+             font-size: 120%;
+         }
+
+         img.screenshot {
+             width: 480px;
+         }
+
+        </style>
+    </head>
+    <body>
+
+        <header>
+            <h1>Technologies Web 1 - Projet</h1>
+        </header>
+
+        <section>
+
+            <nav>
+                <h2>Sommaire</h2>
+                <ol>
+                    <li class="intro"><a href="#intro">Introduction</a></li>
+                    <li class="html_css"><a href="#html_css">Structure en HTML 5 et CSS 3</a></li>
+                    <li class="js"><a href="#js">Données et interactivité en Javascript</a></li>
+                    <li class="rendu"><a href="#rendu">Rendu</a>
+                    </li>
+                </ol>
+            </nav>
+
+            <article id="intro">
+
+                <h2>Introduction</h2>
+
+                <p>Les APIs sont centrales dans le web moderne. Tous
+                    les principaux services en exposent et il n'est
+                    pas rare d'en coordonner plusieurs dizaines pour
+                    réaliser un site. Ce projet vous fera manipuler
+                    l'API de <a>reddit</a>, un forum orienté partage
+                    de liens. Vous devrez l'utiliser pour produire un
+                    site complet en HTML 5, CSS 3 et javascript
+                    (ECMAScript 6).</p>
+                <p>À partir des spécifications et maquettes données
+                    ci-dessous, vous devrez concevoir un client pour
+                    le sous reddit <a href="https://www.reddit.com/r/pics">/r/Pics</a>.</p>
+
+                <h3 id="intro_1">Exemples</h3>
+
+                <p>De nombreux projets utilisent l'API reddit, que ce
+                    soit pour y maintenir des robots qui effectuent
+                    diverses tâches (voir
+                    <a href="https://www.reddit.com/r/botwatch/">/r/botwatch</a>)
+                    ou pour extraire des informations spécifiques pour
+                    les utiliser dans un site externe. Dans ce dernier
+                    cas d'utilisation (celui qui nous intéresse), on
+                    peut par exemple trouver
+                    <a href="http://www.imagoid.com/">Imagoid</a> ou
+                    encore <a href="http://redditpics.com">RedditPics</a>&nbsp;:</p>
+
+                <img class="screenshot" src="img/imagoid.com.png">
+                <br>
+                <img class="screenshot" src="img/redditpics.com.png">
+
+            </article>
+            <article id="html_css">
+                <h2>Structure en HTML 5 et CSS 3</h2>
+
+                <p>L'objectif premier de ce projet est d'appliquer les
+                    connaissances que vous avez acquises lors des
+                    séances précédentes. Pour cela, vous devez écrire
+                    une interface web en utilisant <b>uniquement</b> HTML
+                    5/CSS 3. Un exemple d'interface est illustré
+                    ci-dessous.</p>
+
+                <img class="screenshot" src="img/exemple-interface.jpg">
+
+                <p>Vous êtes libres de créer le positionnement et les
+                    effets que vous souhaitez mais en respectant les
+                    contraintes suivantes&nbsp;:</p>
+
+                <ul>
+                    <li>Utiliser les nouveautés introduites par HTML 5
+                        (e.g. balises sémantiques) et CSS 3
+                        (e.g. dégradés, transformations).</li>
+                    <li>Ne pas utiliser Javascript pour l'interface.</li>
+                    <li>Utiliser les <code>media queries</code> pour
+                        adapter l'interface aux petites résolutions.</li>
+                    <li>Produire du code <a href="https://validator.w3.org/">HTML</a>
+                        et <a href="https://jigsaw.w3.org/css-validator/">CSS</a>
+                        valide.</li>
+                </ul>
+
+                <p>Le rendu de cette partie comprend&nbsp;:</p>
+                <ul>
+                    <li>un fichier <code>interface.html</code> de
+                        démonstration, sans Javascript, où vous
+                        utiliserez des images (placées dans le dossier <code>img_test</code>)
+                        et métadonées de test pour faire la
+                        présentation de votre interface;</li>
+                    <li>les fichiers CSS nécessaires, placés dans un
+                        dossier nommé <code>css</code>.</li>
+                </ul>
+            </article>
+            <article id="js">
+
+                <h2>Données et interactivité en Javascript</h2>
+
+                <p>Dans le même esprit que la partie précédente,
+                    l'objectif de la partie Javascript de ce projet
+                    est d'appliquer les notions que vous avez
+                    découvertes ou approfondies durant le cours et les
+                    tutoriels suivis en ligne.</p>
+
+                <p>Vous devez dans cette partie&nbsp;:</p>
+
+                <ol>
+                    <li>récupérer les données nécessaires au
+                        fonctionnement de votre client (images,
+                        légendes, scores, dates) grâce à l'API de
+                        reddit;</li>
+                    <li>les filtrer et les ordonner en fonction des
+                        sélections des menus de contrôle de la taille
+                        et du tri;</li>
+                    <li>les afficher dans l'interface réalisée dans la
+                        partie précédente du cours.</li>
+                </ol>
+
+                <p>Votre travail devra être réalisé en ECMAScript
+                    6. Vous pourrez de plus vous aider de librairies
+                    externes (à valider avec l'encadrant). Parmi
+                    celles-ci, citons&nbsp;:</p>
+                <ul>
+                    <li><a href="https://facebook.github.io/react/">React</a> pour
+                        la construction de l'interface utilisateur;</li>
+                    <li><a href="https://lodash.com/">lodash</a> pour
+                        manipuler efficacement les données;</li>
+                    <li><a href="https://jquery.com/">jQuery</a> pour
+                        récupérer facilement les JSONs de l'API
+                        reddit.</li>
+                </ul>
+
+                <p>Le rendu de cette partie comprend&nbsp;:</p>
+                <ul>
+                    <li>un fichier <code>app.html</code> basé sur <code>interface.html</code> qui
+                        implémente les spécifications données
+                        ci-dessus;</li>
+                    <li>les fichiers de script (<code>js</code> voire <code>jsx</code>),
+                        placés dans un dossier nommé <code>js</code>;</li>
+                    <li>les fichiers nécessaire à la construction du
+                        fichier <code>js</code> utilisé par <code>app.html</code>;</li>
+                    <li><strong>un <code>README</code> détaillant la
+                        procédure à suivre</strong> pour rendre
+                        l'application utilisable.</li>
+                </ul>
+            </article>
+            <article id="rendu">
+                <h2>Rendu</h2>
+                <p>Vous rendrez l'entièreté de votre projet sur le
+                    Madoc du cours sous la forme d'un fichier <code>.zip</code>. Celui-ci
+                    devra contenir un seul dossier nommé <code>NOM_PRENOM-NOM2_PRENOM2</code>
+                    qui sera la racine de votre projet.</p>
+
+                <p>Votre projet aura donc la forme&nbsp;:</p>
+
+                <code><pre>
+NOM_PRENOM-NOM2_PRENOM2/css/*
+                        js/*
+                        img_test/*
+                        interface.html
+                        app.html
+                        README(.*)
+                        *
+</pre></code>
+                <p>Nous vous prions de respecter cette architecture
+                    pour rendre la correction possible.</p>
+            </article>
+        </section>
+
+        <footer>
+            <p>Florian Boudin & Hugo Mougard - 2013-15</p>
+        </footer>
+
+    </body>
+</html>
