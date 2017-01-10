@@ -12,16 +12,18 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
-- **How Document Pre-processing affects Keyphrase Extraction Performance.**
-  [[arXiv](https://arxiv.org/abs/1610.07809)]\\
+- **[How Document Pre-processing affects Keyphrase Extraction Performance](http://aclweb.org/anthology/W16-3917.pdf).**
+  [[arXiv](https://arxiv.org/abs/1610.07809), [bib](http://aclweb.org/anthology/W16-3917.bib)]\\
   Florian Boudin, Hugo Mougard and Damien Cram.\\
   *COLING 2016 Workshop on Noisy User-generated Text (WNUT).* 
 
- - **pke: an open source python-based keyphrase extraction toolkit.**\\
+ - **[pke: an open source python-based keyphrase extraction toolkit](http://aclweb.org/anthology/C16-2015.pdf).**
+   [[bib](http://aclweb.org/anthology/C16-2015.bib)]\\
    Florian Boudin.\\
    *International Conference on Computational Linguistics (COLING), demonstration papers, 2016.*
 
- - **Keyphrase Annotation with Graph Co-Ranking.**\\
+ - **[Keyphrase Annotation with Graph Co-Ranking](http://aclweb.org/anthology/C16-1277.pdf).**
+   [[bib](http://aclweb.org/anthology/C16-1277.bib)]\\
    Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
    *International Conference on Computational Linguistics (COLING), 2016.*
 
@@ -46,17 +48,17 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[Concept-based Summarization using Integer Linear Programming: From Concept Pruning to Multiple Optimal Solutions](http://aclweb.org/anthology/D15-1220).**
+ - **[Concept-based Summarization using Integer Linear Programming: From Concept Pruning to Multiple Optimal Solutions](http://aclweb.org/anthology/D15-1220.pdf).**
    [[bib](http://aclweb.org/anthology/D15-1220.bib)]\\
    Florian Boudin, Hugo Mougard, Benoit Favre.\\
    *Conference on Empirical Methods in Natural Language Processing (EMNLP), 2015.*
 
- - **[Reducing Over-generation Errors for Automatic Keyphrase Extraction using Integer Linear Programming](http://aclweb.org/anthology/W15-3605).**
+ - **[Reducing Over-generation Errors for Automatic Keyphrase Extraction using Integer Linear Programming](http://aclweb.org/anthology/W15-3605.pdf).**
    [[bib](http://aclweb.org/anthology/W15-3605.bib)]\\
    Florian Boudin.\\
    *Workshop on Novel Computational Approaches to Keyphrase Extraction, 2015.*
 
- - **[LINA: Identifying Comparable Documents from Wikipedia](http://aclweb.org/anthology/W15-3413).**
+ - **[LINA: Identifying Comparable Documents from Wikipedia](http://aclweb.org/anthology/W15-3413.pdf).**
    [[bib](http://aclweb.org/anthology/W15-3413.bib)]\\
    Emmanuel Morin, Amir Hazem, Florian Boudin, Elizaveta Loginova-Clouet.\\
    *Eighth Workshop on Building and Using Comparable Corpora (BUCC), 2015.*
@@ -87,17 +89,17 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[TopicRank: Graph-Based Topic Ranking for Keyphrase Extraction](http://aclweb.org/anthology/I13-1062).**
+ - **[TopicRank: Graph-Based Topic Ranking for Keyphrase Extraction](http://aclweb.org/anthology/I13-1062.pdf).**
    [[bib](http://aclweb.org/anthology/I13-1062.bib)]\\
    Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
    *International Joint Conference on Natural Language Processing (IJCNLP), 2013.*
 
- - **[A Comparison of Centrality Measures for Graph-Based Keyphrase Extraction](http://aclweb.org/anthology/I13-1102).**
+ - **[A Comparison of Centrality Measures for Graph-Based Keyphrase Extraction](http://aclweb.org/anthology/I13-1102.pdf).**
    [[bib](http://aclweb.org/anthology/I13-1102.bib)]\\
    Florian Boudin.\\
    *International Joint Conference on Natural Language Processing (IJCNLP), 2013.*
 
- - **[Keyphrase Extraction for N-best Reranking in Multi-Sentence Compression](http://aclweb.org/anthology/N13-1030).**
+ - **[Keyphrase Extraction for N-best Reranking in Multi-Sentence Compression](http://aclweb.org/anthology/N13-1030.pdf).**
    [[bib](http://aclweb.org/anthology/N13-1030.bib), [dataset](https://github.com/boudinfl/lina-msc), [code](https://github.com/boudinfl/takahe)]\\
    Florian Boudin, Emmanuel Morin.\\
    *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2013.*
@@ -136,7 +138,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    Romain Deveaud, Florian Boudin.\\
    *INitiative for the Evaluation of XML Retrieval (INEX), 2012.*
 
- - **[Participation du LINA à DEFT2012 (LINA at DEFT2012)](http://aclweb.org/anthology/W12-1107).**
+ - **[Participation du LINA à DEFT2012 (LINA at DEFT2012)](http://aclweb.org/anthology/W12-1107.pdf).**
    [[bib](http://aclweb.org/anthology/W12-1107.bib)]\\
    Florian Boudin, Amir Hazem, Nicolas Hernandez, Prajol Shrestha.\\
    *Défi Fouille de Textes (DEFT), 2012.*
@@ -171,12 +173,12 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    Florian Boudin, Jian-Yun Nie, Joan Bartlett, Roland Grad, Pierre Pluye, Martin Dawes.\\
    *BMC Medical Informatics and Decision Making, 2010.*
 
- - **[Positional Language Models for Clinical Information Retrieval](http://aclweb.org/anthology/D10-1011).**
+ - **[Positional Language Models for Clinical Information Retrieval](http://aclweb.org/anthology/D10-1011.pdf).**
    [[bib](http://aclweb.org/anthology/D10-1011.bib), [dataset](https://github.com/boudinfl/CLIREC)]\\
    Florian Boudin, Jian-Yun Nie, Martin Dawes.\\
    *Conference on Empirical Methods in Natural Language Processing (EMNLP), 2010.*
 
- - **[Clinical Information Retrieval using Document and PICO Structure](http://www.aclweb.org/anthology/N10-1124).**
+ - **[Clinical Information Retrieval using Document and PICO Structure](http://www.aclweb.org/anthology/N10-1124.pdf).**
    [[bib](http://aclweb.org/anthology/N10-1124.bib), [dataset](https://github.com/boudinfl/CLIREC)]\\
    Florian Boudin, Jian-Yun Nie, Martin Dawes.\\
    *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2010.*
@@ -208,7 +210,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[A Scalable MMR Approach to Sentence Scoring for Multi-Document Update Summarization](http://aclweb.org/anthology/C08-2006).**
+ - **[A Scalable MMR Approach to Sentence Scoring for Multi-Document Update Summarization](http://aclweb.org/anthology/C08-2006.pdf).**
    [[bib](http://aclweb.org/anthology/C08-2006.bib)]\\
    Florian Boudin, Marc El-Bèze, Juan-Manuel Torres-Moreno.\\
    *International Conference on Computational Linguistics (COLING), 2008.*
