@@ -13,12 +13,16 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    {: .block}
 
 - **[How Document Pre-processing affects Keyphrase Extraction Performance](http://aclweb.org/anthology/W16-3917.pdf).**
-  [[arXiv](https://arxiv.org/abs/1610.07809), [bib](http://aclweb.org/anthology/W16-3917.bib)]\\
+  [[arXiv](https://arxiv.org/abs/1610.07809),
+   [bib](http://aclweb.org/anthology/W16-3917.bib),
+   [code](https://github.com/boudinfl/pke),
+   [dataset](https://github.com/boudinfl/semeval-2010-pre)]\\
   Florian Boudin, Hugo Mougard and Damien Cram.\\
   *COLING 2016 Workshop on Noisy User-generated Text (WNUT).* 
 
  - **[pke: an open source python-based keyphrase extraction toolkit](http://aclweb.org/anthology/C16-2015.pdf).**
-   [[bib](http://aclweb.org/anthology/C16-2015.bib)]\\
+   [[bib](http://aclweb.org/anthology/C16-2015.bib),
+    [code](https://github.com/boudinfl/pke)]\\
    Florian Boudin.\\
    *International Conference on Computational Linguistics (COLING), demonstration papers, 2016.*
 
