@@ -2,11 +2,11 @@
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
+# yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -17,24 +17,18 @@ title: Florian Boudin
 email: florian.boudin@univ-nantes.fr
 description: > # this means to ignore newlines until "baseurl:"
   Home page of Florian Boudin.
-
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: boudinfl
 github_username:  boudinfl
-
-include: ['_pages']
-
-gems: ['jekyll/scholar']
-
-scholar:
-  style: apa
-  source: _bibliography
-  bibliography: bibliography
-  bibliography_list_tag: ul
-  bibliography_template: custom_bib
 
 # Build settings
 markdown: kramdown
 theme: minima
+# theme: jekyll-theme-cayman
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+include: ['_pages']
