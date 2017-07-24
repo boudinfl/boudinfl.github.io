@@ -5,14 +5,27 @@ $content-width: 1024px;
 $on-palm: 800px;
 $on-laptop: 1024px;
 
-@import "minima";
+@import "{{ site.theme }}";
 
 body {
 	line-height: 1.5;
 }
 
+#courriel {
+	font-family: monospace;
+}
+
+.site-header {
+	background: #cb2431;
+	
+}
+
 p {
-	 text-align: justify;
+	text-align: justify;
+}
+
+p.decalage {
+	margin-left: 220px;
 }
 
 .site-footer {
@@ -20,6 +33,7 @@ p {
 	color: #CCC;
 	font-style:italic;
 	font-size: 80%;
+	//border: 0px;
 }
 
 h1 {
@@ -69,10 +83,16 @@ ul li ul li {
 }
 
 #img-thumbnail {
-	float: right;
+	position: absolute;
 	max-width: 200px;
     height: auto;
-    margin: auto 0px auto 20px;
+    margin: auto 0px;
 	border: 1px solid black;
 	border-radius: 5px;
 }
+
+.site-nav .page-link {
+	color: #EEE;
+	font-weight: 500;
+}
+

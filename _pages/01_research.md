@@ -12,8 +12,6 @@ and Machine Learning. I am currently working on:
 
 * Keyphrase Extraction and Text Summarization
 * Graph-based approaches for Natural Language Processing
-* Cross-Lingual Natural Language Processing
-* Developing tools and ressources for French NLP
 
 # Research projects
 {: .underline}
