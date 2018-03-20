@@ -7,12 +7,36 @@ permalink: /publications/
 Below is a list of my publications organized by date.
 You can also find my [Google Scholar profile](http://scholar.google.com/citations?user=Vk68rbkAAAAJ&hl=en).
 
+# 2018
+{: .underline}
+
+   {: .block}
+
+ - **Unsupervised Keyphrase Extraction with Multipartite Graphs.**\\
+   Florian Boudin.\\
+   *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2018*
+
+# 2017
+{: .underline}
+
+   {: .block}
+
+ - **[Modélisation à base de graphe pour l’indexation en domaines de spécialité](https://www.openscience.fr/IMG/pdf/iste_ridows17v1n2.pdf).**
+   [[bib](https://www.openscience.fr/spip.php?page=article.bib&id_article=869)] \\
+   Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
+   *Recherche d'information, document et web sémantique, 2017*
+
+ - **[Présentation et résultats du défi fouille de textes DEFT 2016](https://www.openscience.fr/IMG/pdf/iste_ridows17v1n3.pdf).**
+   [[bib](https://www.openscience.fr/spip.php?page=article.bib&id_article=871)] \\
+   Béatrice Daille, Sabine Barreaux, Adrien Bougouin, Florian Boudin, Damien Cram, Amir Hazem.\\
+   *Recherche d'information, document et web sémantique, 2017*
+
 # 2016
 {: .underline}
 
    {: .block}
 
-- **[How Document Pre-processing affects Keyphrase Extraction Performance](http://aclweb.org/anthology/W16-3917.pdf).**
+ - **[How Document Pre-processing affects Keyphrase Extraction Performance](http://aclweb.org/anthology/W16-3917.pdf).**
   [[arXiv](https://arxiv.org/abs/1610.07809),
    [bib](http://aclweb.org/anthology/W16-3917.bib),
    [code](https://github.com/boudinfl/pke),
@@ -44,7 +68,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    *Défi Fouille de Textes (DEFT), 2016.*
    
  - **[TopicRank en domaines de spécialité : participation du LINA à DEFT 2016](https://jep-taln2016.limsi.fr/actes/Actes%20JTR-2016/Papers/Ateliers/DEFT-6.pdf).**\\
-   Adrien Bougouin, Florian Boudin, Béatrice Daille. 2016.\\
+   Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
    *Défi Fouille de Textes (DEFT), 2016.*
 
 # 2015
