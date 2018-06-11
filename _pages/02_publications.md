@@ -12,7 +12,9 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **Unsupervised Keyphrase Extraction with Multipartite Graphs.**\\
+ - **[Unsupervised Keyphrase Extraction with Multipartite Graphs](http://aclweb.org/anthology/N18-2105.pdf).**
+ [[arXiv](https://arxiv.org/abs/1803.08721),
+  [bib](http://aclweb.org/anthology/N18-2105.bib)]\\
    Florian Boudin.\\
    *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2018*
 
