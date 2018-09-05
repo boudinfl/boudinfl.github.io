@@ -9,6 +9,8 @@ permalink: /students/
 
 ## Ph.D. Students
 
+- [Ygor Gallina](https://github.com/ra1nbowpill) (2018-) working on Keyphrase Extraction.
+
 - [Adrien Bougouin](http://adrien-bougouin.github.io/) (2015; now software engineer at Minimal Technologies, Tokyo) worked on Graph-based Ranking Approaches for Keyphrase Extraction. His Ph.D. thesis is available [here](/data/students/phd_thesis_adrien-bougouin.pdf).
 
 ## M.S. Students
