@@ -14,5 +14,5 @@ Currently, I'm doing research at the [LS2N Lab](http://www.ls2n.fr) in the [TALN
 I do some [teaching]({{ site.baseurl }}/teaching/) too.
 {: .decalage}
 
-**trajectory:** grad student at [LIA, Université d'Avignon](http://lia.univ-avignon.fr) &rarr; post-doc at [RALI, Université de Montréal](http://rali.iro.umontreal.ca) &rarr; associate professor at [LS2N, Université de Nantes](http://www.ls2n.fr).
+**trajectory:** grad student at [LIA, Université d'Avignon](http://lia.univ-avignon.fr) &rarr; post-doc at [RALI, Université de Montréal](http://rali.iro.umontreal.ca) &rarr; associate professor at [LS2N, Université de Nantes](http://www.ls2n.fr) &rarr; visiting researcher at [Aizawa lab, National Institute of Informatics](http://www-al.nii.ac.jp/).
 {: .decalage}
