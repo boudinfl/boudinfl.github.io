@@ -25,6 +25,9 @@ permalink: /code/
 # Datasets
 {: .underline}
 
+ - [A Large-Scale Dataset for Keyphrase Generation on News Documents (KPNews)](https://github.com/ygorg/KPTimes)  
+   A large-scale dataset of 279,923 news texts paired with editor-curated keyphrases for training and evaluating neural keyphrase generation models on the news domain.
+
  - [Preprocessed SemEval-2010 benchmark dataset](https://github.com/boudinfl/semeval-2010-pre)  
    The SemEval-2010 benchmark dataset for automatic keyphrase extraction already preprocessed at four increasingly sophisticated levels of linguistic preprocessing.
 

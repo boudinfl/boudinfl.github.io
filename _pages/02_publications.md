@@ -7,6 +7,22 @@ permalink: /publications/
 Below is a list of my publications organized by date.
 You can also find my [Google Scholar profile](http://scholar.google.com/citations?user=Vk68rbkAAAAJ&hl=en).
 
+# 2019
+{: .underline}
+
+   {: .block}
+
+ - **[KPTimes: A Large-Scale Dataset for Keyphrase Generation on News Documents](https://www.inlg2019.com/assets/papers/96_Paper.pdf).**
+ [[dataset](https://github.com/ygorg/KPTimes)]\\
+   Ygor Gallina, Florian Boudin, Béatrice Daille.\\
+   *International Conference on Natural Language Generation (INLG), 2019*
+
+ - **[DeFT 2019: Auto-encodeurs, Gradient Boosting et combinaisons de modèles pour l'identification automatique de mots-clés](https://www.irit.fr/pfia2019/wp-content/uploads/2019/07/actes_DEFT_CH_PFIA2019.pdf).**
+   \\
+   Mérième Bouhandi, Florian Boudin, Ygor Gallina.\\
+   *Défi Fouille de Textes (DEFT), 2019*
+
+
 # 2018
 {: .underline}
 
