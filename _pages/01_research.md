@@ -16,7 +16,7 @@ and Machine Learning. I am currently working on:
 # Research projects
 {: .underline}
 
-* 2020-2024 -- DELICES - Indexer la littérature scientifique par expansion sémantique
+* 2020-2024 -- [DELICES - Indexer la littérature scientifique par expansion sémantique](https://anr-delices.github.io/)
 * 2019 -- IKEBANA - Improving Keyphrase Extraction By Adopting Neural Architectures
 * 2016 -- [TALIAS - Natural Language Processing for indexing scientific articles](https://boudinfl.github.io/talias/)
 * 2015 -- [GOLEM - Keyphrase Extraction with Integer Linear Programming](http://boudinfl.github.io/golem/)

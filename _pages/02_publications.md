@@ -12,8 +12,9 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[KPTimes: A Large-Scale Dataset for Keyphrase Generation on News Documents](https://www.inlg2019.com/assets/papers/96_Paper.pdf).**
- [[dataset](https://github.com/ygorg/KPTimes)]\\
+ - **[KPTimes: A Large-Scale Dataset for Keyphrase Generation on News Documents](https://www.aclweb.org/anthology/W19-8617.pdf).**
+ [[arXiv](https://arxiv.org/abs/1911.12559),
+  [bib](https://www.aclweb.org/anthology/W19-8617.bib), [dataset](https://github.com/ygorg/KPTimes)]\\
    Ygor Gallina, Florian Boudin, Béatrice Daille.\\
    *International Conference on Natural Language Generation (INLG), 2019*
 
