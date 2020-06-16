@@ -7,21 +7,54 @@ permalink: /publications/
 Below is a list of my publications organized by date.
 You can also find my [Google Scholar profile](http://scholar.google.com/citations?user=Vk68rbkAAAAJ&hl=en).
 
+
+# 2020
+{: .underline}
+
+   {: .block}
+
+ - **Keyphrase Generation for Scientific Document Retrieval.**
+   \\
+   Florian Boudin, Ygor Gallina, Akiko Aizawa.\\
+   *Association for Computational Linguistics (ACL), 2020.*
+
+ - **[Large-Scale Evaluation of Keyphrase Extraction Models](https://arxiv.org/pdf/2003.04628.pdf).**
+ [[arXiv](https://arxiv.org/pdf/2003.04628.pdf)]\\
+   Ygor Gallina, Florian Boudin, Béatrice Daille.\\
+   *Joint Conference on Digital Libraries (JCDL), 2020.*
+
+ - **[The DELICES Project: Indexing Scientific Literature Through Semantic Expansion](https://www.irit.fr/CIRCLE/wp-content/uploads/2020/06/CIRCLE20_27.pdf).**
+   \\
+   Florian Boudin, Béatrice Daille, Evelyne Jacquey, Jian-Yun Nie.\\
+   *Joint Conference of the Information Retrieval Communities in Europe (CIRCLE), 2020.*
+
+ - **[An Evaluation Dataset for Identifying Communicative Functions of Sentences in English Scholarly Papers](https://www.aclweb.org/anthology/2020.lrec-1.212.pdf).**
+   [[bib](https://www.aclweb.org/anthology/2020.lrec-1.212.bib),
+    [dataset](https://github.com/Alab-NII/FECFevalDataset)]\\
+   Kenichi Iwatsuki, Florian Boudin, Akiko Aizawa.\\
+   *Language Resources and Evaluation Conference (LREC), 2020.*
+
+ - **[TermEval 2020: TALN-LS2N System for Automatic Term Extraction](https://www.aclweb.org/anthology/2020.computerm-1.13.pdf).**
+   [[bib](https://www.aclweb.org/anthology/2020.computerm-1.13.bib)]\\
+   Amir Hazem, Mérieme Bouhandi, Florian Boudin, Beatrice Daille.\\
+   *6th International Workshop on Computational Terminology (CompuTerm), 2020.*
+
 # 2019
 {: .underline}
 
    {: .block}
 
  - **[KPTimes: A Large-Scale Dataset for Keyphrase Generation on News Documents](https://www.aclweb.org/anthology/W19-8617.pdf).**
- [[arXiv](https://arxiv.org/abs/1911.12559),
-  [bib](https://www.aclweb.org/anthology/W19-8617.bib), [dataset](https://github.com/ygorg/KPTimes)]\\
+   [[arXiv](https://arxiv.org/abs/1911.12559),
+    [bib](https://www.aclweb.org/anthology/W19-8617.bib),
+    [dataset](https://github.com/ygorg/KPTimes)]\\
    Ygor Gallina, Florian Boudin, Béatrice Daille.\\
-   *International Conference on Natural Language Generation (INLG), 2019*
+   *International Conference on Natural Language Generation (INLG), 2019.*
 
  - **[DeFT 2019: Auto-encodeurs, Gradient Boosting et combinaisons de modèles pour l'identification automatique de mots-clés](https://www.irit.fr/pfia2019/wp-content/uploads/2019/07/actes_DEFT_CH_PFIA2019.pdf).**
    \\
    Mérième Bouhandi, Florian Boudin, Ygor Gallina.\\
-   *Défi Fouille de Textes (DEFT), 2019*
+   *Défi Fouille de Textes (DEFT), 2019.*
 
 
 # 2018
@@ -30,10 +63,11 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    {: .block}
 
  - **[Unsupervised Keyphrase Extraction with Multipartite Graphs](http://aclweb.org/anthology/N18-2105.pdf).**
- [[arXiv](https://arxiv.org/abs/1803.08721),
-  [bib](http://aclweb.org/anthology/N18-2105.bib), [code](https://github.com/boudinfl/pke)]\\
+   [[arXiv](https://arxiv.org/abs/1803.08721),
+    [bib](http://aclweb.org/anthology/N18-2105.bib),
+    [code](https://github.com/boudinfl/pke)]\\
    Florian Boudin.\\
-   *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2018*
+   *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2018.*
 
 # 2017
 {: .underline}
@@ -43,12 +77,12 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
  - **[Modélisation à base de graphe pour l’indexation en domaines de spécialité](https://www.openscience.fr/IMG/pdf/iste_ridows17v1n2.pdf).**
    [[bib](https://www.openscience.fr/spip.php?page=article.bib&id_article=869)] \\
    Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
-   *Recherche d'information, document et web sémantique, 2017*
+   *Recherche d'information, document et web sémantique, 2017.*
 
  - **[Présentation et résultats du défi fouille de textes DEFT 2016](https://www.openscience.fr/IMG/pdf/iste_ridows17v1n3.pdf).**
    [[bib](https://www.openscience.fr/spip.php?page=article.bib&id_article=871)] \\
    Béatrice Daille, Sabine Barreaux, Adrien Bougouin, Florian Boudin, Damien Cram, Amir Hazem.\\
-   *Recherche d'information, document et web sémantique, 2017*
+   *Recherche d'information, document et web sémantique, 2017.*
 
 # 2016
 {: .underline}
