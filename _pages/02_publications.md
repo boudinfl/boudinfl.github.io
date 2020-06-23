@@ -13,18 +13,20 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **Keyphrase Generation for Scientific Document Retrieval.**
-   \\
+ - **[Keyphrase Generation for Scientific Document Retrieval](https://www.aclweb.org/anthology/2020.acl-main.105.pdf).**
+   [[bib](https://www.aclweb.org/anthology/2020.acl-main.105.bib),
+    [code](https://github.com/boudinfl/ir-using-kg)]\\
    Florian Boudin, Ygor Gallina, Akiko Aizawa.\\
    *Association for Computational Linguistics (ACL), 2020.*
 
  - **[Large-Scale Evaluation of Keyphrase Extraction Models](https://arxiv.org/pdf/2003.04628.pdf).**
- [[arXiv](https://arxiv.org/pdf/2003.04628.pdf)]\\
+   [[arXiv](https://arxiv.org/pdf/2003.04628.pdf),
+    [code]( https://github.com/ygorg/JCDL_2020_KPE_Eval)]\\
    Ygor Gallina, Florian Boudin, Béatrice Daille.\\
    *Joint Conference on Digital Libraries (JCDL), 2020.*
 
  - **[The DELICES Project: Indexing Scientific Literature Through Semantic Expansion](https://www.irit.fr/CIRCLE/wp-content/uploads/2020/06/CIRCLE20_27.pdf).**
-   \\
+   [[project](https://anr-delices.github.io/)]\\
    Florian Boudin, Béatrice Daille, Evelyne Jacquey, Jian-Yun Nie.\\
    *Joint Conference of the Information Retrieval Communities in Europe (CIRCLE), 2020.*
 
