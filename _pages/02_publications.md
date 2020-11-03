@@ -13,50 +13,73 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[Keyphrase Generation for Scientific Document Retrieval](https://www.aclweb.org/anthology/2020.acl-main.105.pdf).**
-   [[bib](https://www.aclweb.org/anthology/2020.acl-main.105.bib),
-    [code](https://github.com/boudinfl/ir-using-kg)]\\
+ - **[Keyphrase Generation for Scientific Document Retrieval](https://www.aclweb.org/anthology/2020.acl-main.105.pdf).**\\
    Florian Boudin, Ygor Gallina, Akiko Aizawa.\\
-   *Association for Computational Linguistics (ACL), 2020.*
+   *Association for Computational Linguistics (ACL).* \\
+   <span class="links">
+   [[paper](https://www.aclweb.org/anthology/2020.acl-main.105.pdf),
+    [bib](https://www.aclweb.org/anthology/2020.acl-main.105.bib),
+    [video](http://slideslive.com/38928736),
+    [code](https://github.com/boudinfl/ir-using-kg)]
+   </span>
 
- - **[Large-Scale Evaluation of Keyphrase Extraction Models](https://arxiv.org/pdf/2003.04628.pdf).**
-   [[arXiv](https://arxiv.org/pdf/2003.04628.pdf),
-    [code]( https://github.com/ygorg/JCDL_2020_KPE_Eval)]\\
+ - **[Large-Scale Evaluation of Keyphrase Extraction Models](https://dl.acm.org/doi/10.1145/3383583.3398517).**\\
    Ygor Gallina, Florian Boudin, Béatrice Daille.\\
-   *Joint Conference on Digital Libraries (JCDL), 2020.*
+   *Joint Conference on Digital Libraries (JCDL).*\\
+   <span class="links">
+   [[paper](https://dl.acm.org/doi/10.1145/3383583.3398517),
+    [arXiv](https://arxiv.org/pdf/2003.04628.pdf),
+    [code]( https://github.com/ygorg/JCDL_2020_KPE_Eval),
+    [dataset](https://github.com/boudinfl/ake-datasets)]
+   </span>
 
- - **[The DELICES Project: Indexing Scientific Literature Through Semantic Expansion](https://www.irit.fr/CIRCLE/wp-content/uploads/2020/06/CIRCLE20_27.pdf).**
-   [[project](https://anr-delices.github.io/)]\\
+ - **[The DELICES Project: Indexing Scientific Literature Through Semantic Expansion](http://ceur-ws.org/Vol-2621/CIRCLE20_27.pdf).**\\
    Florian Boudin, Béatrice Daille, Evelyne Jacquey, Jian-Yun Nie.\\
-   *Joint Conference of the Information Retrieval Communities in Europe (CIRCLE), 2020.*
+   *Joint Conference of the Information Retrieval Communities in Europe (CIRCLE).*\\
+   <span class="links">
+   [[paper](http://ceur-ws.org/Vol-2621/CIRCLE20_27.pdf)]
+   </span>
 
- - **[An Evaluation Dataset for Identifying Communicative Functions of Sentences in English Scholarly Papers](https://www.aclweb.org/anthology/2020.lrec-1.212.pdf).**
-   [[bib](https://www.aclweb.org/anthology/2020.lrec-1.212.bib),
-    [dataset](https://github.com/Alab-NII/FECFevalDataset)]\\
+ - **[An Evaluation Dataset for Identifying Communicative Functions of Sentences in English Scholarly Papers](https://www.aclweb.org/anthology/2020.lrec-1.212.pdf).**\\
    Kenichi Iwatsuki, Florian Boudin, Akiko Aizawa.\\
-   *Language Resources and Evaluation Conference (LREC), 2020.*
+   *Language Resources and Evaluation Conference (LREC).*\\
+   <span class="links">
+   [[paper](https://www.aclweb.org/anthology/2020.lrec-1.212.pdf),
+    [bib](https://www.aclweb.org/anthology/2020.lrec-1.212.bib),
+    [dataset](https://github.com/Alab-NII/FECFevalDataset)]
+   </span>
 
- - **[TermEval 2020: TALN-LS2N System for Automatic Term Extraction](https://www.aclweb.org/anthology/2020.computerm-1.13.pdf).**
-   [[bib](https://www.aclweb.org/anthology/2020.computerm-1.13.bib)]\\
+
+ - **[TermEval 2020: TALN-LS2N System for Automatic Term Extraction](https://www.aclweb.org/anthology/2020.computerm-1.13.pdf).**\\
    Amir Hazem, Mérieme Bouhandi, Florian Boudin, Beatrice Daille.\\
-   *6th International Workshop on Computational Terminology (CompuTerm), 2020.*
+   *6th International Workshop on Computational Terminology (CompuTerm).*\\
+   <span class="links">
+   [[paper](https://www.aclweb.org/anthology/2020.computerm-1.13.pdf),
+    [bib](https://www.aclweb.org/anthology/2020.computerm-1.13.bib)]
+   </span>
 
 # 2019
 {: .underline}
 
    {: .block}
 
- - **[KPTimes: A Large-Scale Dataset for Keyphrase Generation on News Documents](https://www.aclweb.org/anthology/W19-8617.pdf).**
-   [[arXiv](https://arxiv.org/abs/1911.12559),
-    [bib](https://www.aclweb.org/anthology/W19-8617.bib),
-    [dataset](https://github.com/ygorg/KPTimes)]\\
+ - **[KPTimes: A Large-Scale Dataset for Keyphrase Generation on News Documents](https://www.aclweb.org/anthology/W19-8617.pdf).**\\
    Ygor Gallina, Florian Boudin, Béatrice Daille.\\
-   *International Conference on Natural Language Generation (INLG), 2019.*
+   *International Conference on Natural Language Generation (INLG).*\\
+   <span class="links">
+   [[paper](https://www.aclweb.org/anthology/W19-8617.pdf),
+    [bib](https://www.aclweb.org/anthology/W19-8617.bib),
+    [arXiv](https://arxiv.org/abs/1911.12559),
+    [dataset](https://github.com/ygorg/KPTimes)]
+   </span>
 
- - **[DeFT 2019: Auto-encodeurs, Gradient Boosting et combinaisons de modèles pour l'identification automatique de mots-clés](https://www.irit.fr/pfia2019/wp-content/uploads/2019/07/actes_DEFT_CH_PFIA2019.pdf).**
-   \\
+ - **[DeFT 2019: Auto-encodeurs, Gradient Boosting et combinaisons de modèles pour l'identification automatique de mots-clés](https://www.aclweb.org/anthology/2019.jeptalnrecital-deft.6.pdf).**\\
    Mérième Bouhandi, Florian Boudin, Ygor Gallina.\\
-   *Défi Fouille de Textes (DEFT), 2019.*
+   *Défi Fouille de Textes (DEFT).* \\
+   <span class="links">
+   [[paper](https://www.aclweb.org/anthology/2019.jeptalnrecital-deft.6.pdf),
+    [bib](https://www.aclweb.org/anthology/2019.jeptalnrecital-deft.6.bib)]
+   </span>
 
 
 # 2018
@@ -64,145 +87,226 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[Unsupervised Keyphrase Extraction with Multipartite Graphs](http://aclweb.org/anthology/N18-2105.pdf).**
-   [[arXiv](https://arxiv.org/abs/1803.08721),
-    [bib](http://aclweb.org/anthology/N18-2105.bib),
-    [code](https://github.com/boudinfl/pke)]\\
+ - **[Unsupervised Keyphrase Extraction with Multipartite Graphs](http://aclweb.org/anthology/N18-2105.pdf).**\\
    Florian Boudin.\\
-   *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2018.*
+   *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).*\\
+   <span class="links">
+   [[paper](http://aclweb.org/anthology/N18-2105.pdf),
+    [bib](http://aclweb.org/anthology/N18-2105.bib),
+    [arXiv](https://arxiv.org/abs/1803.08721),
+    [code](https://github.com/boudinfl/pke)]
+   </span>
 
 # 2017
 {: .underline}
 
    {: .block}
 
- - **[Modélisation à base de graphe pour l’indexation en domaines de spécialité](https://www.openscience.fr/IMG/pdf/iste_ridows17v1n2.pdf).**
-   [[bib](https://www.openscience.fr/spip.php?page=article.bib&id_article=869)] \\
+ - **[Modélisation à base de graphe pour l’indexation en domaines de spécialité](https://www.openscience.fr/IMG/pdf/iste_ridows17v1n2.pdf).**\\
    Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
-   *Recherche d'information, document et web sémantique, 2017.*
+   *Recherche d'information, document et web sémantique.*\\
+   <span class="links">
+   [[paper](https://www.openscience.fr/IMG/pdf/iste_ridows17v1n2.pdf),
+    [bib](https://www.openscience.fr/spip.php?page=article.bib&id_article=869)]
+   </span>
 
- - **[Présentation et résultats du défi fouille de textes DEFT 2016](https://www.openscience.fr/IMG/pdf/iste_ridows17v1n3.pdf).**
-   [[bib](https://www.openscience.fr/spip.php?page=article.bib&id_article=871)] \\
+ - **[Présentation et résultats du défi fouille de textes DEFT 2016](https://www.openscience.fr/IMG/pdf/iste_ridows17v1n3.pdf).** \\
    Béatrice Daille, Sabine Barreaux, Adrien Bougouin, Florian Boudin, Damien Cram, Amir Hazem.\\
-   *Recherche d'information, document et web sémantique, 2017.*
+   *Recherche d'information, document et web sémantique.*\\
+   <span class="links">
+   [[paper](https://www.openscience.fr/IMG/pdf/iste_ridows17v1n3.pdf),
+    [bib](https://www.openscience.fr/spip.php?page=article.bib&id_article=871)]
+   </span>
 
 # 2016
 {: .underline}
 
    {: .block}
 
- - **[How Document Pre-processing affects Keyphrase Extraction Performance](http://aclweb.org/anthology/W16-3917.pdf).**
-  [[arXiv](https://arxiv.org/abs/1610.07809),
-   [bib](http://aclweb.org/anthology/W16-3917.bib),
-   [code](https://github.com/boudinfl/pke),
-   [dataset](https://github.com/boudinfl/semeval-2010-pre)]\\
+ - **[How Document Pre-processing affects Keyphrase Extraction Performance](http://aclweb.org/anthology/W16-3917.pdf).**\\
   Florian Boudin, Hugo Mougard and Damien Cram.\\
-  *COLING 2016 Workshop on Noisy User-generated Text (WNUT).* 
+  *Workshop on Noisy User-generated Text (WNUT).*\\
+  <span class="links">
+  [[paper](http://aclweb.org/anthology/W16-3917.pdf),
+   [bib](http://aclweb.org/anthology/W16-3917.bib),
+   [arXiv](https://arxiv.org/abs/1610.07809),
+   [code](https://github.com/boudinfl/pke),
+   [dataset](https://github.com/boudinfl/semeval-2010-pre)]
+  </span>
 
- - **[pke: an open source python-based keyphrase extraction toolkit](http://aclweb.org/anthology/C16-2015.pdf).**
-   [[bib](http://aclweb.org/anthology/C16-2015.bib),
-    [code](https://github.com/boudinfl/pke)]\\
+ - **[pke: an open source python-based keyphrase extraction toolkit](http://aclweb.org/anthology/C16-2015.pdf).**\\
    Florian Boudin.\\
-   *International Conference on Computational Linguistics (COLING), demonstration papers, 2016.*
+   *International Conference on Computational Linguistics (COLING), demonstration papers.*\\
+   <span class="links">
+   [[paper](http://aclweb.org/anthology/C16-2015.pdf),
+    [bib](http://aclweb.org/anthology/C16-2015.bib),
+    [code](https://github.com/boudinfl/pke)]
+   </span>
 
- - **[Keyphrase Annotation with Graph Co-Ranking](http://aclweb.org/anthology/C16-1277.pdf).**
-   [[bib](http://aclweb.org/anthology/C16-1277.bib)]\\
+ - **[Keyphrase Annotation with Graph Co-Ranking](http://aclweb.org/anthology/C16-1277.pdf).**\\
    Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
-   *International Conference on Computational Linguistics (COLING), 2016.*
+   *International Conference on Computational Linguistics (COLING).*\\
+   <span class="links">
+    [[paper](http://aclweb.org/anthology/C16-1277.pdf),
+     [bib](http://aclweb.org/anthology/C16-1277.bib)]
+   </span>
 
- - **[TermITH-Eval: a French Standard-Based Resource for Keyphrase Extraction Evaluation](http://www.lrec-conf.org/proceedings/lrec2016/pdf/791_Paper.pdf).**\\
+ - **[TermITH-Eval: a French Standard-Based Resource for Keyphrase Extraction Evaluation](https://www.aclweb.org/anthology/L16-1304.pdf).**\\
    Adrien Bougouin, Sabine Barreaux, Laurent Romary, Florian Boudin, Béatrice Daille.\\
-   *Language Resources and Evaluation Conference (LREC), 2016.*
+   *Language Resources and Evaluation Conference (LREC).*\\
+   <span class="links">
+    [[paper](https://www.aclweb.org/anthology/L16-1304.pdf),
+     [bib](https://www.aclweb.org/anthology/L16-1304.bib),
+     [dataset](https://github.com/termith-anr/TermITH-Eval)]
+   </span>
    
- - **[Modélisation unifiée du document et de son domaine pour une indexation par termes-clés libre et contrôlée](https://jep-taln2016.limsi.fr/actes/Actes%20JTR-2016/Papers/T3.pdf).**\\
+ - **[Modélisation unifiée du document et de son domaine pour une indexation par termes-clés libre et contrôlée](https://www.aclweb.org/anthology/2016.jeptalnrecital-long.18.pdf).**\\
    Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
-   *Traitement Automatique des Langues Naturelles (TALN), 2016.*
+   *Traitement Automatique des Langues Naturelles (TALN).*\\
+   <span class="links">
+    [[paper](https://www.aclweb.org/anthology/2016.jeptalnrecital-long.18.pdf),
+     [bib](https://www.aclweb.org/anthology/2016.jeptalnrecital-long.18.bib)]
+   </span>
    
  - **[Indexation d’articles scientifiques : Présentation et résultats du défi fouille de textes DEFT 2016](https://jep-taln2016.limsi.fr/actes/Actes%20JTR-2016/Papers/Ateliers/DEFT-1.pdf).**\\
    Béatrice Daille, Sabine Barreaux, Florian Boudin, Adrien Bougouin, Damien Cram, Amir Hazem.\\
-   *Défi Fouille de Textes (DEFT), 2016.*
+   *Défi Fouille de Textes (DEFT).* \\
+   <span class="links">
+      [[paper](https://jep-taln2016.limsi.fr/actes/Actes%20JTR-2016/Papers/Ateliers/DEFT-1.pdf)]
+   </span>
    
  - **[TopicRank en domaines de spécialité : participation du LINA à DEFT 2016](https://jep-taln2016.limsi.fr/actes/Actes%20JTR-2016/Papers/Ateliers/DEFT-6.pdf).**\\
    Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
-   *Défi Fouille de Textes (DEFT), 2016.*
+   *Défi Fouille de Textes (DEFT).* \\
+   <span class="links">
+       [[paper](https://jep-taln2016.limsi.fr/actes/Actes%20JTR-2016/Papers/Ateliers/DEFT-6.pdf)]
+   </span>
 
 # 2015
 {: .underline}
 
    {: .block}
 
- - **[Concept-based Summarization using Integer Linear Programming: From Concept Pruning to Multiple Optimal Solutions](http://aclweb.org/anthology/D15-1220.pdf).**
-   [[bib](http://aclweb.org/anthology/D15-1220.bib)]\\
+ - **[Concept-based Summarization using Integer Linear Programming: From Concept Pruning to Multiple Optimal Solutions](http://aclweb.org/anthology/D15-1220.pdf).**\\
    Florian Boudin, Hugo Mougard, Benoit Favre.\\
-   *Conference on Empirical Methods in Natural Language Processing (EMNLP), 2015.*
+   *Conference on Empirical Methods in Natural Language Processing (EMNLP).* \\
+   <span class="links">
+       [[paper](http://aclweb.org/anthology/D15-1220.pdf),
+        [bib](http://aclweb.org/anthology/D15-1220.bib)]
+   </span>
 
- - **[Reducing Over-generation Errors for Automatic Keyphrase Extraction using Integer Linear Programming](http://aclweb.org/anthology/W15-3605.pdf).**
-   [[bib](http://aclweb.org/anthology/W15-3605.bib)]\\
+ - **[Reducing Over-generation Errors for Automatic Keyphrase Extraction using Integer Linear Programming](http://aclweb.org/anthology/W15-3605.pdf).**\\
    Florian Boudin.\\
-   *Workshop on Novel Computational Approaches to Keyphrase Extraction, 2015.*
+   *Workshop on Novel Computational Approaches to Keyphrase Extraction.* \\
+   <span class="links">
+       [[paper](http://aclweb.org/anthology/W15-3605.pdf),
+        [bib](http://aclweb.org/anthology/W15-3605.bib)]
+   </span>
 
- - **[LINA: Identifying Comparable Documents from Wikipedia](http://aclweb.org/anthology/W15-3413.pdf).**
-   [[bib](http://aclweb.org/anthology/W15-3413.bib)]\\
+ - **[LINA: Identifying Comparable Documents from Wikipedia](http://aclweb.org/anthology/W15-3413.pdf).**\\
    Emmanuel Morin, Amir Hazem, Florian Boudin, Elizaveta Loginova-Clouet.\\
-   *Eighth Workshop on Building and Using Comparable Corpora (BUCC), 2015.*
+   *Eighth Workshop on Building and Using Comparable Corpora (BUCC).* \\
+   <span class="links">
+       [[paper](http://aclweb.org/anthology/W15-3413.pdf),
+        [bib](http://aclweb.org/anthology/W15-3413.bib)]
+   </span>
 
 # 2014
 {: .underline}
 
    {: .block}
 
- - **[TopicRank : ordonnancement de sujets pour l’extraction automatique de termes-clés](http://www.atala.org/IMG/pdf/2._Bougoin-TAL55-1.pdf).**\\
+ - **[TopicRank : ordonnancement de sujets pour l’extraction automatique de termes-clés](https://www.atala.org/sites/default/files/2._Bougoin-TAL55-1_0.pdf).**\\
    Adrien Bougouin, Florian Boudin.\\
-   *Traitement Automatique des Langues, 2014.*
+   *Traitement Automatique des Langues.*\\
+   <span class="links">
+       [[paper](https://www.atala.org/sites/default/files/2._Bougoin-TAL55-1_0.pdf)]
+   </span>
 
  - **[De quoi parle ce Tweet? Résumer Wikipédia pour contextualiser des microblogs](http://www.irit.fr/journal-i3/2014/article_14_03.pdf).**\\
    Romain Deveaud, Florian Boudin.\\
-   *The Information - Intelligence - Interaction (I3) Journal, 2014.*
+   *The Information - Intelligence - Interaction (I3) Journal.*\\
+   <span class="links">
+       [[paper](http://www.irit.fr/journal-i3/2014/article_14_03.pdf)]
+   </span>
 
  - **[Label Pre-annotation for Building Non-projective Dependency Treebanks for French](/data/articles/lacroix_cicling14.pdf).**\\
    Ophélie Lacroix, Denis Béchet, Florian Boudin. \\
-   *Conference on Intelligent Text Processing and Computational Linguistics (CICLing), 2014.*
+   *Conference on Intelligent Text Processing and Computational Linguistics (CICLing).* \\
+    <span class="links">
+       [[paper](/data/articles/lacroix_cicling14.pdf)]
+   </span>
 
- - **[Influence des domaines de spécialité dans l'extraction de termes-clés](http://www.atala.org/taln_archives/TALN/TALN-2014/taln-2014-long-002.pdf).**\\
+ - **[Influence des domaines de spécialité dans l'extraction de termes-clés](https://www.aclweb.org/anthology/F14-1002.pdf).**\\
    Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
-   *Traitement Automatique des Langues Naturelles (TALN), 2014.*
+   *Traitement Automatique des Langues Naturelles (TALN).* \\
+   <span class="links">
+       [[paper](https://www.aclweb.org/anthology/F14-1002.pdf),
+        [bib](https://www.aclweb.org/anthology/F14-1002.bib)]
+   </span>
 
 # 2013
 {: .underline}
 
    {: .block}
 
- - **[TopicRank: Graph-Based Topic Ranking for Keyphrase Extraction](http://aclweb.org/anthology/I13-1062.pdf).**
-   [[bib](http://aclweb.org/anthology/I13-1062.bib)]\\
+ - **[TopicRank: Graph-Based Topic Ranking for Keyphrase Extraction](https://www.aclweb.org/anthology/I13-1062.pdf).**\\
    Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
-   *International Joint Conference on Natural Language Processing (IJCNLP), 2013.*
+   *International Joint Conference on Natural Language Processing (IJCNLP).* \\
+   <span class="links">
+       [[paper](https://www.aclweb.org/anthology/I13-1062.pdf),
+        [bib](https://www.aclweb.org/anthology/I13-1062.bib)]
+   </span>
 
- - **[A Comparison of Centrality Measures for Graph-Based Keyphrase Extraction](http://aclweb.org/anthology/I13-1102.pdf).**
-   [[bib](http://aclweb.org/anthology/I13-1102.bib)]\\
+ - **[A Comparison of Centrality Measures for Graph-Based Keyphrase Extraction](https://www.aclweb.org/anthology/I13-1102.pdf).**\\
    Florian Boudin.\\
-   *International Joint Conference on Natural Language Processing (IJCNLP), 2013.*
+   *International Joint Conference on Natural Language Processing (IJCNLP).* \\
+   <span class="links">
+       [[paper](https://www.aclweb.org/anthology/I13-1102.pdf),
+        [bib](https://www.aclweb.org/anthology/I13-1102.bib)]
+   </span>
 
- - **[Keyphrase Extraction for N-best Reranking in Multi-Sentence Compression](http://aclweb.org/anthology/N13-1030.pdf).**
-   [[bib](http://aclweb.org/anthology/N13-1030.bib), [dataset](https://github.com/boudinfl/lina-msc), [code](https://github.com/boudinfl/takahe)]\\
+ - **[Keyphrase Extraction for N-best Reranking in Multi-Sentence Compression](https://www.aclweb.org/anthology/N13-1030.pdf).**\\
    Florian Boudin, Emmanuel Morin.\\
-   *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2013.*
+   *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).* \\
+   <span class="links">
+       [[paper](https://www.aclweb.org/anthology/N13-1030.pdf),
+        [bib](https://www.aclweb.org/anthology/N13-1030.bib),
+        [dataset](https://github.com/boudinfl/lina-msc),
+        [code](https://github.com/boudinfl/takahe)]
+   </span>
 
- - **[TALN Archives : une archive numérique francophone des articles de recherche en Traitement Automatique de la Langue](http://www.atala.org/taln_archives/TALN/TALN-2013/taln-2013-court-001.pdf).**
-   [[dataset](https://github.com/boudinfl/taln-archives)]\\
+ - **[TALN Archives : une archive numérique francophone des articles de recherche en Traitement Automatique de la Langue](https://www.aclweb.org/anthology/F13-2001.pdf).**\\
    Florian Boudin.\\
-   *Traitement Automatique des Langues Naturelles (TALN), 2013.*
-
- - **[Construction d’un large corpus écrit libre annoté morpho-syntaxiquement en français](http://www.atala.org/taln_archives/TALN/TALN-2013/taln-2013-long-012.pdf).**\\
+   *Traitement Automatique des Langues Naturelles (TALN).* \\
+    <span class="links">
+       [[paper](https://www.aclweb.org/anthology/F13-2001.pdf),
+        [bib](https://www.aclweb.org/anthology/F13-2001.bib),
+        [dataset](https://github.com/boudinfl/taln-archives)]
+   </span>
+   
+ - **[Construction d’un large corpus écrit libre annoté morpho-syntaxiquement en français](https://www.aclweb.org/anthology/F13-1012.pdf).**\\
    Nicolas Hernandez, Florian Boudin.\\
-   *Traitement Automatique des Langues Naturelles (TALN), 2013.*
+   *Traitement Automatique des Langues Naturelles (TALN).* \\
+   <span class="links">
+       [[paper](https://www.aclweb.org/anthology/F13-1012.pdf),
+        [bib](https://www.aclweb.org/anthology/F13-1012.bib)]
+   </span>
 
- - **[Contextualisation automatique de Tweets à partir de Wikipédia](http://coria.unine.ch/coria/coria2013_23.pdf).**\\
+ - **[Contextualisation automatique de Tweets à partir de Wikipédia](http://asso-aria.org/coria/2013/coria/coria2013_23.pdf).**\\
    Romain Deveaud, Florian Boudin.\\
-   *Conférence en Recherche d’Information et Applications (CORIA), 2013.*
+   *Conférence en Recherche d’Information et Applications (CORIA).*\\
+   <span class="links">
+       [[paper](http://asso-aria.org/coria/2013/coria/coria2013_23.pdf)]
+   </span>
 
  - **[Effective Tweet Contextualization with Hashtags Performance Prediction and Multi-Document Summarization](http://www.clef-initiative.eu/documents/71612/f20ff540-8fc7-476a-9c51-db20f8413cc6).**\\
    Romain Deveaud, Florian Boudin. \\
-   *INitiative for the Evaluation of XML Retrieval (INEX), 2013.*
+   *INitiative for the Evaluation of XML Retrieval (INEX).* \\
+   <span class="links">
+       [[paper](http://www.clef-initiative.eu/documents/71612/f20ff540-8fc7-476a-9c51-db20f8413cc6)]
+   </span>
+
 
 # 2012
 {: .underline}
