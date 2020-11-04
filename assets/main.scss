@@ -16,8 +16,22 @@ body {
 }
 
 .site-header {
-	background: #cb2431;
-	
+	background: #7e7f91;
+}
+
+a {
+  color: #bf5056;
+  text-decoration: underline;
+}
+
+a:visited {
+    color: #bf5056;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #5056bf;
+    text-decoration: underline;
 }
 
 p {
@@ -44,6 +58,10 @@ h1 {
 
 h2 {
 	font-size: 110%;
+}
+
+ul li + li {
+	margin-top: .5em;
 }
 
 .underline {
@@ -94,6 +112,7 @@ ul li ul li {
 .site-nav .page-link {
 	color: #EEE;
 	font-weight: 500;
+	text-decoration: none;
 }
 
 .links {

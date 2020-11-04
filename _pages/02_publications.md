@@ -313,22 +313,36 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[Using a Medical Thesaurus to Predict Query Difficulty](/data/articles/boudin_ecir12.pdf).**\\
+ - **[Using a Medical Thesaurus to Predict Query Difficulty](https://link.springer.com/chapter/10.1007/978-3-642-28997-2_46).**\\
    Florian Boudin, Jian-Yun Nie, Martin Dawes.\\
-   *European Conference on Information Retrieval (ECIR), 2012.*
+   *European Conference on Information Retrieval (ECIR).* \\
+   <span class="links">
+       [[paper](https://link.springer.com/chapter/10.1007/978-3-642-28997-2_46),
+        [bib](https://citation-needed.springer.com/v2/references/10.1007/978-3-642-28997-2_46?format=bibtex&flavour=citation)]
+   </span>
 
- - **[Détection et correction automatique d’erreurs d’annotation morpho-syntaxique du French TreeBank](http://www.atala.org/taln_archives/TALN/TALN-2012/taln-2012-long-021.pdf).**\\
+ - **[Détection et correction automatique d’erreurs d’annotation morpho-syntaxique du French TreeBank](https://www.aclweb.org/anthology/F12-2021.pdf).**\\
    Florian Boudin, Nicolas Hernandez.\\
-   *Traitement Automatique des Langues Naturelles (TALN), 2012.*
+   *Traitement Automatique des Langues Naturelles (TALN).* \\
+   <span class="links">
+       [[paper](https://www.aclweb.org/anthology/F12-2021.pdf),
+        [bib](https://www.aclweb.org/anthology/F12-2021.bib)]
+   </span>
 
  - **[LIA/LINA at the INEX 2012 Tweet Contextualization track](http://ims-sites.dei.unipd.it/documents/71612/155385/CLEF2012wn-INEX-DeveaudEt2012.pdf).**\\
    Romain Deveaud, Florian Boudin.\\
-   *INitiative for the Evaluation of XML Retrieval (INEX), 2012.*
+   *INitiative for the Evaluation of XML Retrieval (INEX).* \\
+   <span class="links">
+       [[paper](http://ims-sites.dei.unipd.it/documents/71612/155385/CLEF2012wn-INEX-DeveaudEt2012.pdf)]
+   </span>
 
- - **[Participation du LINA à DEFT2012 (LINA at DEFT2012)](http://aclweb.org/anthology/W12-1107.pdf).**
-   [[bib](http://aclweb.org/anthology/W12-1107.bib)]\\
+ - **[Participation du LINA à DEFT 2012](https://www.aclweb.org/anthology/W12-1107.pdf).**\\
    Florian Boudin, Amir Hazem, Nicolas Hernandez, Prajol Shrestha.\\
-   *Défi Fouille de Textes (DEFT), 2012.*
+   *Défi Fouille de Textes (DEFT).* \\
+   <span class="links">
+       [[paper](https://www.aclweb.org/anthology/W12-1107.pdf),
+        [bib](https://www.aclweb.org/anthology/W12-1107.bib)]
+   </span>
 
 # 2011
 {: .underline}
@@ -337,86 +351,141 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
  - **[A Graph-based Approach to Cross-language Multi-document Summarization](http://polibits.gelbukh.com/2011_43/43_16.pdf).**\\
    Florian Boudin, Stéphane Huet, Juan-Manuel Torres-Moreno.\\
-   *Conference on Intelligent Text Processing and Computational Linguistics (CICLing), 2011.*
+   *Conference on Intelligent Text Processing and Computational Linguistics (CICLing).*\\
+   <span class="links">
+       [[paper](http://polibits.gelbukh.com/2011_43/43_16.pdf)]
+   </span>
 
- - **[Utilisation d’un score de qualité de traduction pour le résumé multi-document cross-lingue](http://www.atala.org/taln_archives/TALN/TALN-2011/taln-2011-long-005.pdf).**\\
+ - **[Utilisation d’un score de qualité de traduction pour le résumé multi-document cross-lingue](http://talnarchives.atala.org/TALN/TALN-2011/taln-2011-long-005.pdf).**\\
    Stéphane Huet, Florian Boudin, Juan-Manuel Torres-Moreno.\\
-   *Traitement Automatique des Langues Naturelles (TALN), 2011.*
+   *Traitement Automatique des Langues Naturelles (TALN).*\\
+   <span class="links">
+       [[paper](http://talnarchives.atala.org/TALN/TALN-2011/taln-2011-long-005.pdf),
+        [bib](http://talnarchives.atala.org/TALN/TALN-2011/taln-2011-long-005.bib)]
+   </span>
 
  - **[Correction de césures et enrichissement de requêtes pour la recherche de livres](http://asso-aria.org/coria/2011/89.pdf).**\\
    Romain Deveaud, Florian Boudin, Eric SanJuan, Patrice Bellot.\\
-   *Conférence en Recherche d’Information et Applications (CORIA), 2011.*
+   *Conférence en Recherche d’Information et Applications (CORIA).*\\
+   <span class="links">
+       [[paper](http://asso-aria.org/coria/2011/89.pdf)]
+   </span>
 
- - **[LIA at INEX 2010 Book Track](/data/articles/deveaud_inex10.pdf).**\\
+ - **[LIA at INEX 2010 Book Track](https://link.springer.com/chapter/10.1007/978-3-642-23577-1_10).**\\
    Romain Deveaud, Florian Boudin, Patrice Bellot.\\
-   *INitiative for the Evaluation of XML Retrieval (INEX), 2011.*
+   *INitiative for the Evaluation of XML Retrieval (INEX).* \\
+   <span class="links">
+       [[paper](https://link.springer.com/chapter/10.1007/978-3-642-23577-1_10),
+        [bib](https://citation-needed.springer.com/v2/references/10.1007/978-3-642-23577-1_10?format=bibtex&flavour=citation)]
+   </span>
 
 # 2010
 {: .underline}
 
    {: .block}
 
- - **[Combining classifiers for robust PICO element detection](http://www.biomedcentral.com/1472-6947/10/29).**\\
+ - **[Combining classifiers for robust PICO element detection](https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/1472-6947-10-29).**\\
    Florian Boudin, Jian-Yun Nie, Joan Bartlett, Roland Grad, Pierre Pluye, Martin Dawes.\\
-   *BMC Medical Informatics and Decision Making, 2010.*
+   *BMC Medical Informatics and Decision Making.* \\
+   <span class="links">
+       [[paper](https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/1472-6947-10-29),
+        [ris](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-10-29.ris)]
+   </span>
 
- - **[Positional Language Models for Clinical Information Retrieval](http://aclweb.org/anthology/D10-1011.pdf).**
-   [[bib](http://aclweb.org/anthology/D10-1011.bib), [dataset](https://github.com/boudinfl/CLIREC)]\\
+ - **[Positional Language Models for Clinical Information Retrieval](https://www.aclweb.org/anthology/D10-1011.pdf).**\\
    Florian Boudin, Jian-Yun Nie, Martin Dawes.\\
-   *Conference on Empirical Methods in Natural Language Processing (EMNLP), 2010.*
+   *Conference on Empirical Methods in Natural Language Processing (EMNLP).* \\
+   <span class="links">
+       [[paper](https://www.aclweb.org/anthology/D10-1011.pdf),
+        [bib](https://www.aclweb.org/anthology/D10-1011.bib),
+        [dataset](https://github.com/boudinfl/CLIREC)]
+   </span>
 
- - **[Clinical Information Retrieval using Document and PICO Structure](http://www.aclweb.org/anthology/N10-1124.pdf).**
-   [[bib](http://aclweb.org/anthology/N10-1124.bib), [dataset](https://github.com/boudinfl/CLIREC)]\\
+ - **[Clinical Information Retrieval using Document and PICO Structure](https://www.aclweb.org/anthology/N10-1124.pdf).**\\
    Florian Boudin, Jian-Yun Nie, Martin Dawes.\\
-   *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2010.*
+   *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).*\\
+   <span class="links">
+       [[paper](https://www.aclweb.org/anthology/N10-1124.pdf),
+        [bib](https://www.aclweb.org/anthology/N10-1124.bib),
+        [dataset](https://github.com/boudinfl/CLIREC)]
+   </span>
 
- - **[Improving Medical Information Retrieval with PICO Element Detection](/data/articles/boudin_ecir10.pdf).**\\
+ - **[Improving Medical Information Retrieval with PICO Element Detection](https://link.springer.com/chapter/10.1007/978-3-642-12275-0_8).**\\
    Florian Boudin, Lixin Shi, Jian-Yun Nie.\\
-   *European Conference on Information Retrieval (ECIR), 2010.*
+   *European Conference on Information Retrieval (ECIR).* \\
+   <span class="links">
+       [[paper](https://link.springer.com/chapter/10.1007/978-3-642-12275-0_8),
+        [bib](https://citation-needed.springer.com/v2/references/10.1007/978-3-642-12275-0_8?format=bibtex&flavour=citation)]
+   </span>
 
- - **[Deriving a test collection for clinical information retrieval from systematic reviews](/data/articles/boudin_dtmbio10.pdf).**
-   [[dataset](https://github.com/boudinfl/CLIREC)]\\
+ - **[Deriving a test collection for clinical information retrieval from systematic reviews](https://dl.acm.org/doi/10.1145/1871871.1871882).**\\
    Florian Boudin, Jian-Yun Nie, Martin Dawes.\\
-   *Data and Text Mining in Biomedical Informatics (DTMBIO), 2010.*
+   *Data and Text Mining in Biomedical Informatics (DTMBIO).*\\
+   <span class="links">
+       [[paper](https://dl.acm.org/doi/10.1145/1871871.1871882),
+        [dataset](https://github.com/boudinfl/CLIREC)]
+   </span>
 
 # 2009
 {: .underline}
 
    {: .block}
 
- - **[Résumé automatique multi-document et indépendance de la langue : une première évaluation en français](http://www.atala.org/taln_archives/TALN/TALN-2009/taln-2009-court-035.pdf).**\\
+ - **[Résumé automatique multi-document et indépendance de la langue : une première évaluation en français](http://talnarchives.atala.org/TALN/TALN-2009/taln-2009-court-035.pdf).**\\
    Florian Boudin, Juan-Manuel Torres-Moreno. \\
-   *Traitement Automatique des Langues Naturelles (TALN),2009.*
+   *Traitement Automatique des Langues Naturelles (TALN).* \\
+   <span class="links">
+       [[paper](http://talnarchives.atala.org/TALN/TALN-2009/taln-2009-court-035.pdf),
+        [bib](http://talnarchives.atala.org/TALN/TALN-2009/taln-2009-court-035.bib)]
+   </span>
 
  - **[A Maximization-Minimization Approach for Update Text Summarization](/data/articles/boudin_cilt09.pdf).**\\
    Florian Boudin, Juan-Manuel Torres-Moreno.\\
-   *Current Issues in Linguistic Theory: Recent Advances in Natural Language Processing, 2009.*
+   *Current Issues in Linguistic Theory: Recent Advances in Natural Language Processing.*\\
+   <span class="links">
+       [[paper](/data/articles/boudin_cilt09.pdf)]
+   </span>
 
 # 2008
 {: .underline}
 
    {: .block}
 
- - **[A Scalable MMR Approach to Sentence Scoring for Multi-Document Update Summarization](http://aclweb.org/anthology/C08-2006.pdf).**
-   [[bib](http://aclweb.org/anthology/C08-2006.bib)]\\
+ - **[A Scalable MMR Approach to Sentence Scoring for Multi-Document Update Summarization](https://www.aclweb.org/anthology/C08-2006.pdf).**\\
    Florian Boudin, Marc El-Bèze, Juan-Manuel Torres-Moreno.\\
-   *International Conference on Computational Linguistics (COLING), 2008.*
+   *International Conference on Computational Linguistics (COLING).* \\
+   <span class="links">
+       [[paper](https://www.aclweb.org/anthology/C08-2006.pdf),
+        [bib](https://www.aclweb.org/anthology/C08-2006.bib)]
+   </span>
 
  - **[Mixing Statistical and Symbolic Approaches for Chemical Names Recognition](/data/articles/boudin_cicling08.pdf).**\\
    Florian Boudin, Juan Torres-Moreno, Marc El-Bèze.\\
-   *Conference on Intelligent Text Processing and Computational Linguistics (CICLing), 2008.*
+   *Conference on Intelligent Text Processing and Computational Linguistics (CICLing).*\\
+   <span class="links">
+       [[paper](/data/articles/boudin_cicling08.pdf)]
+   </span>
 
- - **[An Efficient Statistical Approach for Automatic Organic Chemistry Summarization](/data/articles/boudin_gotal08).**\\
+ - **[An Efficient Statistical Approach for Automatic Organic Chemistry Summarization](/data/articles/boudin_gotal08.pdf).**\\
    Florian Boudin, Juan-Manuel Torres-Moreno, Patricia Velázquez-Morales..\\
-   *International Conference on Natural Language Processing (GoTAL), 2008*
+   *International Conference on Natural Language Processing (GoTAL)* \\
+   <span class="links">
+       [[paper](/data/articles/boudin_gotal08.pdf)]
+   </span>
 
  - **[The LIA Update Summarization system at TAC-2008](http://www.nist.gov/tac/publications/2008/participant.papers/LIA.proceedings.pdf).**\\
    Florian Boudin, Marc El-Bèze, Juan-Manuel Torres-Moreno.\\
-   *Text Analysis Conference (TAC), 2008.*
+   *Text Analysis Conference (TAC).* \\
+   <span class="links">
+       [[paper](http://www.nist.gov/tac/publications/2008/participant.papers/LIA.proceedings.pdf)]
+   </span>
 
  - **[Exploration d’approches statistiques pour le résumé automatique de texte](/data/articles/thesis_florian_boudin.pdf).**\\
    Florian Boudin.\\
-   *Laboratoire Informatique d’Avignon – Université d’Avignon, 2008.*
+   *Laboratoire Informatique d’Avignon – Université d’Avignon.* \\
+   <span class="links">
+       [[PhD thesis](/data/articles/thesis_florian_boudin.pdf)]
+   </span>
 
 # 2007
 {: .underline}
@@ -425,15 +494,24 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
  - **[A Cosine Maximization Minimization approach for User Oriented Multi-Document Update Summarization](/data/articles/boudin_ranlp07.pdf).**\\
    Florian Boudin, Juan-Manuel Torres-Moreno.\\
-   *Recent Advances in Natural Language Processing (RANLP), 2007.*
+   *Recent Advances in Natural Language Processing (RANLP).*\\
+   <span class="links">
+       [[paper](/data/articles/boudin_ranlp07.pdf)]
+   </span>
 
  - **[NEO-CORTEX: A Performant User-Oriented Multi-Document Summarization System](/data/articles/boudin_cicling07.pdf).**\\
    Florian Boudin, Juan Torres Moreno.\\
-   *Conference on Intelligent Text Processing and Computational Linguistics (CICLing), 2007.*
+   *Conference on Intelligent Text Processing and Computational Linguistics (CICLing).* \\
+   <span class="links">
+       [[paper](/data/articles/boudin_cicling07.pdf)]
+   </span>
 
  - **[The LIA-Thales summarization system at DUC-2007](http://www-nlpir.nist.gov/projects/duc/pubs/2007papers/uavignon.ps).**\\
    Florian Boudin, Benoit Favre, Frederic Béchet, Marc El-Bèze, Laurent Gillard, Juan-Manuel Torres-Moreno.\\
-   *Document Understanding Conference (DUC), 2007.*
+   *Document Understanding Conference (DUC).* \\
+   <span class="links">
+       [[paper](http://www-nlpir.nist.gov/projects/duc/pubs/2007papers/uavignon.ps)]
+   </span>
 
 # 2006
 {: .underline}
@@ -442,4 +520,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
  - **[The LIA-Thales summarization system at DUC-2006](http://www-nlpir.nist.gov/projects/duc/pubs/2006papers/LIA-Thales_Duc06_final.pdf).**\\
    Benoit Favre, Frederic Béchet, Patrice Bellot, Florian Boudin, Marc El-Beze, Laurent Gillard, Guy Lapalme, Juan-Manuel Torres-Moreno.\\
-   *Document Understanding Conference (DUC), 2006.*
+   *Document Understanding Conference (DUC).*\\
+   <span class="links">
+       [[paper](http://www-nlpir.nist.gov/projects/duc/pubs/2006papers/LIA-Thales_Duc06_final.pdf)]
+   </span>
