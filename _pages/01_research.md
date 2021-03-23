@@ -20,7 +20,7 @@ permalink: /research/
 * 4th International Workshop on Narrative Extraction from Texts ([Text2Story](https://text2story21.inesctec.pt/) at [ECIR 2021][ecir-2021])
 * 1st Joint Workshop on Narrative Understanding, Storylines, and Events ([NUSE](https://sites.google.com/view/nuse) at [ACL 2020][acl-2020])
 * 12th International Conference on Language Resources and Evaluation ([LREC 2020][lrec-2020]).
-* 2020 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2020][emnlp-2020]), Information Retrieval and Text Mining track.
+* 2020 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2020][emnlp-2020]), Information Retrieval and Text Mining track, for which [I have been selected among the outstanding reviewers](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf#page=29).
 * 28th International Conference on Computational Linguistics in 2020 ([COLING 2020][coling-2020]), Summarization and Simplification track.
 * 58th Annual Meeting of the Association for Computational Linguistics ([ACL 2020][acl-2020]), Summarization track.
 * 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing ([AACL-IJCNLP 2020][aacl-ijcnlp-2020]), Information Extraction and Text Mining track.

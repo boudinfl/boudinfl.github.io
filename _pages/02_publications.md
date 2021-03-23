@@ -7,6 +7,14 @@ permalink: /publications/
 Below is a list of my publications organized by date.
 You can also find my [Google Scholar profile](http://scholar.google.com/citations?user=Vk68rbkAAAAJ&hl=en).
 
+# 2021
+{: .underline}
+
+   {: .block}
+
+ - **Redefining Absent Keyphrases and their Effect on Retrieval Effectiveness.**\\
+   Florian Boudin, Ygor Gallina.\\
+   *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).*
 
 # 2020
 {: .underline}
