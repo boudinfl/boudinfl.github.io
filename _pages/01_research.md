@@ -12,8 +12,14 @@ permalink: /research/
 
 * The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing ([ACL-IJCNLP 2021][acl-ijcnlp-2021]), Summarization track.
 
+## ACL Rolling Review
+
+* Enrolled as a reviewer for the [ACL Rolling Review](https://aclrollingreview.org/) (starting from may 2021)
+
 ## Programme Committee &amp; Paper Reviewing
 
+* 2021 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2021][emnlp-2021]).
+* 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing ([ACL-IJCNLP 2021][acl-ijcnlp-2021]), Demonstration papers.
 * 16th conference of the European Chapter of the Association for Computational Linguistics ([EACL 2021][eacl-2021]), Generation and Summarization track.
 * 3rd Workshop on New Frontiers in Summarization ([NewSum](https://summarization2021.github.io/) at [EMNLP 2021][emnlp-2021]).
 * 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL-HLT 2021][naacl-hlt-2021]).
