@@ -12,11 +12,13 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[Redefining Absent Keyphrases and their Effect on Retrieval Effectiveness](https://arxiv.org/pdf/2103.12440.pdf).**\\
+ - **[Redefining Absent Keyphrases and their Effect on Retrieval Effectiveness](https://www.aclweb.org/anthology/2021.naacl-main.330.pdf).**\\
    Florian Boudin, Ygor Gallina.\\
    *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).* \\
    <span class="links">
-   [[arXiv](https://arxiv.org/pdf/2103.12440.pdf),
+   [[paper](https://www.aclweb.org/anthology/2021.naacl-main.330.pdf),
+    [bib](https://www.aclweb.org/anthology/2021.naacl-main.330.bib),
+    [arXiv](https://arxiv.org/pdf/2103.12440.pdf),
     [code](https://github.com/boudinfl/redefining-absent-keyphrases),
     [dataset](https://github.com/boudinfl/redefining-absent-keyphrases/blob/main/data/acm-cr/acm-cr.v1.tar.gz)]
    </span>
