@@ -23,6 +23,14 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [dataset](https://github.com/boudinfl/redefining-absent-keyphrases/blob/main/data/acm-cr/acm-cr.v1.tar.gz)]
    </span>
 
+  - **ACM-CR: A Manually Annotated Test Collection for Citation Recommendation.**\\
+     Florian Boudin.\\
+     *Joint Conference on Digital Libraries (JCDL).*\\
+     <span class="links">
+     [arXiv,
+      [dataset](https://github.com/boudinfl/acm-cr)]
+     </span>
+
 # 2020
 {: .underline}
 
