@@ -27,7 +27,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
      Florian Boudin.\\
      *Joint Conference on Digital Libraries (JCDL).*\\
      <span class="links">
-     [arXiv,
+     [[arXiv](https://arxiv.org/pdf/2108.07571.pdf),
       [dataset](https://github.com/boudinfl/acm-cr)]
      </span>
 
