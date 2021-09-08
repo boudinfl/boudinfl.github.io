@@ -23,12 +23,19 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [dataset](https://github.com/boudinfl/redefining-absent-keyphrases/blob/main/data/acm-cr/acm-cr.v1.tar.gz)]
    </span>
 
-  - **ACM-CR: A Manually Annotated Test Collection for Citation Recommendation.**\\
+  - **[ACM-CR: A Manually Annotated Test Collection for Citation Recommendation](https://arxiv.org/pdf/2108.07571.pdf).**\\
      Florian Boudin.\\
      *Joint Conference on Digital Libraries (JCDL).*\\
      <span class="links">
      [[arXiv](https://arxiv.org/pdf/2108.07571.pdf),
       [dataset](https://github.com/boudinfl/acm-cr)]
+     </span>
+
+  - **[Extraction and evaluation of formulaic expressions used in scholarly papers](https://doi.org/10.1016/j.eswa.2021.115840).**\\
+     Kenichi Iwatsuki, Florian Boudin, Akiko Aizawa.\\
+     *Expert Systems with Applications.*\\
+     <span class="links">
+     [[paper](https://www.sciencedirect.com/science/article/pii/S095741742101201X/pdfft?md5=988aff321b87884a69d5400bb6f9e3ec&pid=1-s2.0-S095741742101201X-main.pdf)]
      </span>
 
 # 2020
