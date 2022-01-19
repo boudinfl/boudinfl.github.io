@@ -16,6 +16,12 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    Rui Meng, Debanjan Mahata, Florian Boudin.\\
    *Half-day tutorial at the European Conference on Information Retrieval (ECIR).*
 
+  - **[Extraction and evaluation of formulaic expressions used in scholarly papers](https://doi.org/10.1016/j.eswa.2021.115840).**\\
+     Kenichi Iwatsuki, Florian Boudin, Akiko Aizawa.\\
+     *Expert Systems with Applications.*\\
+     <span class="links">
+     [[paper](https://www.sciencedirect.com/science/article/pii/S095741742101201X/pdfft?md5=988aff321b87884a69d5400bb6f9e3ec&pid=1-s2.0-S095741742101201X-main.pdf)]
+     </span>
 
 # 2021
 {: .underline}
@@ -39,13 +45,6 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
      <span class="links">
      [[arXiv](https://arxiv.org/pdf/2108.07571.pdf),
       [dataset](https://github.com/boudinfl/acm-cr)]
-     </span>
-
-  - **[Extraction and evaluation of formulaic expressions used in scholarly papers](https://doi.org/10.1016/j.eswa.2021.115840).**\\
-     Kenichi Iwatsuki, Florian Boudin, Akiko Aizawa.\\
-     *Expert Systems with Applications.*\\
-     <span class="links">
-     [[paper](https://www.sciencedirect.com/science/article/pii/S095741742101201X/pdfft?md5=988aff321b87884a69d5400bb6f9e3ec&pid=1-s2.0-S095741742101201X-main.pdf)]
      </span>
 
 # 2020
@@ -88,7 +87,6 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [bib](https://www.aclweb.org/anthology/2020.lrec-1.212.bib),
     [dataset](https://github.com/Alab-NII/FECFevalDataset)]
    </span>
-
 
  - **[TermEval 2020: TALN-LS2N System for Automatic Term Extraction](https://www.aclweb.org/anthology/2020.computerm-1.13.pdf).**\\
    Amir Hazem, Mérieme Bouhandi, Florian Boudin, Beatrice Daille.\\
