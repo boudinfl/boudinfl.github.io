@@ -7,6 +7,16 @@ permalink: /publications/
 Below is a list of my publications organized by date.
 You can also find my [Google Scholar profile](http://scholar.google.com/citations?user=Vk68rbkAAAAJ&hl=en).
 
+# 2022
+{: .underline}
+
+   {: .block}
+
+ - **From Fundamentals to Recent Advances: A Tutorial on Keyphrasification.**\\
+   Rui Meng, Debanjan Mahata, Florian Boudin.\\
+   *Half-day tutorial at the European Conference on Information Retrieval (ECIR).*
+
+
 # 2021
 {: .underline}
 
@@ -23,7 +33,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [dataset](https://github.com/boudinfl/redefining-absent-keyphrases/blob/main/data/acm-cr/acm-cr.v1.tar.gz)]
    </span>
 
-  - **[ACM-CR: A Manually Annotated Test Collection for Citation Recommendation](https://arxiv.org/pdf/2108.07571.pdf).**\\
+  - **[ACM-CR: A Manually Annotated Test Collection for Citation Recommendation](https://ieeexplore.ieee.org/document/9651788).**\\
      Florian Boudin.\\
      *Joint Conference on Digital Libraries (JCDL).*\\
      <span class="links">
