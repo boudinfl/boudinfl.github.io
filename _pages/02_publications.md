@@ -12,9 +12,12 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **From Fundamentals to Recent Advances: A Tutorial on Keyphrasification.**\\
+ - **[From Fundamentals to Recent Advances: A Tutorial on Keyphrasification](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_73).**\\
    Rui Meng, Debanjan Mahata, Florian Boudin.\\
-   *Half-day tutorial at the European Conference on Information Retrieval (ECIR).*
+   *Half-day tutorial at the European Conference on Information Retrieval (ECIR).*\\
+   <span class="links">
+     [[website](https://keyphrasification.github.io/)]
+   </span>
 
   - **[Extraction and evaluation of formulaic expressions used in scholarly papers](https://doi.org/10.1016/j.eswa.2021.115840).**\\
      Kenichi Iwatsuki, Florian Boudin, Akiko Aizawa.\\

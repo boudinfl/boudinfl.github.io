@@ -14,13 +14,20 @@ permalink: /research/
 
 ## ACL Rolling Review
 
+* Enrolled as an action editor for the [ACL Rolling Review](https://aclrollingreview.org/) (starting from october 2021)
 * Enrolled as a reviewer for the [ACL Rolling Review](https://aclrollingreview.org/) (starting from may 2021)
 
 ## Programme Committee &amp; Paper Reviewing
 
+* 1st Workshop on Automatic Summarization for Creative Writing ([Creative-sum](https://creativesumm.github.io/) at [COLING 2022][coling-2022]).
+* 29th International Conference on Computational Linguistics in 2022 ([COLING 2022][coling-2022]).
+* 2nd Workshop on Digital Infrastructures for Scholarly Content Objects ([DISCO](https://infoqualitylab.org/events/disco2022/) at [JCDL 2022][jcdl-2022]).
+* 5th International Workshop on Narrative Extraction from Texts ([Text2Story](https://text2story22.inesctec.pt/) at [ECIR 2022][ecir-2022]).
+* 13th International Conference on Language Resources and Evaluation ([LREC 2022][lrec-2022]).
 * 2021 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2021][emnlp-2021]).
 * 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing ([ACL-IJCNLP 2021][acl-ijcnlp-2021]), Demonstration papers.
 * 16th conference of the European Chapter of the Association for Computational Linguistics ([EACL 2021][eacl-2021]), Generation and Summarization track.
+* 1st Workshop on Digital Infrastructures for Scholarly Content Objects ([DISCO](https://infoqualitylab.org/events/disco2021/) at [JCDL 2021][jcdl-2021]).
 * 3rd Workshop on New Frontiers in Summarization ([NewSum](https://summarization2021.github.io/) at [EMNLP 2021][emnlp-2021]).
 * 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL-HLT 2021][naacl-hlt-2021]).
 * 4th International Workshop on Narrative Extraction from Texts ([Text2Story](https://text2story21.inesctec.pt/) at [ECIR 2021][ecir-2021])
@@ -51,18 +58,23 @@ permalink: /research/
 
 ## Journal Reviewing
 
-* ad-hoc reviewer for [Traitement Automatique des Langues](http://www.atala.org/-Revue-TAL-), [Information Retrieval](http://link.springer.com/journal/10791), [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering), [Information Processing & Management](http://www.journals.elsevier.com/information-processing-and-management), [Journal of Cheminformatics](https://jcheminf.springeropen.com/), [Language Resources and Evaluation](http://link.springer.com/journal/10579)
+* ad-hoc reviewer for [Traitement Automatique des Langues](http://www.atala.org/-Revue-TAL-), [Information Retrieval](http://link.springer.com/journal/10791), [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering), [Information Processing & Management](http://www.journals.elsevier.com/information-processing-and-management), [Journal of Cheminformatics](https://jcheminf.springeropen.com/), [Language Resources and Evaluation](http://link.springer.com/journal/10579), [Artificial Intelligence](https://aij.ijcai.org/).
 
 ## Other
 
 * Past maintainer of [TALN Archives](http://www.atala.org/taln_archives/), a digital archive of French research articles in Natural Language Processing
 * I was an elected member of the [ATALA](http://www.atala.org/) from 2013-2016
 
+[coling-2022]: https://coling2022.org/
+[jcdl-2022]: https://2022.jcdl.org/
+[ecir-2022]: https://ecir2022.org/
+[lrec-2022]: https://lrec2022.lrec-conf.org/
 [acl-ijcnlp-2021]: https://2021.aclweb.org/
 [eacl-2021]: https://2021.eacl.org/
 [emnlp-2021]: https://2021.emnlp.org/
 [naacl-hlt-2021]: https://2021.naacl.org/
 [ecir-2021]: https://www.ecir2021.eu/
+[jcdl-2021]: https://2021.jcdl.org/
 [acl-2020]: https://acl2020.org/
 [lrec-2020]: https://lrec2020.lrec-conf.org/en/
 [emnlp-2020]: https://2020.emnlp.org/
