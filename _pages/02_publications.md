@@ -12,6 +12,10 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
+ - **Cross-lingual and Cross-domain Transfer Learning for Automatic Term Extraction from Low Resource Data.**\\
+   Amir Hazem, Mérieme Bouhandi, Florian Boudin, Beatrice Daille.\\
+   *Language Resources and Evaluation Conference (LREC).*
+
  - **[From Fundamentals to Recent Advances: A Tutorial on Keyphrasification](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_73).**\\
    Rui Meng, Debanjan Mahata, Florian Boudin.\\
    *Half-day tutorial at the European Conference on Information Retrieval (ECIR).*\\
