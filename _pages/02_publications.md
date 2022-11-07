@@ -12,9 +12,13 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **Cross-lingual and Cross-domain Transfer Learning for Automatic Term Extraction from Low Resource Data.**\\
+ - **[Cross-lingual and Cross-domain Transfer Learning for Automatic Term Extraction from Low Resource Data](https://aclanthology.org/2022.lrec-1.68.pdf).**\\
    Amir Hazem, Mérieme Bouhandi, Florian Boudin, Beatrice Daille.\\
-   *Language Resources and Evaluation Conference (LREC).*
+   *Language Resources and Evaluation Conference (LREC).* \\
+   <span class="links">
+   [[paper](https://aclanthology.org/2022.lrec-1.68.pdf),
+    [bib](https://aclanthology.org/2022.lrec-1.68.bib)]
+   </span>
 
  - **[From Fundamentals to Recent Advances: A Tutorial on Keyphrasification](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_73).**\\
    Rui Meng, Debanjan Mahata, Florian Boudin.\\
