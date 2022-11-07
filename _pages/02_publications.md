@@ -12,6 +12,14 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
+ - **A large-scale dataset for biomedical keyphrase generation.** \\
+   Maël Houbre, Florian Boudin, Béatrice Daille. \\
+   *International Workshop on Health Text Mining and Information Analysis (LOUHI).*\\
+   <span class="links">
+   [[code](https://huggingface.co/taln-ls2n/kpbiomed-models),
+    [dataset](https://huggingface.co/datasets/taln-ls2n/kpbiomed)]
+   </span>
+
  - **[Cross-lingual and Cross-domain Transfer Learning for Automatic Term Extraction from Low Resource Data](https://aclanthology.org/2022.lrec-1.68.pdf).**\\
    Amir Hazem, Mérieme Bouhandi, Florian Boudin, Beatrice Daille.\\
    *Language Resources and Evaluation Conference (LREC).* \\
