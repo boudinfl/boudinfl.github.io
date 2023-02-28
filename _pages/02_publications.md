@@ -12,11 +12,13 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **A large-scale dataset for biomedical keyphrase generation.** \\
+ - **[A large-scale dataset for biomedical keyphrase generation](https://aclanthology.org/2022.louhi-1.6.pdf).** \\
    Maël Houbre, Florian Boudin, Béatrice Daille. \\
    *International Workshop on Health Text Mining and Information Analysis (LOUHI).*\\
    <span class="links">
-   [[code](https://huggingface.co/taln-ls2n/kpbiomed-models),
+   [[paper](https://aclanthology.org/2022.louhi-1.6.pdf),
+    [bib](https://aclanthology.org/2022.louhi-1.6.bib),
+    [code](https://huggingface.co/taln-ls2n/kpbiomed-models),
     [dataset](https://huggingface.co/datasets/taln-ls2n/kpbiomed)]
    </span>
 
