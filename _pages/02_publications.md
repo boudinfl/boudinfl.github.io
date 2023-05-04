@@ -7,6 +7,20 @@ permalink: /publications/
 Below is a list of my publications organized by date.
 You can also find my [Google Scholar profile](http://scholar.google.com/citations?user=Vk68rbkAAAAJ&hl=en).
 
+# 2023
+{: .underline}
+
+   {: .block}
+
+  - **[Text revision in Scientific Writing Assistance: A Review](https://arxiv.org/pdf/2303.16726.pdf).** \\
+   Léane Jourdan, Florian Boudin, Nicolas Hernandez, Richard Dufour. \\
+   *International Workshop on Bibliometric-enhanced Information Retrieval (BIR).*\\
+   <span class="links">
+   [[paper](https://drive.google.com/file/d/1NLjBaDpnZHyeFyWB75lnVfaaKMYU8WZh/view?usp=sharing),
+    [arXiv](https://arxiv.org/pdf/2303.16726.pdf)]
+   </span>
+
+
 # 2022
 {: .underline}
 

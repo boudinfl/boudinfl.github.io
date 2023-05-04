@@ -16,5 +16,7 @@ permalink: /students/
 
 ## M.S. Students
 
-- [Timothée Poulain](https://github.com/poulain-tim) (2020; now Ph.D. student at Université de Nantes) worked on keyphrase generation.
+- Rima Boubekeur (2022) worked on automatic twitter hashtag generation.
+- Timothée Poulain (2020) worked on keyphrase generation.
+- Carol Couillerot (2019) worked on spam detection.
 - [Rémi Bois](https://github.com/sildar) (2014; now Ph.D. student at Université de Rennes) worked on Multi-document Summarization through Sentence Fusion. His M.S. thesis is available [here](/data/students/m2_thesis_remi-bois.pdf).
