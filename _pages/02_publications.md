@@ -20,6 +20,29 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [arXiv](https://arxiv.org/pdf/2303.16726.pdf)]
    </span>
 
+  - **[CASIMIR : un Corpus d’Articles Scientifiques Intégrant les ModIfications et Révisions des auteurs](http://talnarchives.atala.org/ateliers/2023/ARTS/1467171.pdf).** \\
+   Léane Jourdan, Florian Boudin, Nicolas Hernandez, Richard Dufour. \\
+   *Atelier sur l'Analyse et Recherche de Textes Scientifiques (ARTS).*\\
+   <span class="links">
+   [[paper](http://talnarchives.atala.org/ateliers/2023/ARTS/1467171.pdf),
+    [bib](http://talnarchives.atala.org/ateliers/2023/ARTS/1467171.bib)]
+   </span>
+
+  - **[Classification de relation pour la génération de mots-clés absents](http://talnarchives.atala.org/ateliers/2023/ARTS/1467544.pdf).** \\
+   Maël Houbre, Florian Boudin, Béatrice Daille. \\
+   *Atelier sur l'Analyse et Recherche de Textes Scientifiques (ARTS).*\\
+   <span class="links">
+   [[paper](http://talnarchives.atala.org/ateliers/2023/ARTS/1467544.pdf),
+    [bib](http://talnarchives.atala.org/ateliers/2023/ARTS/1467544.bib)]
+   </span>
+
+   - **[Projet NaviTerm : navigation terminologique pour une montée en compétence rapide et personnalisée sur un domaine de recherche](http://talnarchives.atala.org/ateliers/2023/ARTS/1465544.pdf).** \\
+   Florian Boudin, Richard Dufour, Béatrice Daille. \\
+   *Atelier sur l'Analyse et Recherche de Textes Scientifiques (ARTS).*\\
+   <span class="links">
+   [[paper](http://talnarchives.atala.org/ateliers/2023/ARTS/1465544.pdf),
+    [bib](http://talnarchives.atala.org/ateliers/2023/ARTS/1465544.bib)]
+   </span>
 
 # 2022
 {: .underline}
