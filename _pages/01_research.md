@@ -26,6 +26,8 @@ permalink: /research/
 
 ## Area Chairing
 
+* 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation ([LREC-COLING 2024][lrec-coling-2024])
+* 2023 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2023][emnlp-2023]))
 * 2022 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2022](https://2022.emnlp.org/))
 * The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing ([ACL-IJCNLP 2021][acl-ijcnlp-2021]), Summarization track.
 
@@ -36,8 +38,11 @@ permalink: /research/
 
 ## Programme Committee &amp; Paper Reviewing
 
+* 61st Annual Meeting of the Association for Computational Linguistics ([ACL 2023][acl-2023])
 * 4th Workshop on New Frontiers in Summarization ([NewSum](https://newsumm.github.io/2023/) at [EMNLP 2023][emnlp-2023]).
 * 6th International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR 2023](https://sigir.org/sigir2023/))
+* 45th European Conference on Information Retrieval ([ECIR 2023][ecir-2023])
+* 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics ([IJCNLP-AACL 2023][ijcnlp-aacl-2023])
 * 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing ([AACL-IJCNLP 2022](https://www.aacl2022.org/))
 * 1st Workshop on Automatic Summarization for Creative Writing ([Creative-sum](https://creativesumm.github.io/) at [COLING 2022][coling-2022]).
 * 29th International Conference on Computational Linguistics in 2022 ([COLING 2022][coling-2022]).
@@ -78,13 +83,17 @@ permalink: /research/
 
 ## Journal Reviewing
 
-* ad-hoc reviewer for [Traitement Automatique des Langues](http://www.atala.org/-Revue-TAL-), [Information Retrieval](http://link.springer.com/journal/10791), [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering), [Information Processing & Management](http://www.journals.elsevier.com/information-processing-and-management), [Journal of Cheminformatics](https://jcheminf.springeropen.com/), [Language Resources and Evaluation](http://link.springer.com/journal/10579), [Artificial Intelligence](https://aij.ijcai.org/).
+* ad-hoc reviewer for [Traitement Automatique des Langues](http://www.atala.org/-Revue-TAL-), [Information Retrieval](http://link.springer.com/journal/10791), [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering), [Information Processing & Management](http://www.journals.elsevier.com/information-processing-and-management), [Journal of Cheminformatics](https://jcheminf.springeropen.com/), [Language Resources and Evaluation](http://link.springer.com/journal/10579), [Artificial Intelligence](https://aij.ijcai.org/), [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/).
 
 ## Other
 
 * Past maintainer of [TALN Archives](http://www.atala.org/taln_archives/), a digital archive of French research articles in Natural Language Processing
 * I was an elected member of the [ATALA](http://www.atala.org/) from 2013-2016
 
+[lrec-coling-2024]: https://lrec-coling-2024.org/
+[ijcnlp-aacl-2023]: https://ijcnlp-aacl2023.org/
+[ecir-2023]: https://ecir2023.org/
+[acl-2023]: https://2023.aclweb.org/
 [emnlp-2023]: https://2023.emnlp.org/
 [coling-2022]: https://coling2022.org/
 [jcdl-2022]: https://2022.jcdl.org/
