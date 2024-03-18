@@ -7,6 +7,26 @@ permalink: /publications/
 Below is a list of my publications organized by date.
 You can also find my [Google Scholar profile](http://scholar.google.com/citations?user=Vk68rbkAAAAJ&hl=en).
 
+# 2024
+{: .underline}
+
+   {: .block}
+
+   - **[CASIMIR: A Corpus of Scientific Articles enhanced with Multiple Author-Integrated Revisions](https://arxiv.org/pdf/2403.00241.pdf).** \\
+   Léane Jourdan, Florian Boudin, Nicolas Hernandez, Richard Dufour. \\
+   *Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING).*\\
+   <span class="links">
+   [[arxiv](https://arxiv.org/pdf/2403.00241.pdf)]
+   </span>
+
+   - **[A Survey of Pre-trained Language Models for Processing Scientific Text](https://arxiv.org/pdf/2401.17824.pdf).** \\
+   Xanh Ho, Anh Khoa Duong Nguyen, An Tuan Dao, Junfeng Jiang, Yuki Chida, Kaito Sugimoto, Huy Quoc To, Florian Boudin, Akiko Aizawa. \\
+   <span class="links">
+   [[github](https://github.com/Alab-NII/Awesome-SciLM),
+    [arXiv](https://arxiv.org/pdf/2401.17824.pdf)]
+   </span>
+
+
 # 2023
 {: .underline}
 
@@ -43,6 +63,10 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    [[paper](http://talnarchives.atala.org/ateliers/2023/ARTS/1465544.pdf),
     [bib](http://talnarchives.atala.org/ateliers/2023/ARTS/1465544.bib)]
    </span>
+
+   - **[Analyse et indexation de textes scientifiques](https://theses.hal.science/tel-04137160).** \\
+   Florian Boudin. \\
+   *Habilitation à Diriger les Recherches (HDR).*
 
 # 2022
 {: .underline}
