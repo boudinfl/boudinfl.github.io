@@ -26,6 +26,7 @@ permalink: /research/
 
 ## Area Chairing
 
+* 2023 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2024][emnlp-2024])
 * 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation ([LREC-COLING 2024][lrec-coling-2024])
 * 2023 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2023][emnlp-2023])
 * 2022 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2022](https://2022.emnlp.org/))
@@ -38,6 +39,10 @@ permalink: /research/
 
 ## Programme Committee &amp; Paper Reviewing
 
+* 28th International Conference on Theory and Practice of Digital Libraries ([TPDL 2024](https://tpdl2024.nuk.si/))
+* 1st Conference on Language Modeling ([COLM 2024](https://colmweb.org/))
+* 2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific ([SIGIR-AP 2024](https://www.sigir-ap.org/sigir-ap-2024/))
+* 47th International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR 2024](https://sigir-2024.github.io/))
 * Workshop Evaluating Text Difficulty in a Multilingual Context ([DeTermIt!](https://determit2024.dei.unipd.it/) at [LREC-COLING 2024][lrec-coling-2024])
 * 61st Annual Meeting of the Association for Computational Linguistics ([ACL 2023][acl-2023])
 * 4th Workshop on New Frontiers in Summarization ([NewSum](https://newsumm.github.io/2023/) at [EMNLP 2023][emnlp-2023]).
@@ -85,12 +90,14 @@ permalink: /research/
 ## Journal Reviewing
 
 * ad-hoc reviewer for [Traitement Automatique des Langues](http://www.atala.org/-Revue-TAL-), [Information Retrieval](http://link.springer.com/journal/10791), [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering), [Information Processing & Management](http://www.journals.elsevier.com/information-processing-and-management), [Journal of Cheminformatics](https://jcheminf.springeropen.com/), [Language Resources and Evaluation](http://link.springer.com/journal/10579), [Artificial Intelligence](https://aij.ijcai.org/), [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/).
+* guest editor for the [special issue of the TAL journal on Scholarly Document Processing](https://tal-65-2.sciencesconf.org/)
 
 ## Other
 
 * Past maintainer of [TALN Archives](http://www.atala.org/taln_archives/), a digital archive of French research articles in Natural Language Processing
 * I was an elected member of the [ATALA](http://www.atala.org/) from 2013-2016
 
+[emnlp-2024]: https://2024.emnlp.org/
 [lrec-coling-2024]: https://lrec-coling-2024.org/
 [ijcnlp-aacl-2023]: https://ijcnlp-aacl2023.org/
 [ecir-2023]: https://ecir2023.org/
