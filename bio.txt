@@ -1,0 +1,1 @@
+Florian Boudin is an Associate Professor of Computer Science at Nantes University, where he co-leads the TALN research group at the laboratory of Digital Sciences of Nantes (LS2N). His research interests lie in the fields of Natural Language Processing (NLP) and Information Retrieval (IR), with a focus on applications involving scholarly documents.
