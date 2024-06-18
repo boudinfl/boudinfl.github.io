@@ -27,7 +27,7 @@ permalink: /research/
 ## Area Chairing
 
 * 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation ([LREC-COLING 2024][lrec-coling-2024])
-* 2023 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2023][emnlp-2023]))
+* 2023 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2023][emnlp-2023])
 * 2022 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2022](https://2022.emnlp.org/))
 * The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing ([ACL-IJCNLP 2021][acl-ijcnlp-2021]), Summarization track.
 
@@ -38,6 +38,7 @@ permalink: /research/
 
 ## Programme Committee &amp; Paper Reviewing
 
+* Workshop Evaluating Text Difficulty in a Multilingual Context ([DeTermIt!](https://determit2024.dei.unipd.it/) at [LREC-COLING 2024][lrec-coling-2024])
 * 61st Annual Meeting of the Association for Computational Linguistics ([ACL 2023][acl-2023])
 * 4th Workshop on New Frontiers in Summarization ([NewSum](https://newsumm.github.io/2023/) at [EMNLP 2023][emnlp-2023]).
 * 6th International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR 2023](https://sigir.org/sigir2023/))
