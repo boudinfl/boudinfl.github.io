@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# Research projects
+# Projects
 {: .underline}
 
 * 2022 -- [NaviTerm - Terminological Navigation for Assisting Researchers in Gaining Expertise on a new Research Domain](https://cnrs-naviterm.github.io/)
