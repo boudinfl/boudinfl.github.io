@@ -8,10 +8,8 @@ layout: default
 <span id="courriel">&#102;&#108;&#111;&#114;&#105;&#097;&#110;&#046;&#098;&#111;&#117;&#100;&#105;&#110;&#064;&#117;&#110;&#105;&#118;&#045;&#110;&#097;&#110;&#116;&#101;&#115;&#046;&#102;&#114;</span>
 {: .decalage}
 
-I am Associate Professor ([HDR](https://theses.hal.science/tel-04137160)) of Computer Science at Nantes University.
-My [research]({{ site.baseurl }}/research/) lies within the fields of Natural Language Processing (NLP) and Information Retrieval (IR).
-My main research interests are weakly supervised/unsupervised learning and graph-based approaches with applications including keyphrase extraction and generation, summarization and document retrieval in scholarly collections.
-I'm doing research [Laboratory of Digital Sciences of Nantes (LS2N)](http://www.ls2n.fr) in the [TALN group](http://taln.ls2n.fr) and I do some [teaching]({{ site.baseurl }}/teaching/) too.
+I am Associate Professor ([HDR](https://theses.hal.science/tel-04137160)) of Computer Science at Nantes University, where I co-lead the [TALN research group](http://taln.ls2n.fr) (together with [Richard Dufour](https://cv.hal.science/richard-dufour)) at the [Laboratory of Digital Sciences of Nantes (LS2N)](http://www.ls2n.fr).
+My [research]({{ site.baseurl }}/research/) lies within the fields of Natural Language Processing (NLP) and Information Retrieval (IR), with a focus on applications involving scholarly documents.
 Currently, I held a research leave at the [Japanese-French Laboratory for Informatics (JFLI)](https://jfli.cnrs.fr/) in Tokyo.
 {: .decalage}
 

@@ -7,3 +7,5 @@ _site
 *.lock
 *.lock
 .idea
+Gemfile
+Gemfile.lock
