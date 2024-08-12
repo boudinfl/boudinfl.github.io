@@ -39,7 +39,7 @@ p {
 	text-align: justify;
 }
 
-p.decalage {
+.decalage {
 	margin-left: 220px;
 }
 
@@ -91,14 +91,6 @@ ul.block li + li {
 
 ul.block li p {
 	margin: 0px;
-}
-
-ul li + li {
-	//margin-top: 5px;
-}
-
-ul li ul li {
-	//margin-bottom: 10px;
 }
 
 #img-thumbnail {

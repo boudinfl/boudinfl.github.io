@@ -12,11 +12,22 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
-   - **[CASIMIR: A Corpus of Scientific Articles enhanced with Multiple Author-Integrated Revisions](https://arxiv.org/pdf/2403.00241.pdf).** \\
+   - **[Automatically Suggesting Diverse Example Sentences for L2 Japanese Learners Using Pre-Trained Language Models](https://sites.google.com/view/acl-srw2024/accepted-papers).** \\
+    Enrico Benedetti, Akiko Aizawa, Florian Boudin. \\
+    *Association for Computational Linguistics (ACL): Student Research Workshop.*\\
+    <span class="links">
+    [[paper](https://sites.google.com/view/acl-srw2024/accepted-papers),
+     [code](https://github.com/EnricoBenedetti/NihongoExamplePLM)]
+    </span>
+
+   - **[CASIMIR: A Corpus of Scientific Articles enhanced with Multiple Author-Integrated Revisions](https://aclanthology.org/2024.lrec-main.257.pdf).** \\
    Léane Jourdan, Florian Boudin, Nicolas Hernandez, Richard Dufour. \\
    *Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING).*\\
    <span class="links">
-   [[arxiv](https://arxiv.org/pdf/2403.00241.pdf)]
+   [[arxiv](https://arxiv.org/pdf/2403.00241.pdf),
+    [paper](https://aclanthology.org/2024.lrec-main.257.pdf),
+    [bib](https://aclanthology.org/2024.lrec-main.257.bib),
+    [dataset](https://huggingface.co/datasets/taln-ls2n/CASIMIR)]
    </span>
 
    - **[A Survey of Pre-trained Language Models for Processing Scientific Text](https://arxiv.org/pdf/2401.17824.pdf).** \\
@@ -32,36 +43,36 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
-  - **[Text revision in Scientific Writing Assistance: A Review](https://arxiv.org/pdf/2303.16726.pdf).** \\
+  - **[Text revision in Scientific Writing Assistance: A Review](https://ceur-ws.org/Vol-3617/paper-04.pdf).** \\
    Léane Jourdan, Florian Boudin, Nicolas Hernandez, Richard Dufour. \\
    *International Workshop on Bibliometric-enhanced Information Retrieval (BIR).*\\
    <span class="links">
-   [[paper](https://drive.google.com/file/d/1NLjBaDpnZHyeFyWB75lnVfaaKMYU8WZh/view?usp=sharing),
+   [[paper](https://ceur-ws.org/Vol-3617/paper-04.pdf),
     [arXiv](https://arxiv.org/pdf/2303.16726.pdf)]
    </span>
 
-  - **[CASIMIR : un Corpus d’Articles Scientifiques Intégrant les ModIfications et Révisions des auteurs](http://talnarchives.atala.org/ateliers/2023/ARTS/1467171.pdf).** \\
+  - **[CASIMIR: un Corpus d’Articles Scientifiques Intégrant les ModIfications et Révisions des auteurs](https://aclanthology.org/2023.jeptalnrecital-arts.10.pdf).** \\
    Léane Jourdan, Florian Boudin, Nicolas Hernandez, Richard Dufour. \\
    *Atelier sur l'Analyse et Recherche de Textes Scientifiques (ARTS).*\\
    <span class="links">
-   [[paper](http://talnarchives.atala.org/ateliers/2023/ARTS/1467171.pdf),
-    [bib](http://talnarchives.atala.org/ateliers/2023/ARTS/1467171.bib)]
+   [[paper](https://aclanthology.org/2023.jeptalnrecital-arts.10.pdf),
+    [bib](https://aclanthology.org/2023.jeptalnrecital-arts.10.bib)]
    </span>
 
-  - **[Classification de relation pour la génération de mots-clés absents](http://talnarchives.atala.org/ateliers/2023/ARTS/1467544.pdf).** \\
+  - **[Classification de relation pour la génération de mots-clés absents](https://aclanthology.org/2023.jeptalnrecital-arts.8.pdf).** \\
    Maël Houbre, Florian Boudin, Béatrice Daille. \\
    *Atelier sur l'Analyse et Recherche de Textes Scientifiques (ARTS).*\\
    <span class="links">
-   [[paper](http://talnarchives.atala.org/ateliers/2023/ARTS/1467544.pdf),
-    [bib](http://talnarchives.atala.org/ateliers/2023/ARTS/1467544.bib)]
+   [[paper](https://aclanthology.org/2023.jeptalnrecital-arts.8.pdf),
+    [bib](https://aclanthology.org/2023.jeptalnrecital-arts.8.bib)]
    </span>
 
-   - **[Projet NaviTerm : navigation terminologique pour une montée en compétence rapide et personnalisée sur un domaine de recherche](http://talnarchives.atala.org/ateliers/2023/ARTS/1465544.pdf).** \\
+   - **[Projet NaviTerm: navigation terminologique pour une montée en compétence rapide et personnalisée sur un domaine de recherche](https://aclanthology.org/2023.jeptalnrecital-arts.3.pdf).** \\
    Florian Boudin, Richard Dufour, Béatrice Daille. \\
    *Atelier sur l'Analyse et Recherche de Textes Scientifiques (ARTS).*\\
    <span class="links">
-   [[paper](http://talnarchives.atala.org/ateliers/2023/ARTS/1465544.pdf),
-    [bib](http://talnarchives.atala.org/ateliers/2023/ARTS/1465544.bib)]
+   [[paper](https://aclanthology.org/2023.jeptalnrecital-arts.3.pdf),
+    [bib](https://aclanthology.org/2023.jeptalnrecital-arts.3.bib)]
    </span>
 
    - **[Analyse et indexation de textes scientifiques](https://theses.hal.science/tel-04137160).** \\
