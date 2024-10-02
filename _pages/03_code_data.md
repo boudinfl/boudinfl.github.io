@@ -22,8 +22,20 @@ permalink: /code/
   graph. A keyphrase-based reranking method can be applied to generate more
   informative compressions.
 
+# Models
+{: .underline}
+
+ - [`bart-base-kp20k`](https://huggingface.co/taln-ls2n/bart-base-kp20k)
+    is a [bart-base](https://huggingface.co/facebook/bart-base) model for scientific keyphrase generation fine-tuned on the [KP20k dataset](https://huggingface.co/datasets/taln-ls2n/kp20k).
+
 # Datasets
 {: .underline}
+
+ - [<u>Si</u>lver-standard <u>ke</u>yphrases from citation contexts for domain adaptation (silk)](https://huggingface.co/datasets/taln-ls2n/silk)  
+   A dataset of synthetic samples for adapting keyphrase generation models to new domains. It contains synthetic samples for three specific domains: Natural Language Processing, Astrophysics and Paleontology, along with human-labeled test sets to evaluate keyphrase generation performance across these domains.
+
+ - [A Large-Scale Dataset for Biomedical Keyphrase Generation (kp-biomed)](https://huggingface.co/datasets/taln-ls2n/kpbiomed)  
+   A large-scale dataset of 5.6 million PubMed abstracts with author assigned keyphrases for training and evaluating neural keyphrase generation models on the biomedical domain.
 
  - [A Large-Scale Dataset for Keyphrase Generation on News Documents (KPNews)](https://github.com/ygorg/KPTimes)  
    A large-scale dataset of 279,923 news texts paired with editor-curated keyphrases for training and evaluating neural keyphrase generation models on the news domain.

@@ -12,11 +12,19 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
-   - **[Automatically Suggesting Diverse Example Sentences for L2 Japanese Learners Using Pre-Trained Language Models](https://sites.google.com/view/acl-srw2024/accepted-papers).** \\
+   - **[Unsupervised Domain Adaptation for Keyphrase Generation using Citation Contexts](https://arxiv.org/abs/2409.13266).** \\
+   Florian Boudin, Akiko Aizawa. \\
+   *Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings.*\\
+   <span class="links">
+   [[arxiv](https://arxiv.org/pdf/2409.13266.pdf)]
+   </span>
+
+   - **[Automatically Suggesting Diverse Example Sentences for L2 Japanese Learners Using Pre-Trained Language Models](https://aclanthology.org/2024.acl-srw.11.pdf).** \\
     Enrico Benedetti, Akiko Aizawa, Florian Boudin. \\
     *Association for Computational Linguistics (ACL): Student Research Workshop.*\\
     <span class="links">
-    [[paper](https://sites.google.com/view/acl-srw2024/accepted-papers),
+    [[paper](https://aclanthology.org/2024.acl-srw.11.pdf),
+     [bib](https://aclanthology.org/2024.acl-srw.11.bib),
      [code](https://github.com/EnricoBenedetti/NihongoExamplePLM)]
     </span>
 
