@@ -12,6 +12,10 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
+   - **Self-Compositional Data Augmentation for Scientific Keyphrase Generation.**\\
+   Maël Houbre, Florian Boudin, Béatrice Daille, Akiko Aizawa.\\
+   *Joint Conference on Digital Libraries (JCDL)*.
+
    - **[Unsupervised Domain Adaptation for Keyphrase Generation using Citation Contexts](https://arxiv.org/abs/2409.13266).** \\
    Florian Boudin, Akiko Aizawa. \\
    *Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings.*\\
