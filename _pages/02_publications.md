@@ -20,7 +20,8 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    Florian Boudin, Akiko Aizawa. \\
    *Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings.*\\
    <span class="links">
-   [[arxiv](https://arxiv.org/pdf/2409.13266.pdf)]
+   [[arxiv](https://arxiv.org/pdf/2409.13266.pdf),
+    [dataset](https://huggingface.co/datasets/taln-ls2n/silk)]
    </span>
 
    - **[Automatically Suggesting Diverse Example Sentences for L2 Japanese Learners Using Pre-Trained Language Models](https://aclanthology.org/2024.acl-srw.11.pdf).** \\
