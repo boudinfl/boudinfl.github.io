@@ -12,15 +12,21 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
-   - **Self-Compositional Data Augmentation for Scientific Keyphrase Generation.**\\
+   - **[Self-Compositional Data Augmentation for Scientific Keyphrase Generation](https://arxiv.org/abs/2411.03039.pdf).**\\
    Maël Houbre, Florian Boudin, Béatrice Daille, Akiko Aizawa.\\
-   *Joint Conference on Digital Libraries (JCDL)*.
-
-   - **[Unsupervised Domain Adaptation for Keyphrase Generation using Citation Contexts](https://arxiv.org/abs/2409.13266).** \\
+   *Joint Conference on Digital Libraries (JCDL)*.\\
+   <span class="links">
+   [[arXiv](https://arxiv.org/abs/2411.03039.pdf)]
+   </span>
+   
+   - **[Unsupervised Domain Adaptation for Keyphrase Generation using Citation Contexts](https://aclanthology.org/2024.findings-emnlp.33.pdf).** \\
    Florian Boudin, Akiko Aizawa. \\
    *Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings.*\\
    <span class="links">
-   [[arxiv](https://arxiv.org/pdf/2409.13266.pdf),
+   [[paper](https://aclanthology.org/2024.findings-emnlp.33.pdf),
+    [bib](https://aclanthology.org/2024.findings-emnlp.33.bib),
+    [arXiv](https://arxiv.org/pdf/2409.13266.pdf),
+    [code](https://github.com/boudinfl/silk/),
     [dataset](https://huggingface.co/datasets/taln-ls2n/silk)]
    </span>
 
@@ -37,9 +43,9 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    Léane Jourdan, Florian Boudin, Nicolas Hernandez, Richard Dufour. \\
    *Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING).*\\
    <span class="links">
-   [[arxiv](https://arxiv.org/pdf/2403.00241.pdf),
-    [paper](https://aclanthology.org/2024.lrec-main.257.pdf),
+   [[paper](https://aclanthology.org/2024.lrec-main.257.pdf),
     [bib](https://aclanthology.org/2024.lrec-main.257.bib),
+    [arXiv](https://arxiv.org/pdf/2403.00241.pdf),
     [dataset](https://huggingface.co/datasets/taln-ls2n/CASIMIR)]
    </span>
 
