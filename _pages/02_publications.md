@@ -7,6 +7,25 @@ permalink: /publications/
 Below is a list of my publications organized by date.
 You can also find my [Google Scholar profile](http://scholar.google.com/citations?user=Vk68rbkAAAAJ&hl=en).
 
+# 2025
+{: .underline}
+
+  {: .block}
+
+  - **ParaRev: Building a dataset for Scientific Paragraph Revision annotated with revision instruction.**\\
+  Léane Jourdan, Nicolas Hernandez, Richard Dufour, Florian Boudin, Akiko Aizawa.\\
+  *International Workshop on Writing Aids at the Crossroads of AI, Cognitive Science and NLP (WR-AI-CogS).*\\
+  <span class="links">
+   [[data](https://huggingface.co/datasets/taln-ls2n/pararev)]
+  </span>
+
+  - **ACL-rlg: A Dataset for Reading List Generation.**\\
+  Julien Aubert-Béduchaud, Florian Boudin, Béatrice Daille and Richard Dufour.\\
+  *International Conference on Computational Linguistics (COLING).*\\
+  <span class="links">
+   [[data](https://github.com/jjbes/aclanthology-tutorial-reading-lists)]
+  </span>
+
 # 2024
 {: .underline}
 
