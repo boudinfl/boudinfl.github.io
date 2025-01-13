@@ -636,8 +636,8 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    </span>
 
  - **[An Efficient Statistical Approach for Automatic Organic Chemistry Summarization](/data/articles/boudin_gotal08.pdf).**\\
-   Florian Boudin, Juan-Manuel Torres-Moreno, Patricia Velázquez-Morales..\\
-   *International Conference on Natural Language Processing (GoTAL)* \\
+   Florian Boudin, Juan-Manuel Torres-Moreno, Patricia Velázquez-Morales.\\
+   *International Conference on Natural Language Processing (GoTAL).*\\
    <span class="links">
        [[paper](/data/articles/boudin_gotal08.pdf)]
    </span>
