@@ -22,6 +22,7 @@ permalink: /service/
 # Programme Committee &amp; Paper Reviewing
 {: .underline}
 
+* 48th International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR 2025](https://sigir2025.dei.unipd.it/))
 * 31st International Conference on Computational Linguistics ([COLING 2025][coling-2025])
 * Workshop on Future of Event Detection ([FuturED 2024](https://future-of-event-detection.github.io/) at [EMNLP 2024][emnlp-2024])
 * 28th International Conference on Theory and Practice of Digital Libraries ([TPDL 2024](https://tpdl2024.nuk.si/))
@@ -29,6 +30,7 @@ permalink: /service/
 * 2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific ([SIGIR-AP 2024](https://www.sigir-ap.org/sigir-ap-2024/))
 * 47th International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR 2024](https://sigir-2024.github.io/))
 * Workshop Evaluating Text Difficulty in a Multilingual Context ([DeTermIt!](https://determit2024.dei.unipd.it/) at [LREC-COLING 2024][lrec-coling-2024])
+* 19ème COnférence en Recherche d’Information et Applications ([CORIA 2024](https://coria.asso-aria.org/2024/))
 * 61st Annual Meeting of the Association for Computational Linguistics ([ACL 2023][acl-2023])
 * 4th Workshop on New Frontiers in Summarization ([NewSum](https://newsumm.github.io/2023/) at [EMNLP 2023][emnlp-2023]).
 * 6th International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR 2023](https://sigir.org/sigir2023/))
