@@ -60,7 +60,7 @@ permalink: /service/
 * 58th Annual Meeting of the Association for Computational Linguistics ([ACL 2020][acl-2020]), Summarization track.
 * 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing ([AACL-IJCNLP 2020][aacl-ijcnlp-2020]), Information Extraction and Text Mining track.
 * Artificial Intelligence for Narratives Workshop ([AI4Narratives](https://ai4narratives20.inesctec.pt/) at [IJCAI-PRICAI 2020](https://ijcai20.org/)).
-* 1st Joint Workshop on Financial Narrative Processing and MultiLing Financial Summarisation in 2020 (FNP-FNS 2020).
+* 1st Joint Workshop on Financial Narrative Processing and MultiLing Financial Summarisation in 2020 ([FNP-FNS 2020](http://wp.lancs.ac.uk/cfie/fnp2020/) at [COLING 2020][coling-2020]).
 * 57th Annual Meeting of the Association for Computational Linguistics ([ACL 2019][acl-2019]), Information Extraction and Text Mining track.
 * 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing ([EMNLP-IJCNLP 2019][emnlp-ijcnlp-2019]), Summarization and Generation track.
 * MultiLing 2019 Workshop on Summarization Across Languages, Genres and Sources (MultiLing 2019 at RANLP 2019).
