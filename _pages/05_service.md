@@ -7,10 +7,14 @@ permalink: /service/
 # Area Chairing
 {: .underline}
 
+* The 62nd Annual Meeting of the Association for Computational Linguistics ([ACL 2024][acl-2024])
 * 2024 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2024][emnlp-2024])
+* 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL 2024](https://2024.naacl.org/))
 * 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation ([LREC-COLING 2024][lrec-coling-2024])
 * 2023 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2023][emnlp-2023])
+* 60th Annual Meeting of the Association for Computational Linguistics ([ACL 2022](https://2022.aclweb.org/))
 * 2022 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2022](https://2022.emnlp.org/))
+* 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL 2022](https://2022.naacl.org/))
 * The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing ([ACL-IJCNLP 2021][acl-ijcnlp-2021]), Summarization track.
 
 # ACL Rolling Review
@@ -86,6 +90,7 @@ permalink: /service/
 * Past maintainer of [TALN Archives](http://www.atala.org/taln_archives/), a digital archive of French research articles in Natural Language Processing
 * I was an elected member of the [ATALA](http://www.atala.org/) from 2013-2016
 
+[acl-2024]: https://2024.aclweb.org/
 [coling-2025]: https://coling2025.org/
 [emnlp-2024]: https://2024.emnlp.org/
 [lrec-coling-2024]: https://lrec-coling-2024.org/
