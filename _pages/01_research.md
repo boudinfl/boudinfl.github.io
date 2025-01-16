@@ -9,18 +9,33 @@ permalink: /research/
 
 ## As Principal Investigator
 
-* 2022-2027 -- [NaviTerm - Terminological Navigation for Assisting Researchers in Gaining Expertise on a new Research Domain](https://cnrs-naviterm.github.io/)
-  - funded by the [French Defense Innovation Agency](https://www.defense.gouv.fr/aid) and CNRS. Sole PI.
-* 2020-2025 -- [DELICES - Indexing Scientific Literature Through Semantic Expansion](https://anr-delices.github.io/)
-  - Young Researcher project (JCJC) funded by the [French National Research Agency](https://anr.fr/). Sole PI.
-* 2019 -- IKEBANA - Improving Keyphrase Extraction By Adopting Neural Architectures
-  - [Atlanstic 2020](https://atlanstic2020.fr/) sabbatical grant, research stay at the at the [Aizawa lab, National Institute of Informatics](http://www-al.nii.ac.jp/)
-* 2016 -- [TALIAS - Natural Language Processing for indexing scientific articles](https://boudinfl.github.io/talias/)
-  - CNRS PEPS INS2I project, Sole PI.
-* 2015 -- [GOLEM - Keyphrase Extraction with Integer Linear Programming](http://boudinfl.github.io/golem/)
-  - CNRS PEPS INS2I/INSMI project, Sole PI.
+* 2023-2027 -- <b>[NaviTerm project](https://cnrs-naviterm.github.io/) - Terminological navigation through the scientific literature</b><br/>
+  Funded by the French Defense Innovation Agency (AID) and the CNRS<br/>
+  <i>This project aims to accelerate how researchers familiarize themselves with a new field by automatically generating navigable representations of scientific knowledge.</i><br/>
+  Collaborators: Béatrice Daille (Nantes Université), Richard Dufour (Nantes Université)
+
+* 2020-2025 -- <b>[DELICES project](https://anr-delices.github.io/) - Indexing scientific literature through semantic expansion</b><br/>
+  Young Researcher project (JCJC) funded by the French National Research Agency (ANR)<br/>
+  <i>This project aims to improve the retrieval effectiveness of search engines in scientific digital libraries by enriching their indexing with automatically generated keyphrases.</i><br/>
+  Collaborators: Béatrice Daille (Nantes Université), Evelyne Jacquey (ATILF), Jian-Yun Nie (Université de Montréal)
+
+* 2020 -- <b>WASP project – Building a writing assistance system for scientific papers</b><br/>
+  Atlanstic2020 grant for a visiting researcher from the University of Tokyo (canceled by COVID-19)<br/>
+  Collaborator: Akiko Aizawa (National Institute of Informatics, Japan)
+
+* 2019 -- <b>IKEBANA project - Improving keyphrase extraction by adopting neural architectures</b><br/>
+  Atlanstic2020 sabbatical grant, research stay at the at the National Institute of Informatics (NII), Tokyo<br/>
+  Collaborator: Akiko Aizawa (National Institute of Informatics, Japan)
+
+* 2016 -- <b>[TALIAS project](https://boudinfl.github.io/talias/) - Natural Language Processing for indexing scientific articles</b><br/>
+  PEPS INS2I project funded by the CNRS
+
+* 2015 -- <b>[GOLEM project](http://boudinfl.github.io/golem/) - An Optimization-Based Approach for Keyphrase Extraction</b><br/>
+  PEPS INS2I/INSMI project funded by the CNRS<br/>
+  Collaborator: Evgeny Gurevsky (Nantes Université)
 
 ## As Project Member
 
-* 2012-2015 -- [TERMITH - Terminologie et Indexation de Textes en sciences Humaines](https://anr.fr/Projet-ANR-12-CORD-0029)
-  - funded by the French National Research Agency.
+* 2012-2015 -- <b>[TERMITH project](https://anr.fr/Projet-ANR-12-CORD-0029) - Terminologie et Indexation de Textes en sciences Humaines</b><br/>
+  Funded by the French National Research Agency (ANR)
+
