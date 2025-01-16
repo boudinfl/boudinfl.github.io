@@ -17,7 +17,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
   *International Workshop on Writing Aids at the Crossroads of AI, Cognitive Science and NLP (WR-AI-CogS).*\\
   <span class="links">
    [[data](https://huggingface.co/datasets/taln-ls2n/pararev),
-   [arXiv][https://arxiv.org/pdf/2501.05222]]
+   [arXiv](https://arxiv.org/pdf/2501.05222)]
   </span>
 
   - **[ACL-rlg: A Dataset for Reading List Generation](https://hal.science/hal-04852617v1/file/main.pdf).**\\
