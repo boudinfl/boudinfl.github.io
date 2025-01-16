@@ -12,14 +12,15 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
-  - **ParaRev: Building a dataset for Scientific Paragraph Revision annotated with revision instruction.**\\
+  - **[ParaRev: Building a dataset for Scientific Paragraph Revision annotated with revision instruction](https://arxiv.org/pdf/2501.05222).**\\
   Léane Jourdan, Nicolas Hernandez, Richard Dufour, Florian Boudin, Akiko Aizawa.\\
   *International Workshop on Writing Aids at the Crossroads of AI, Cognitive Science and NLP (WR-AI-CogS).*\\
   <span class="links">
-   [[data](https://huggingface.co/datasets/taln-ls2n/pararev)]
+   [[data](https://huggingface.co/datasets/taln-ls2n/pararev),
+   [arXiv][https://arxiv.org/pdf/2501.05222]]
   </span>
 
-  - **ACL-rlg: A Dataset for Reading List Generation.**\\
+  - **[ACL-rlg: A Dataset for Reading List Generation](https://hal.science/hal-04852617v1/file/main.pdf).**\\
   Julien Aubert-Béduchaud, Florian Boudin, Béatrice Daille and Richard Dufour.\\
   *International Conference on Computational Linguistics (COLING).*\\
   <span class="links">
