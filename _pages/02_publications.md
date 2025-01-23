@@ -20,11 +20,13 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    [arXiv](https://arxiv.org/pdf/2501.05222)]
   </span>
 
-  - **[ACL-rlg: A Dataset for Reading List Generation](https://hal.science/hal-04852617v1/file/main.pdf).**\\
+  - **[ACL-rlg: A Dataset for Reading List Generation](https://aclanthology.org/2025.coling-main.327.pdf).**\\
   Julien Aubert-Béduchaud, Florian Boudin, Béatrice Daille and Richard Dufour.\\
   *International Conference on Computational Linguistics (COLING).*\\
   <span class="links">
-   [[data](https://github.com/jjbes/aclanthology-tutorial-reading-lists)]
+   [[paper](https://aclanthology.org/2025.coling-main.327.pdf),
+    [bib](https://aclanthology.org/2025.coling-main.327.bib),
+    [data](https://github.com/jjbes/aclanthology-tutorial-reading-lists)]
   </span>
 
 # 2024
