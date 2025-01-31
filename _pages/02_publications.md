@@ -12,12 +12,14 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
-  - **[ParaRev: Building a dataset for Scientific Paragraph Revision annotated with revision instruction](https://arxiv.org/pdf/2501.05222).**\\
+  - **[ParaRev: Building a dataset for Scientific Paragraph Revision annotated with revision instruction](https://aclanthology.org/2025.wraicogs-1.4.pdf).**\\
   Léane Jourdan, Nicolas Hernandez, Richard Dufour, Florian Boudin, Akiko Aizawa.\\
   *International Workshop on Writing Aids at the Crossroads of AI, Cognitive Science and NLP (WR-AI-CogS).*\\
   <span class="links">
-   [[data](https://huggingface.co/datasets/taln-ls2n/pararev),
-   [arXiv](https://arxiv.org/pdf/2501.05222)]
+   [[paper](https://aclanthology.org/2025.wraicogs-1.4.pdf),
+    [bib](https://aclanthology.org/2025.wraicogs-1.4.bib),
+    [data](https://huggingface.co/datasets/taln-ls2n/pararev),
+    [arXiv](https://arxiv.org/pdf/2501.05222)]
   </span>
 
   - **[ACL-rlg: A Dataset for Reading List Generation](https://aclanthology.org/2025.coling-main.327.pdf).**\\
