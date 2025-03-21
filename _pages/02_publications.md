@@ -73,6 +73,13 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [dataset](https://huggingface.co/datasets/taln-ls2n/CASIMIR)]
    </span>
 
+   - **[Preface to the Special Issue of the TAL Journal on Scholarly Document Processing](https://www.atala.org/sites/default/files/TAL_65_2_0.pdf).** \\
+   Florian Boudin, Akiko Aizawa. \\
+   *Traitement Automatique des Langues.*\\
+   <span class="links">
+   [[paper](https://www.atala.org/sites/default/files/TAL_65_2_0.pdf)]
+   </span>
+
    - **[A Survey of Pre-trained Language Models for Processing Scientific Text](https://arxiv.org/pdf/2401.17824.pdf).** \\
    Xanh Ho, Anh Khoa Duong Nguyen, An Tuan Dao, Junfeng Jiang, Yuki Chida, Kaito Sugimoto, Huy Quoc To, Florian Boudin, Akiko Aizawa. \\
    <span class="links">
