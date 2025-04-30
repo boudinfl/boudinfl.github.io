@@ -21,21 +21,25 @@ permalink: /research/
 
 * 2020 -- <b>WASP project – Building a writing assistance system for scientific papers</b><br/>
   Atlanstic2020 grant for a visiting researcher from the University of Tokyo (canceled by COVID-19)<br/>
+  <i>This project aims to design a writing assistance system that helps researchers select the most suitable formulaic expressions for their scientific papers.</i><br/>
   Collaborator: Akiko Aizawa (National Institute of Informatics, Japan)
 
 * 2019 -- <b>IKEBANA project - Improving keyphrase extraction by adopting neural architectures</b><br/>
   Atlanstic2020 sabbatical grant, research stay at the at the National Institute of Informatics (NII), Tokyo<br/>
+  <i>This project aims to improve the effectiveness of automatic keyphrase extraction by using recurrent neural network models.</i><br/>
   Collaborator: Akiko Aizawa (National Institute of Informatics, Japan)
 
 * 2016 -- <b>[TALIAS project](https://boudinfl.github.io/talias/) - Natural Language Processing for indexing scientific articles</b><br/>
-  PEPS INS2I project funded by the CNRS
+  PEPS INS2I project funded by the CNRS<br/>
+  <i>This project aims to evaluate the robustness of keyword extraction models under varying levels of document noise.</i>
 
 * 2015 -- <b>[GOLEM project](http://boudinfl.github.io/golem/) - An Optimization-Based Approach for Keyphrase Extraction</b><br/>
   PEPS INS2I/INSMI project funded by the CNRS<br/>
+  <i>This project aims to explore the use of Integer Linear Programming methods for automatic keyword extraction.</i><br/>
   Collaborator: Evgeny Gurevsky (Nantes Université)
 
 ## As Project Member
 
 * 2012-2015 -- <b>[TERMITH project](https://anr.fr/Projet-ANR-12-CORD-0029) - Terminologie et Indexation de Textes en sciences Humaines</b><br/>
-  Funded by the French National Research Agency (ANR)
-
+  Funded by the French National Research Agency (ANR)<br/>
+  <i>This project aims to develop an automatic indexing method for scientific texts in the human and social sciences by leveraging domain-specific terms.</i>

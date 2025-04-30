@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Picture of Florian Boudin](data/florian-boudin-small.png){: #img-thumbnail}
+![Picture of Florian Boudin](data/florian-boudin-small-jiburi.png){: #img-thumbnail}
 
 **Florian Boudin**<br>
 <span id="courriel">&#102;&#108;&#111;&#114;&#105;&#097;&#110;&#046;&#098;&#111;&#117;&#100;&#105;&#110;&#064;&#117;&#110;&#105;&#118;&#045;&#110;&#097;&#110;&#116;&#101;&#115;&#046;&#102;&#114;</span>

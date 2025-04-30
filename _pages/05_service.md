@@ -20,12 +20,15 @@ permalink: /service/
 # ACL Rolling Review
 {: .underline}
 
-* Enrolled as an action editor for the [ACL Rolling Review](https://aclrollingreview.org/) (starting from october 2021)
+* Enrolled as an area chair (prev. action editor) for the [ACL Rolling Review](https://aclrollingreview.org/) (starting from october 2021)
 * Enrolled as a reviewer for the [ACL Rolling Review](https://aclrollingreview.org/) (starting from may 2021)
 
 # Programme Committee &amp; Paper Reviewing
 {: .underline}
 
+* 8th International Workshop on Narrative Extraction from Texts ([Text2Story](http://text2story25.inesctec.pt/) at [ECIR 2025](https://ecir2025.eu/)).
+* 5th New Frontiers in Summarization Workshop ([NewSum](https://oriern.github.io/newsumm_2025/) at [EMNLP 2025][emnlp-2025]).
+* 2nd Conference on Language Modeling ([COLM 2025](https://colmweb.org/))
 * 48th International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR 2025](https://sigir2025.dei.unipd.it/))
 * 31st International Conference on Computational Linguistics ([COLING 2025][coling-2025])
 * Workshop on Future of Event Detection ([FuturED 2024](https://future-of-event-detection.github.io/) at [EMNLP 2024][emnlp-2024])
@@ -90,6 +93,8 @@ permalink: /service/
 * Past maintainer of [TALN Archives](http://www.atala.org/taln_archives/), a digital archive of French research articles in Natural Language Processing
 * I was an elected member of the [ATALA](http://www.atala.org/) from 2013-2016
 
+[emnlp-2025]: https://2025.emnlp.org/
+[acl-2025]: https://2025.aclweb.org/
 [acl-2024]: https://2024.aclweb.org/
 [coling-2025]: https://coling2025.org/
 [emnlp-2024]: https://2024.emnlp.org/

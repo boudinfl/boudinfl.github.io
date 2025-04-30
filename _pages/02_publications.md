@@ -12,6 +12,10 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
+  - **Repurposing Annotation Guidelines to Instruct LLM Annotators: A Case Study.**\\
+  Kon Woo Kim, Rezarta Islamaj, Jin-Dong Kim, Florian Boudin, Akiko Aizawa.\\
+  *International Conference on Natural Language & Information Systems (NLDB).*
+
   - **[ParaRev: Building a dataset for Scientific Paragraph Revision annotated with revision instruction](https://aclanthology.org/2025.wraicogs-1.4.pdf).**\\
   Léane Jourdan, Nicolas Hernandez, Richard Dufour, Florian Boudin, Akiko Aizawa.\\
   *International Workshop on Writing Aids at the Crossroads of AI, Cognitive Science and NLP (WR-AI-CogS).*\\
@@ -30,6 +34,13 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [bib](https://aclanthology.org/2025.coling-main.327.bib),
     [data](https://github.com/jjbes/aclanthology-tutorial-reading-lists)]
   </span>
+
+  - **[LLM-as-a-Judge: Reassessing the Performance of LLMs in Extractive QA](https://arxiv.org/abs/2504.11972).**\\
+    Xanh Ho, Jiahao Huang, Florian Boudin, Akiko Aizawa.\\
+    <span class="links">
+      [[arXiv](https://arxiv.org/pdf/2504.11972.pdf),
+      [code](https://github.com/Alab-NII/llm-judge-extract-qa)]
+    </span>
 
 # 2024
 {: .underline}
