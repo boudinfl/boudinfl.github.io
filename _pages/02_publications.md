@@ -12,6 +12,10 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
+  - **Overcoming Data Scarcity in Named Entity Recognition: Synthetic Data Generation with Large Language Models.**\\
+  An Dao, Hiroki Teranishi, Yuji Matsumoto, Florian Boudin, Akiko Aizawa.\\
+  *Biomedical Natural Language Processing Workshop (BioNLP).*
+
   - **Repurposing Annotation Guidelines to Instruct LLM Annotators: A Case Study.**\\
   Kon Woo Kim, Rezarta Islamaj, Jin-Dong Kim, Florian Boudin, Akiko Aizawa.\\
   *International Conference on Natural Language & Information Systems (NLDB).*
