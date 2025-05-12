@@ -39,6 +39,10 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [data](https://github.com/jjbes/aclanthology-tutorial-reading-lists)]
   </span>
 
+  - **Identification de mesures d'évaluation fiables pour la révision de textes scientifiques.**\\
+  Léane Jourdan, Florian Boudin, Richard Dufour, Nicolas Hernandez.\\
+  *Traitement Automatique des Langues Naturelles (TALN).*
+
   - **[LLM-as-a-Judge: Reassessing the Performance of LLMs in Extractive QA](https://arxiv.org/abs/2504.11972).**\\
     Xanh Ho, Jiahao Huang, Florian Boudin, Akiko Aizawa.\\
     <span class="links">
