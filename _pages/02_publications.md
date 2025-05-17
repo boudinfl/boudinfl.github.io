@@ -12,6 +12,10 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
+  - **Identifying Reliable Evaluation Metrics for Scientific Text Revision.**\\
+  Leane Jourdan, Nicolas Hernandez, Florian Boudin, Richard Dufour.\\
+  *Association for Computational Linguistics (ACL).*
+
   - **Overcoming Data Scarcity in Named Entity Recognition: Synthetic Data Generation with Large Language Models.**\\
   An Dao, Hiroki Teranishi, Yuji Matsumoto, Florian Boudin, Akiko Aizawa.\\
   *Biomedical Natural Language Processing Workshop (BioNLP).*
@@ -41,6 +45,10 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   - **Identification de mesures d'évaluation fiables pour la révision de textes scientifiques.**\\
   Léane Jourdan, Florian Boudin, Richard Dufour, Nicolas Hernandez.\\
+  *Traitement Automatique des Langues Naturelles (TALN).*
+
+  - **ACL-rlg: Un dataset pour la génération de listes de lecture.**\\
+  Julien Aubert-Béduchaud, Florian Boudin, Béatrice Daille and Richard Dufour.\\
   *Traitement Automatique des Langues Naturelles (TALN).*
 
   - **[LLM-as-a-Judge: Reassessing the Performance of LLMs in Extractive QA](https://arxiv.org/abs/2504.11972).**\\
