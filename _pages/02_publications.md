@@ -30,8 +30,9 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
   <span class="links">
    [[paper](https://aclanthology.org/2025.wraicogs-1.4.pdf),
     [bib](https://aclanthology.org/2025.wraicogs-1.4.bib),
-    [data](https://huggingface.co/datasets/taln-ls2n/pararev),
-    [arXiv](https://arxiv.org/pdf/2501.05222)]
+    [arXiv](https://arxiv.org/pdf/2501.05222),
+    [hal](https://hal.science/hal-04879960),
+    [data](https://huggingface.co/datasets/taln-ls2n/pararev)]
   </span>
 
   - **[ACL-rlg: A Dataset for Reading List Generation](https://aclanthology.org/2025.coling-main.327.pdf).**\\
@@ -67,7 +68,9 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    Maël Houbre, Florian Boudin, Béatrice Daille, Akiko Aizawa.\\
    *Joint Conference on Digital Libraries (JCDL)*.\\
    <span class="links">
-   [[arXiv](https://arxiv.org/abs/2411.03039.pdf)]
+   [[paper](https://dl.acm.org/doi/10.1145/3677389.3702504),
+    [arXiv](https://arxiv.org/abs/2411.03039.pdf),
+    [hal](https://hal.science/hal-04837896)]
    </span>
    
    - **[Unsupervised Domain Adaptation for Keyphrase Generation using Citation Contexts](https://aclanthology.org/2024.findings-emnlp.33.pdf).** \\
@@ -77,16 +80,18 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    [[paper](https://aclanthology.org/2024.findings-emnlp.33.pdf),
     [bib](https://aclanthology.org/2024.findings-emnlp.33.bib),
     [arXiv](https://arxiv.org/pdf/2409.13266.pdf),
+    [hal](https://hal.science/hal-04837895),
     [code](https://github.com/boudinfl/silk/),
     [dataset](https://huggingface.co/datasets/taln-ls2n/silk)]
    </span>
 
-   - **[Automatically Suggesting Diverse Example Sentences for L2 Japanese Learners Using Pre-Trained Language Models](https://aclanthology.org/2024.acl-srw.11.pdf).** \\
+   - **[Automatically Suggesting Diverse Example Sentences for L2 Japanese Learners Using Pre-Trained Language Models](https://aclanthology.org/2024.acl-srw.55.pdf).** \\
     Enrico Benedetti, Akiko Aizawa, Florian Boudin. \\
     *Association for Computational Linguistics (ACL): Student Research Workshop.*\\
     <span class="links">
-    [[paper](https://aclanthology.org/2024.acl-srw.11.pdf),
-     [bib](https://aclanthology.org/2024.acl-srw.11.bib),
+    [[paper](https://aclanthology.org/2024.acl-srw.55.pdf),
+     [bib](https://aclanthology.org/2024.acl-srw.55.bib),
+     [hal](https://hal.science/hal-04742653),
      [code](https://github.com/EnricoBenedetti/NihongoExamplePLM)]
     </span>
 
@@ -97,6 +102,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    [[paper](https://aclanthology.org/2024.lrec-main.257.pdf),
     [bib](https://aclanthology.org/2024.lrec-main.257.bib),
     [arXiv](https://arxiv.org/pdf/2403.00241.pdf),
+    [hal](https://hal.science/hal-04877010),
     [dataset](https://huggingface.co/datasets/taln-ls2n/CASIMIR)]
    </span>
 
@@ -104,7 +110,8 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    Florian Boudin, Akiko Aizawa. \\
    *Traitement Automatique des Langues.*\\
    <span class="links">
-   [[paper](https://www.atala.org/sites/default/files/TAL_65_2_0.pdf)]
+   [[paper](https://www.atala.org/sites/default/files/TAL_65_2_0.pdf),
+   [hal](https://hal.science/hal-05096336)]
    </span>
 
    - **[A Survey of Pre-trained Language Models for Processing Scientific Text](https://arxiv.org/pdf/2401.17824.pdf).** \\
