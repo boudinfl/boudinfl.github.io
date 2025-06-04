@@ -41,6 +41,8 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
   <span class="links">
    [[paper](https://aclanthology.org/2025.coling-main.327.pdf),
     [bib](https://aclanthology.org/2025.coling-main.327.bib),
+    [arXiv](https://arxiv.org/pdf/2502.15692),
+    [hal](https://hal.science/hal-04852617),
     [data](https://github.com/jjbes/aclanthology-tutorial-reading-lists)]
   </span>
 
