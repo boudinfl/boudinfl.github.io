@@ -93,6 +93,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     <span class="links">
     [[paper](https://aclanthology.org/2024.acl-srw.55.pdf),
      [bib](https://aclanthology.org/2024.acl-srw.55.bib),
+     [arXiv](https://arxiv.org/pdf/2506.03580.pdf),
      [hal](https://hal.science/hal-04742653),
      [code](https://github.com/EnricoBenedetti/NihongoExamplePLM)]
     </span>
@@ -113,6 +114,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    *Traitement Automatique des Langues.*\\
    <span class="links">
    [[paper](https://www.atala.org/sites/default/files/TAL_65_2_0.pdf),
+   [arXiv](https://arxiv.org/pdf/2506.03587.pdf),
    [hal](https://hal.science/hal-05096336)]
    </span>
 
