@@ -14,7 +14,11 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   - **Identifying Reliable Evaluation Metrics for Scientific Text Revision.**\\
   Leane Jourdan, Nicolas Hernandez, Florian Boudin, Richard Dufour.\\
-  *Association for Computational Linguistics (ACL).*
+  *Association for Computational Linguistics (ACL).*\\
+  <span class="links">
+   [[hal](https://hal.science/hal-05099650),
+    [data](https://github.com/JourdanL/parareval)]
+  </span>
 
   - **Overcoming Data Scarcity in Named Entity Recognition: Synthetic Data Generation with Large Language Models.**\\
   An Dao, Hiroki Teranishi, Yuji Matsumoto, Florian Boudin, Akiko Aizawa.\\
