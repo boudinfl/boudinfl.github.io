@@ -99,6 +99,8 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
      [bib](https://aclanthology.org/2024.acl-srw.55.bib),
      [arXiv](https://arxiv.org/pdf/2506.03580.pdf),
      [hal](https://hal.science/hal-04742653),
+     [dataset](https://huggingface.co/datasets/bennexx/WJTSentDiL),
+     [model](https://huggingface.co/bennexx/cl-tohoku-bert-base-japanese-v3-jlpt-classifier),
      [code](https://github.com/EnricoBenedetti/NihongoExamplePLM)]
     </span>
 
