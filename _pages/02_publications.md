@@ -12,11 +12,12 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
-  - **Identifying Reliable Evaluation Metrics for Scientific Text Revision.**\\
+  - **[Identifying Reliable Evaluation Metrics for Scientific Text Revision](https://arxiv.org/pdf/2506.04772).**\\
   Leane Jourdan, Nicolas Hernandez, Florian Boudin, Richard Dufour.\\
   *Association for Computational Linguistics (ACL).*\\
   <span class="links">
-   [[hal](https://hal.science/hal-05099650),
+   [[arXiv](https://arxiv.org/pdf/2506.04772),
+    [hal](https://hal.science/hal-05099650),
     [data](https://github.com/JourdanL/parareval)]
   </span>
 
@@ -28,17 +29,6 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
   Kon Woo Kim, Rezarta Islamaj, Jin-Dong Kim, Florian Boudin, Akiko Aizawa.\\
   *International Conference on Natural Language & Information Systems (NLDB).*
 
-  - **[ParaRev: Building a dataset for Scientific Paragraph Revision annotated with revision instruction](https://aclanthology.org/2025.wraicogs-1.4.pdf).**\\
-  Léane Jourdan, Nicolas Hernandez, Richard Dufour, Florian Boudin, Akiko Aizawa.\\
-  *International Workshop on Writing Aids at the Crossroads of AI, Cognitive Science and NLP (WR-AI-CogS).*\\
-  <span class="links">
-   [[paper](https://aclanthology.org/2025.wraicogs-1.4.pdf),
-    [bib](https://aclanthology.org/2025.wraicogs-1.4.bib),
-    [arXiv](https://arxiv.org/pdf/2501.05222),
-    [hal](https://hal.science/hal-04879960),
-    [data](https://huggingface.co/datasets/taln-ls2n/pararev)]
-  </span>
-
   - **[ACL-rlg: A Dataset for Reading List Generation](https://aclanthology.org/2025.coling-main.327.pdf).**\\
   Julien Aubert-Béduchaud, Florian Boudin, Béatrice Daille and Richard Dufour.\\
   *International Conference on Computational Linguistics (COLING).*\\
@@ -48,6 +38,25 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [arXiv](https://arxiv.org/pdf/2502.15692),
     [hal](https://hal.science/hal-04852617),
     [data](https://github.com/jjbes/aclanthology-tutorial-reading-lists)]
+  </span>
+
+  - **[An Analysis of Datasets, Metrics and Models in Keyphrase Generation](https://openreview.net/pdf?id=O0C0DjeK1k).**\\
+  Florian Boudin, Akiko Aizawa.\\
+  *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM^2).*\\
+  <span class="links">
+   [[code](https://github.com/boudinfl/kg-datasets-metrics-models),
+    [model](https://huggingface.co/taln-ls2n/bart-large-kp20k)]
+  </span>
+
+  - **[ParaRev: Building a dataset for Scientific Paragraph Revision annotated with revision instruction](https://aclanthology.org/2025.wraicogs-1.4.pdf).**\\
+  Léane Jourdan, Nicolas Hernandez, Richard Dufour, Florian Boudin, Akiko Aizawa.\\
+  *International Workshop on Writing Aids at the Crossroads of AI, Cognitive Science and NLP (WR-AI-CogS).*\\
+  <span class="links">
+   [[paper](https://aclanthology.org/2025.wraicogs-1.4.pdf),
+    [bib](https://aclanthology.org/2025.wraicogs-1.4.bib),
+    [arXiv](https://arxiv.org/pdf/2501.05222),
+    [hal](https://hal.science/hal-04879960),
+    [data](https://huggingface.co/datasets/taln-ls2n/pararev)]
   </span>
 
   - **Identification de mesures d'évaluation fiables pour la révision de textes scientifiques.**\\
