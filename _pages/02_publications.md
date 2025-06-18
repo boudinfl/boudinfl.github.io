@@ -30,7 +30,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
   *International Conference on Natural Language & Information Systems (NLDB).*
 
   - **[ACL-rlg: A Dataset for Reading List Generation](https://aclanthology.org/2025.coling-main.327.pdf).**\\
-  Julien Aubert-Béduchaud, Florian Boudin, Béatrice Daille and Richard Dufour.\\
+  Julien Aubert-Béduchaud, Florian Boudin, Béatrice Daille, Richard Dufour.\\
   *International Conference on Computational Linguistics (COLING).*\\
   <span class="links">
    [[paper](https://aclanthology.org/2025.coling-main.327.pdf),
@@ -40,11 +40,12 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [data](https://github.com/jjbes/aclanthology-tutorial-reading-lists)]
   </span>
 
-  - **[An Analysis of Datasets, Metrics and Models in Keyphrase Generation](https://openreview.net/pdf?id=O0C0DjeK1k).**\\
+  - **[An Analysis of Datasets, Metrics and Models in Keyphrase Generation](https://arxiv.org/pdf/2506.10346).**\\
   Florian Boudin, Akiko Aizawa.\\
   *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM^2).*\\
   <span class="links">
-   [[code](https://github.com/boudinfl/kg-datasets-metrics-models),
+   [[arXiv](https://arxiv.org/pdf/2506.10346),
+    [code](https://github.com/boudinfl/kg-datasets-metrics-models),
     [model](https://huggingface.co/taln-ls2n/bart-large-kp20k)]
   </span>
 
@@ -64,7 +65,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
   *Traitement Automatique des Langues Naturelles (TALN).*
 
   - **ACL-rlg: Un dataset pour la génération de listes de lecture.**\\
-  Julien Aubert-Béduchaud, Florian Boudin, Béatrice Daille and Richard Dufour.\\
+  Julien Aubert-Béduchaud, Florian Boudin, Béatrice Daille, Richard Dufour.\\
   *Traitement Automatique des Langues Naturelles (TALN).*
 
   - **[LLM-as-a-Judge: Reassessing the Performance of LLMs in Extractive QA](https://arxiv.org/abs/2504.11972).**\\
