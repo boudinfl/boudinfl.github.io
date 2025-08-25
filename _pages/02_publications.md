@@ -12,22 +12,39 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
-  - **[Identifying Reliable Evaluation Metrics for Scientific Text Revision](https://arxiv.org/pdf/2506.04772).**\\
+  - **[Table-Text Alignment: Explaining Claim Verification Against Tables in Scientific Papers](https://arxiv.org/abs/2506.10486).**\\
+  Xanh Ho, Sunisth Kumar, Yun-Ang Wu, Florian Boudin, Atsuhiro Takasu, Akiko Aizawa.\\
+  *Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings.*\\
+  <span class="links">
+   [[arXiv](https://arxiv.org/abs/2506.10486)]
+  </span>
+
+  - **[Identifying Reliable Evaluation Metrics for Scientific Text Revision](https://aclanthology.org/2025.acl-long.335.pdf).**\\
   Leane Jourdan, Nicolas Hernandez, Florian Boudin, Richard Dufour.\\
   *Association for Computational Linguistics (ACL).*\\
   <span class="links">
-   [[arXiv](https://arxiv.org/pdf/2506.04772),
+   [[paper](https://aclanthology.org/2025.acl-long.335.pdf),
+    [bib](https://aclanthology.org/2025.acl-long.335.bib),
+    [arXiv](https://arxiv.org/pdf/2506.04772),
     [hal](https://hal.science/hal-05099650),
     [data](https://github.com/JourdanL/parareval)]
   </span>
 
-  - **Overcoming Data Scarcity in Named Entity Recognition: Synthetic Data Generation with Large Language Models.**\\
+  - **[Overcoming Data Scarcity in Named Entity Recognition: Synthetic Data Generation with Large Language Models](https://aclanthology.org/2025.bionlp-1.28.pdf).**\\
   An Dao, Hiroki Teranishi, Yuji Matsumoto, Florian Boudin, Akiko Aizawa.\\
-  *Biomedical Natural Language Processing Workshop (BioNLP).*
+  *Biomedical Natural Language Processing Workshop (BioNLP).*\\
+  <span class="links">
+   [[paper](https://aclanthology.org/2025.bionlp-1.28.pdf),
+    [bib](https://aclanthology.org/2025.bionlp-1.28.bib),
+    [hal](https://hal.science/hal-05222576)]
+  </span>
 
-  - **Repurposing Annotation Guidelines to Instruct LLM Annotators: A Case Study.**\\
+  - **[Repurposing Annotation Guidelines to Instruct LLM Annotators: A Case Study](https://link.springer.com/chapter/10.1007/978-3-031-97144-0_13).**\\
   Kon Woo Kim, Rezarta Islamaj, Jin-Dong Kim, Florian Boudin, Akiko Aizawa.\\
   *International Conference on Natural Language & Information Systems (NLDB).*
+  <span class="links">
+   [[hal](https://hal.science/hal-05222604)]
+  </span>
 
   - **[ACL-rlg: A Dataset for Reading List Generation](https://aclanthology.org/2025.coling-main.327.pdf).**\\
   Julien Aubert-Béduchaud, Florian Boudin, Béatrice Daille, Richard Dufour.\\
@@ -40,11 +57,13 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [data](https://github.com/jjbes/aclanthology-tutorial-reading-lists)]
   </span>
 
-  - **[An Analysis of Datasets, Metrics and Models in Keyphrase Generation](https://arxiv.org/pdf/2506.10346).**\\
+  - **[An Analysis of Datasets, Metrics and Models in Keyphrase Generation](https://aclanthology.org/2025.gem-1.76.pdf).**\\
   Florian Boudin, Akiko Aizawa.\\
   *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM^2).*\\
   <span class="links">
-   [[arXiv](https://arxiv.org/pdf/2506.10346),
+   [[paper](https://aclanthology.org/2025.gem-1.76.pdf),
+    [bib](https://aclanthology.org/2025.gem-1.76.bib),
+    [arXiv](https://arxiv.org/pdf/2506.10346),
     [code](https://github.com/boudinfl/kg-datasets-metrics-models),
     [model](https://huggingface.co/taln-ls2n/bart-large-kp20k)]
   </span>

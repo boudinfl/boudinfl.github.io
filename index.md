@@ -11,10 +11,10 @@ layout: default
 I am Associate Professor ([HDR](https://theses.hal.science/tel-04137160)) of Computer Science at Nantes University, where I co-lead the [TALN research group](http://taln.ls2n.fr) (together with [Richard Dufour](https://cv.hal.science/richard-dufour)) at the [Laboratory of Digital Sciences of Nantes (LS2N)](http://www.ls2n.fr).
 My [research]({{ site.baseurl }}/research/) lies within the fields of Natural Language Processing (NLP) and Information Retrieval (IR), with a focus on applications involving scholarly documents.
 I am especially interested in generative AI and work on developing models to assist researchers in searching, reading, understanding and writing scientific papers.
-Currently, I held a research leave at the [Japanese-French Laboratory for Informatics (JFLI)](https://jfli.cnrs.fr/) in Tokyo.
+I am currently on secondment at [Inria](https://www.inria.fr) (France).
 {: .decalage}
 
-**trajectory:** grad student at [LIA, Université d'Avignon](http://lia.univ-avignon.fr) (France) &rarr; post-doc at [RALI, Université de Montréal](http://rali.iro.umontreal.ca) (Canada) &rarr; associate professor at [LS2N, Université de Nantes](http://www.ls2n.fr) (France) &rarr; visiting researcher at [Aizawa lab, National Institute of Informatics](http://www-al.nii.ac.jp/) (Japan) &rarr; researcher at [JFLI, National Institute of Informatics](https://jfli.cnrs.fr/) (Japan).
+**trajectory:** grad student at [LIA, Université d'Avignon](http://lia.univ-avignon.fr) (France) &rarr; post-doc at [RALI, Université de Montréal](http://rali.iro.umontreal.ca) (Canada) &rarr; associate professor at [LS2N, Université de Nantes](http://www.ls2n.fr) (France) &rarr; visiting researcher at [Aizawa lab, National Institute of Informatics](http://www-al.nii.ac.jp/) (Japan) &rarr; researcher at [JFLI, National Institute of Informatics](https://jfli.cnrs.fr/) (Japan) &rarr; researcher at [Inria](https://www.inria.fr) (France).
 {: .decalage}
 
 
