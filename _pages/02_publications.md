@@ -30,18 +30,9 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [data](https://github.com/JourdanL/parareval)]
   </span>
 
-  - **[Overcoming Data Scarcity in Named Entity Recognition: Synthetic Data Generation with Large Language Models](https://aclanthology.org/2025.bionlp-1.28.pdf).**\\
-  An Dao, Hiroki Teranishi, Yuji Matsumoto, Florian Boudin, Akiko Aizawa.\\
-  *Biomedical Natural Language Processing Workshop (BioNLP).*\\
-  <span class="links">
-   [[paper](https://aclanthology.org/2025.bionlp-1.28.pdf),
-    [bib](https://aclanthology.org/2025.bionlp-1.28.bib),
-    [hal](https://hal.science/hal-05222576)]
-  </span>
-
   - **[Repurposing Annotation Guidelines to Instruct LLM Annotators: A Case Study](https://link.springer.com/chapter/10.1007/978-3-031-97144-0_13).**\\
   Kon Woo Kim, Rezarta Islamaj, Jin-Dong Kim, Florian Boudin, Akiko Aizawa.\\
-  *International Conference on Natural Language & Information Systems (NLDB).*
+  *International Conference on Natural Language & Information Systems (NLDB).*\\
   <span class="links">
    [[hal](https://hal.science/hal-05222604)]
   </span>
@@ -68,6 +59,15 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [model](https://huggingface.co/taln-ls2n/bart-large-kp20k)]
   </span>
 
+  - **[Overcoming Data Scarcity in Named Entity Recognition: Synthetic Data Generation with Large Language Models](https://aclanthology.org/2025.bionlp-1.28.pdf).**\\
+  An Dao, Hiroki Teranishi, Yuji Matsumoto, Florian Boudin, Akiko Aizawa.\\
+  *Biomedical Natural Language Processing Workshop (BioNLP).*\\
+  <span class="links">
+   [[paper](https://aclanthology.org/2025.bionlp-1.28.pdf),
+    [bib](https://aclanthology.org/2025.bionlp-1.28.bib),
+    [hal](https://hal.science/hal-05222576)]
+  </span>
+
   - **[ParaRev: Building a dataset for Scientific Paragraph Revision annotated with revision instruction](https://aclanthology.org/2025.wraicogs-1.4.pdf).**\\
   Léane Jourdan, Nicolas Hernandez, Richard Dufour, Florian Boudin, Akiko Aizawa.\\
   *International Workshop on Writing Aids at the Crossroads of AI, Cognitive Science and NLP (WR-AI-CogS).*\\
@@ -78,6 +78,10 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [hal](https://hal.science/hal-04879960),
     [data](https://huggingface.co/datasets/taln-ls2n/pararev)]
   </span>
+
+  - **FC-CONAN: An Exhaustively Paired Dataset for Robust Evaluation of Retrieval Systems, Exposing the Lower-Bound Bias of Sparse Labels.**\\
+  Juan Junqueras, Florian Boudin, May Myo Zin, Ha Thanh Nguyen, Wachara Fungwacharakorn, Damián Ariel Furman, Akiko Aizawa, Ken Satoh.\\
+  *Workshop on Next-Generation Language Models for Knowledge Representation and Reasoning (NeLaMKRR).*
 
   - **Identification de mesures d'évaluation fiables pour la révision de textes scientifiques.**\\
   Léane Jourdan, Florian Boudin, Richard Dufour, Nicolas Hernandez.\\
