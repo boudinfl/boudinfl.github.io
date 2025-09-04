@@ -9,7 +9,7 @@ permalink: /students/
 
 - [Julien Aubert-Béduchaud](https://github.com/jjbes) (2023-) working on reading list generation (co-supervised with Richard Dufour and Béatrice Daille).
 - [Léane Jourdan](https://jourdanl.github.io/) (2022-) working on scientific writing assistance (co-supervised with Nicolas Hernandez and Richard Dufour).
-- [Maël Houbre](https://mhoubre.github.io/) (2022-) working on keyphrase generation (co-supervised with Béatrice Daille).
+- [Maël Houbre](https://mhoubre.github.io/) (2022-2025) worked on generative models for keyphrase generation (co-supervised with Béatrice Daille). His Ph.D. thesis is available [here](https://theses.fr/s389769). Maël is now Data Scientist at Direction générale de l'armement.
 - [Ygor Gallina](https://github.com/ra1nbowpill) (2019-22) worked on neural keyphrase generation (co-supervised with Béatrice Daille). His Ph.D. thesis is available [here](/data/students/phd_thesis_ygor-gallina.pdf). Ygor is now assistant professor at Nantes University.
 - [Adrien Bougouin](http://adrien-bougouin.github.io/) (2012-15) worked on Graph-based Ranking Approaches for Keyphrase Extraction (co-supervised with Béatrice Daille). His Ph.D. thesis is available [here](/data/students/phd_thesis_adrien-bougouin.pdf). Adrien is now software engineer at Minimal Technologies, Tokyo.
 

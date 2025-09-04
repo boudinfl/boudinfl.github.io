@@ -7,6 +7,8 @@ permalink: /service/
 # Area Chairing
 {: .underline}
 
+* The 63nd Annual Meeting of the Association for Computational Linguistics ([ACL 2025][acl-2025])
+* 2025 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2025][emnlp-2025])
 * The 62nd Annual Meeting of the Association for Computational Linguistics ([ACL 2024][acl-2024])
 * 2024 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2024][emnlp-2024])
 * 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL 2024](https://2024.naacl.org/))
@@ -26,11 +28,15 @@ permalink: /service/
 # Programme Committee &amp; Paper Reviewing
 {: .underline}
 
+* 48th European Conference on Information Retrieval ([ECIR 2026](https://ecir2026.eu/))
+* 19th ACM International Conference on Web Search and Data Mining ([WSDM 2026](https://wsdm-conference.org/2026/))
+* 3nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific ([SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025/))
 * 8th International Workshop on Narrative Extraction from Texts ([Text2Story](http://text2story25.inesctec.pt/) at [ECIR 2025](https://ecir2025.eu/)).
 * 5th New Frontiers in Summarization Workshop ([NewSum](https://oriern.github.io/newsumm_2025/) at [EMNLP 2025][emnlp-2025]).
 * 2nd Conference on Language Modeling ([COLM 2025](https://colmweb.org/))
 * 48th International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR 2025](https://sigir2025.dei.unipd.it/))
 * 31st International Conference on Computational Linguistics ([COLING 2025][coling-2025])
+* 32e Conférence sur le Traitement Automatique des Langues Naturelles ([TALN 2025](taln-2025))
 * Workshop on Future of Event Detection ([FuturED 2024](https://future-of-event-detection.github.io/) at [EMNLP 2024][emnlp-2024])
 * 28th International Conference on Theory and Practice of Digital Libraries ([TPDL 2024](https://tpdl2024.nuk.si/))
 * 1st Conference on Language Modeling ([COLM 2024](https://colmweb.org/))
@@ -93,6 +99,7 @@ permalink: /service/
 * Past maintainer of [TALN Archives](http://www.atala.org/taln_archives/), a digital archive of French research articles in Natural Language Processing
 * I was an elected member of the [ATALA](http://www.atala.org/) from 2013-2016
 
+[taln-2025]: https://coria-taln-2025.lis-lab.fr/
 [emnlp-2025]: https://2025.emnlp.org/
 [acl-2025]: https://2025.aclweb.org/
 [acl-2024]: https://2024.aclweb.org/
