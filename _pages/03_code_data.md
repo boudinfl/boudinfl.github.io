@@ -25,6 +25,9 @@ permalink: /code/
 # Models
 {: .underline}
 
+ - [`bart-large-kp20k`](https://huggingface.co/taln-ls2n/bart-base-kp20k)
+    is a [bart-large](https://huggingface.co/facebook/bart-large) model for scientific keyphrase generation fine-tuned on the [KP20k dataset](https://huggingface.co/datasets/taln-ls2n/kp20k).
+
  - [`bart-base-kp20k`](https://huggingface.co/taln-ls2n/bart-base-kp20k)
     is a [bart-base](https://huggingface.co/facebook/bart-base) model for scientific keyphrase generation fine-tuned on the [KP20k dataset](https://huggingface.co/datasets/taln-ls2n/kp20k).
 

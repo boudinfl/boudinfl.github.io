@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 Below is a list of my publications organized by date.
-You can also find my [Google Scholar profile](http://scholar.google.com/citations?user=Vk68rbkAAAAJ&hl=en).
+You can also find my [Google Scholar profile](http://scholar.google.com/citations?user=Vk68rbkAAAAJ&hl=en) and my [ACL Anthology author page](https://aclanthology.org/people/florian-boudin/).
 
 # 2025
 {: .underline}
@@ -48,13 +48,14 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [data](https://github.com/jjbes/aclanthology-tutorial-reading-lists)]
   </span>
 
-  - **[An Analysis of Datasets, Metrics and Models in Keyphrase Generation](https://aclanthology.org/2025.gem-1.76.pdf).**\\
+  - **[An Analysis of Datasets, Metrics and Models in Keyphrase Generation](https://arxiv.org/pdf/2506.10346).**\\
   Florian Boudin, Akiko Aizawa.\\
   *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM^2).*\\
   <span class="links">
    [[paper](https://aclanthology.org/2025.gem-1.76.pdf),
     [bib](https://aclanthology.org/2025.gem-1.76.bib),
     [arXiv](https://arxiv.org/pdf/2506.10346),
+    [hal](https://hal.science/hal-05252304),
     [code](https://github.com/boudinfl/kg-datasets-metrics-models),
     [model](https://huggingface.co/taln-ls2n/bart-large-kp20k)]
   </span>
@@ -83,13 +84,17 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
   Juan Junqueras, Florian Boudin, May Myo Zin, Ha Thanh Nguyen, Wachara Fungwacharakorn, Damián Ariel Furman, Akiko Aizawa, Ken Satoh.\\
   *Workshop on Next-Generation Language Models for Knowledge Representation and Reasoning (NeLaMKRR).*
 
-  - **Identification de mesures d'évaluation fiables pour la révision de textes scientifiques.**\\
+  - **[Identification de mesures d'évaluation fiables pour la révision de textes scientifiques](https://talnarchives.atala.org/TALN/TALN-2025/38.pdf).**\\
   Léane Jourdan, Florian Boudin, Richard Dufour, Nicolas Hernandez.\\
-  *Traitement Automatique des Langues Naturelles (TALN).*
+  *Traitement Automatique des Langues Naturelles (TALN).* \\
+  [[paper](https://talnarchives.atala.org/TALN/TALN-2025/38.pdf),
+    [bib](https://talnarchives.atala.org/TALN/TALN-2025/38.bib)]
 
-  - **ACL-rlg: Un dataset pour la génération de listes de lecture.**\\
+  - **[ACL-rlg: Un dataset pour la génération de listes de lecture](https://talnarchives.atala.org/TALN/TALN-2025/24.pdf).**\\
   Julien Aubert-Béduchaud, Florian Boudin, Béatrice Daille, Richard Dufour.\\
-  *Traitement Automatique des Langues Naturelles (TALN).*
+  *Traitement Automatique des Langues Naturelles (TALN).*\\
+  [[paper](https://talnarchives.atala.org/TALN/TALN-2025/24.pdf),
+    [bib](https://talnarchives.atala.org/TALN/TALN-2025/24.bib)]
 
   - **[LLM-as-a-Judge: Reassessing the Performance of LLMs in Extractive QA](https://arxiv.org/abs/2504.11972).**\\
     Xanh Ho, Jiahao Huang, Florian Boudin, Akiko Aizawa.\\
