@@ -87,21 +87,25 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
   - **[Identification de mesures d'évaluation fiables pour la révision de textes scientifiques](https://talnarchives.atala.org/TALN/TALN-2025/38.pdf).**\\
   Léane Jourdan, Florian Boudin, Richard Dufour, Nicolas Hernandez.\\
   *Traitement Automatique des Langues Naturelles (TALN).* \\
+  <span class="links">
   [[paper](https://talnarchives.atala.org/TALN/TALN-2025/38.pdf),
     [bib](https://talnarchives.atala.org/TALN/TALN-2025/38.bib)]
+  </span>
 
   - **[ACL-rlg: Un dataset pour la génération de listes de lecture](https://talnarchives.atala.org/TALN/TALN-2025/24.pdf).**\\
   Julien Aubert-Béduchaud, Florian Boudin, Béatrice Daille, Richard Dufour.\\
   *Traitement Automatique des Langues Naturelles (TALN).*\\
+  <span class="links">
   [[paper](https://talnarchives.atala.org/TALN/TALN-2025/24.pdf),
     [bib](https://talnarchives.atala.org/TALN/TALN-2025/24.bib)]
+  </span>
 
   - **[LLM-as-a-Judge: Reassessing the Performance of LLMs in Extractive QA](https://arxiv.org/abs/2504.11972).**\\
-    Xanh Ho, Jiahao Huang, Florian Boudin, Akiko Aizawa.\\
-    <span class="links">
-      [[arXiv](https://arxiv.org/pdf/2504.11972.pdf),
-      [code](https://github.com/Alab-NII/llm-judge-extract-qa)]
-    </span>
+  Xanh Ho, Jiahao Huang, Florian Boudin, Akiko Aizawa.\\
+  <span class="links">
+    [[arXiv](https://arxiv.org/pdf/2504.11972.pdf),
+    [code](https://github.com/Alab-NII/llm-judge-extract-qa)]
+  </span>
 
 # 2024
 {: .underline}
