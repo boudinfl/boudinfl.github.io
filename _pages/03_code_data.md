@@ -34,32 +34,32 @@ permalink: /code/
 # Datasets
 {: .underline}
 
- - [<u>Si</u>lver-standard <u>ke</u>yphrases from citation contexts for domain adaptation (silk)](https://huggingface.co/datasets/taln-ls2n/silk)  
+ - [`silk`: <u>Si</u>lver-standard <u>ke</u>yphrases from citation contexts for domain adaptation](https://huggingface.co/datasets/taln-ls2n/silk)  
    A dataset of synthetic samples for adapting keyphrase generation models to new domains. It contains synthetic samples for three specific domains: Natural Language Processing, Astrophysics and Paleontology, along with human-labeled test sets to evaluate keyphrase generation performance across these domains.
 
- - [A Large-Scale Dataset for Biomedical Keyphrase Generation (kp-biomed)](https://huggingface.co/datasets/taln-ls2n/kpbiomed)  
+ - [`kp-biomed`: A Large-Scale Dataset for Biomedical Keyphrase Generation](https://huggingface.co/datasets/taln-ls2n/kpbiomed)  
    A large-scale dataset of 5.6 million PubMed abstracts with author assigned keyphrases for training and evaluating neural keyphrase generation models on the biomedical domain.
 
- - [A Large-Scale Dataset for Keyphrase Generation on News Documents (KPNews)](https://github.com/ygorg/KPTimes)  
+ - [`KPNews`: A Large-Scale Dataset for Keyphrase Generation on News Documents](https://github.com/ygorg/KPTimes)  
    A large-scale dataset of 279,923 news texts paired with editor-curated keyphrases for training and evaluating neural keyphrase generation models on the news domain.
 
- - [Preprocessed SemEval-2010 benchmark dataset (semeval-2010-pre)](https://github.com/boudinfl/semeval-2010-pre)  
+ - [`semeval-2010-pre`: Preprocessed SemEval-2010 benchmark dataset](https://github.com/boudinfl/semeval-2010-pre)  
    The SemEval-2010 benchmark dataset for automatic keyphrase extraction already preprocessed at four increasingly sophisticated levels of linguistic preprocessing.
 
- - [A Dataset of French Wikinews articles for keyphrase generation (wikinews-fr-100)](https://huggingface.co/datasets/taln-ls2n/wikinews-fr-100)  
+ - [`wikinews-fr-100`: A Dataset of French Wikinews articles for keyphrase generation](https://huggingface.co/datasets/taln-ls2n/wikinews-fr-100)  
    A dataset of 100 French Wikinews articles published between May and December 2012, annotated with a combination of three types of reader annotations.
 
- - [Digital archive of French research articles in Natural Language Processing (TALN Archives)](https://github.com/boudinfl/taln-archives)  
+ - [`TALN Archives`: Digital archive of French research articles in Natural Language Processing](https://github.com/boudinfl/taln-archives)  
    TALN Archives is a digital archive of French research articles in Natural
    Language Processing. It contains the articles published at the TALN and
    RECITAL conferences from 1997 to 2015.
 
- - [LINA Multi-sentence Compression dataset (LINA-msc)](https://github.com/boudinfl/lina-msc)  
+ - [`LINA-msc`: LINA Multi-sentence Compression dataset](https://github.com/boudinfl/lina-msc)  
    LINA-msc is a dataset for evaluating Multi-sentence Compression in French. It
    is made of 40 sets of related sentences along with reference compressions
    composed by human assessors.
 
- - [CLinical Information Retrieval Evaluation Collection (CLIREC)](https://github.com/boudinfl/CLIREC)  
+ - [`CLIREC`: CLinical Information Retrieval Evaluation Collection](https://github.com/boudinfl/CLIREC)  
    CLIREC is a a test collection for clinical IR. From a set of systematic
    reviews, we have generated 423 queries with relevance data. Relevance
    judgments were manually collected from the References section containing the
