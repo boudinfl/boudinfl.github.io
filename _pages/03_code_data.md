@@ -34,6 +34,12 @@ permalink: /code/
 # Datasets
 {: .underline}
 
+ - [`pararev`: A dataset of revised scientific paragraphs with revision instructions](https://huggingface.co/datasets/taln-ls2n/pararev)
+   A dataset of revised scientific paragraphs, providing pairs of original and revised versions enriched with detailed revision instructions and a manually annotated evaluation subset, enabling research on context-aware and instruction-guided scientific text revision.
+
+ - [`CASIMIR`: A Corpus of Scientific Articles enhanced with Multiple Author-Integrated Revisions](https://huggingface.co/datasets/taln-ls2n/CASIMIR)
+   A dataset of 15,646 scientific articles from OpenReview, providing sentence-aligned revisions across multiple versions along with peer reviews, automatically extracted edits, revision intentions, and paragraph-level metadata to support studies on scientific writing and revision.
+
  - [`silk`: <u>Si</u>lver-standard <u>ke</u>yphrases from citation contexts for domain adaptation](https://huggingface.co/datasets/taln-ls2n/silk)  
    A dataset of synthetic samples for adapting keyphrase generation models to new domains. It contains synthetic samples for three specific domains: Natural Language Processing, Astrophysics and Paleontology, along with human-labeled test sets to evaluate keyphrase generation performance across these domains.
 
