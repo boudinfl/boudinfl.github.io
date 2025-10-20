@@ -34,7 +34,8 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
   Kon Woo Kim, Rezarta Islamaj, Jin-Dong Kim, Florian Boudin, Akiko Aizawa.\\
   *International Conference on Natural Language & Information Systems (NLDB).*\\
   <span class="links">
-   [[hal](https://hal.science/hal-05222604)]
+   [[arXiv](https://arxiv.org/pdf/2510.12835),
+    [hal](https://hal.science/hal-05222604)]
   </span>
 
   - **[ACL-rlg: A Dataset for Reading List Generation](https://aclanthology.org/2025.coling-main.327.pdf).**\\
@@ -80,7 +81,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [data](https://huggingface.co/datasets/taln-ls2n/pararev)]
   </span>
 
-  - **FC-CONAN: An Exhaustively Paired Dataset for Robust Evaluation of Retrieval Systems, Exposing the Lower-Bound Bias of Sparse Labels.**\\
+  - **[FC-CONAN: An Exhaustively Paired Dataset for Robust Evaluation of Retrieval Systems, Exposing the Lower-Bound Bias of Sparse Labels](https://jurisinformaticscenter.github.io/NeLaMKRR2025/#).**\\
   Juan Junqueras, Florian Boudin, May Myo Zin, Ha Thanh Nguyen, Wachara Fungwacharakorn, Damián Ariel Furman, Akiko Aizawa, Ken Satoh.\\
   *Workshop on Next-Generation Language Models for Knowledge Representation and Reasoning (NeLaMKRR).*
 
