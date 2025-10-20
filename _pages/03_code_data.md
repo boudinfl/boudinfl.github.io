@@ -64,10 +64,10 @@ permalink: /code/
    A dataset of 100 French Wikinews articles published between May and December 2012, annotated with a combination of three types of reader annotations.
    - <span class="stats" data-hf-id="taln-ls2n/wikinews-fr-100">Loading...</span>
 
- - [`TALN Archives`: Digital archive of French research articles in Natural Language Processing](https://github.com/boudinfl/taln-archives)  
-   TALN Archives is a digital archive of French research articles in Natural
-   Language Processing. It contains the articles published at the TALN and
-   RECITAL conferences from 1997 to 2015.
+ - [`TALN Archives`: Digital archive of French research articles in Natural Language Processing](https://huggingface.co/datasets/taln-ls2n/taln-archives)  
+   TALN Archives is a digital repository of French research articles in Natural Language Processing, containing papers published at the TALN and RECITAL conferences from 1997 to 2015.
+   This dataset originated from my initiative to create a central repository for French NLP papers and is continuously updated each year by the ATALA association at <a href="https://talnarchives.atala.org/">talnarchives.atala.org</a>.
+   - <span class="stats" data-hf-id="taln-ls2n/taln-archives">Loading...</span>
 
  - [`LINA-msc`: LINA Multi-sentence Compression dataset](https://github.com/boudinfl/lina-msc)  
    LINA-msc is a dataset for evaluating Multi-sentence Compression in French. It
@@ -80,8 +80,6 @@ permalink: /code/
    judgments were manually collected from the References section containing the
    citations from which the synthetized results of the review were extracted.
 
-
-
 <script>
 const hfItems = [
   // --- Datasets ---
@@ -92,6 +90,7 @@ const hfItems = [
   { id: "taln-ls2n/KPTimes", type: "dataset" },
   { id: "taln-ls2n/semeval-2010-pre", type: "dataset" },
   { id: "taln-ls2n/wikinews-fr-100", type: "dataset" },
+  { id: "taln-ls2n/taln-archives", type: "dataset" },
   
   // --- Models ---
   { id: "taln-ls2n/bart-base-kp20k", type: "model" },
