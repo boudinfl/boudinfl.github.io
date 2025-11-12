@@ -7,16 +7,32 @@ permalink: /publications/
 Below is a list of my publications organized by date.
 You can also find my [Google Scholar profile](http://scholar.google.com/citations?user=Vk68rbkAAAAJ&hl=en) and my [ACL Anthology author page](https://aclanthology.org/people/florian-boudin/).
 
+# 2026
+{: .underline}
+
+  {: .block}
+
+  - **Format Matters: The Robustness of Multimodal LLMs in Reviewing Evidence from Tables and Charts.**\\
+    Xanh Ho, Yun-Ang Wu, Sunisth Kumar, Florian Boudin, Atsuhiro Takasu, Akiko Aizawa.\\
+    *Annual AAAI Conference on Artificial Intelligence.*\\
+    <span class="links">
+      [[code](https://github.com/Alab-NII/tables-vs-charts)]
+    </span>
+
 # 2025
 {: .underline}
 
   {: .block}
 
-  - **[Table-Text Alignment: Explaining Claim Verification Against Tables in Scientific Papers](https://arxiv.org/abs/2506.10486).**\\
+  - **[Table-Text Alignment: Explaining Claim Verification Against Tables in Scientific Papers](https://aclanthology.org/2025.findings-emnlp.135.pdf).**\\
   Xanh Ho, Sunisth Kumar, Yun-Ang Wu, Florian Boudin, Atsuhiro Takasu, Akiko Aizawa.\\
   *Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings.*\\
   <span class="links">
-   [[arXiv](https://arxiv.org/abs/2506.10486)]
+   [[paper](https://aclanthology.org/2025.findings-emnlp.135.pdf),
+    [bib](https://aclanthology.org/2025.findings-emnlp.135.bib),
+    [arXiv](https://arxiv.org/abs/2506.10486),
+    [hal](https://hal.science/hal-05361022),
+    [data](https://github.com/Alab-NII/SciTabAlign)]
   </span>
 
   - **[Identifying Reliable Evaluation Metrics for Scientific Text Revision](https://aclanthology.org/2025.acl-long.335.pdf).**\\
