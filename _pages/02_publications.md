@@ -12,11 +12,12 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
-  - **Format Matters: The Robustness of Multimodal LLMs in Reviewing Evidence from Tables and Charts.**\\
+  - **[Format Matters: The Robustness of Multimodal LLMs in Reviewing Evidence from Tables and Charts](https://arxiv.org/abs/2511.10075).**\\
     Xanh Ho, Yun-Ang Wu, Sunisth Kumar, Florian Boudin, Atsuhiro Takasu, Akiko Aizawa.\\
-    *Annual AAAI Conference on Artificial Intelligence.*\\
+    *Annual AAAI Conference on Artificial Intelligence (AAAI).*\\
     <span class="links">
-      [[code](https://github.com/Alab-NII/tables-vs-charts)]
+      [[arXiv](https://arxiv.org/abs/2511.10075),
+       [code](https://github.com/Alab-NII/tables-vs-charts)]
     </span>
 
 # 2025
