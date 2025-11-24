@@ -42,6 +42,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
   <span class="links">
    [[paper](https://aclanthology.org/2025.acl-long.335.pdf),
     [bib](https://aclanthology.org/2025.acl-long.335.bib),
+    [talk](https://doi.org/10.48448/e19w-1m32),
     [arXiv](https://arxiv.org/pdf/2506.04772),
     [hal](https://hal.science/hal-05099650),
     [data](https://github.com/JourdanL/parareval)]
@@ -84,6 +85,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
   <span class="links">
    [[paper](https://aclanthology.org/2025.bionlp-1.28.pdf),
     [bib](https://aclanthology.org/2025.bionlp-1.28.bib),
+    [talk](https://doi.org/10.48448/ve9d-6b10),
     [hal](https://hal.science/hal-05222576)]
   </span>
 
@@ -145,6 +147,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    <span class="links">
    [[paper](https://aclanthology.org/2024.findings-emnlp.33.pdf),
     [bib](https://aclanthology.org/2024.findings-emnlp.33.bib),
+    [talk](https://doi.org/10.48448/wq7g-hz84),
     [arXiv](https://arxiv.org/pdf/2409.13266.pdf),
     [hal](https://hal.science/hal-04837895),
     [code](https://github.com/boudinfl/silk/),
@@ -244,6 +247,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    <span class="links">
    [[paper](https://aclanthology.org/2022.louhi-1.6.pdf),
     [bib](https://aclanthology.org/2022.louhi-1.6.bib),
+    [talk](https://doi.org/10.48448/jzas-r333),
     [code](https://huggingface.co/taln-ls2n/kpbiomed-models),
     [dataset](https://huggingface.co/datasets/taln-ls2n/kpbiomed)]
    </span>
@@ -281,6 +285,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    <span class="links">
    [[paper](https://www.aclweb.org/anthology/2021.naacl-main.330.pdf),
     [bib](https://www.aclweb.org/anthology/2021.naacl-main.330.bib),
+    [talk](https://doi.org/10.48448/m30p-k984),
     [arXiv](https://arxiv.org/pdf/2103.12440.pdf),
     [code](https://github.com/boudinfl/redefining-absent-keyphrases),
     [dataset](https://github.com/boudinfl/redefining-absent-keyphrases/blob/main/data/acm-cr/acm-cr.v1.tar.gz)]
