@@ -100,9 +100,12 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [data](https://huggingface.co/datasets/taln-ls2n/pararev)]
   </span>
 
-  - **[FC-CONAN: An Exhaustively Paired Dataset for Robust Evaluation of Retrieval Systems, Exposing the Lower-Bound Bias of Sparse Labels](https://jurisinformaticscenter.github.io/NeLaMKRR2025/#).**\\
+  - **[FC-CONAN: An Exhaustively Paired Dataset for Robust Evaluation of Retrieval Systems](https://arxiv.org/abs/2511.09575).**\\
   Juan Junqueras, Florian Boudin, May Myo Zin, Ha Thanh Nguyen, Wachara Fungwacharakorn, Damián Ariel Furman, Akiko Aizawa, Ken Satoh.\\
-  *Workshop on Next-Generation Language Models for Knowledge Representation and Reasoning (NeLaMKRR).*
+  *Workshop on Next-Generation Language Models for Knowledge Representation and Reasoning (NeLaMKRR).*\\
+  <span class="links">
+   [[arXiv](https://arxiv.org/abs/2511.09575)]
+  </span>
 
   - **[Identification de mesures d'évaluation fiables pour la révision de textes scientifiques](https://talnarchives.atala.org/TALN/TALN-2025/38.pdf).**\\
   Léane Jourdan, Florian Boudin, Richard Dufour, Nicolas Hernandez.\\
