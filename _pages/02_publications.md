@@ -282,12 +282,12 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[Redefining Absent Keyphrases and their Effect on Retrieval Effectiveness](https://www.aclweb.org/anthology/2021.naacl-main.330.pdf).**\\
+ - **[Redefining Absent Keyphrases and their Effect on Retrieval Effectiveness](https://aclanthology.org/2021.naacl-main.330.pdf).**\\
    Florian Boudin, Ygor Gallina.\\
    *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).* \\
    <span class="links">
-   [[paper](https://www.aclweb.org/anthology/2021.naacl-main.330.pdf),
-    [bib](https://www.aclweb.org/anthology/2021.naacl-main.330.bib),
+   [[paper](https://aclanthology.org/2021.naacl-main.330.pdf),
+    [bib](https://aclanthology.org/2021.naacl-main.330.bib),
     [talk](https://doi.org/10.48448/m30p-k984),
     [arXiv](https://arxiv.org/pdf/2103.12440.pdf),
     [code](https://github.com/boudinfl/redefining-absent-keyphrases),
@@ -307,12 +307,12 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[Keyphrase Generation for Scientific Document Retrieval](https://www.aclweb.org/anthology/2020.acl-main.105.pdf).**\\
+ - **[Keyphrase Generation for Scientific Document Retrieval](https://aclanthology.org/2020.acl-main.105.pdf).**\\
    Florian Boudin, Ygor Gallina, Akiko Aizawa.\\
    *Association for Computational Linguistics (ACL).* \\
    <span class="links">
-   [[paper](https://www.aclweb.org/anthology/2020.acl-main.105.pdf),
-    [bib](https://www.aclweb.org/anthology/2020.acl-main.105.bib),
+   [[paper](https://aclanthology.org/2020.acl-main.105.pdf),
+    [bib](https://aclanthology.org/2020.acl-main.105.bib),
     [video](http://slideslive.com/38928736),
     [code](https://github.com/boudinfl/ir-using-kg)]
    </span>
@@ -334,21 +334,21 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    [[paper](http://ceur-ws.org/Vol-2621/CIRCLE20_27.pdf)]
    </span>
 
- - **[An Evaluation Dataset for Identifying Communicative Functions of Sentences in English Scholarly Papers](https://www.aclweb.org/anthology/2020.lrec-1.212.pdf).**\\
+ - **[An Evaluation Dataset for Identifying Communicative Functions of Sentences in English Scholarly Papers](https://aclanthology.org/2020.lrec-1.212.pdf).**\\
    Kenichi Iwatsuki, Florian Boudin, Akiko Aizawa.\\
    *Language Resources and Evaluation Conference (LREC).*\\
    <span class="links">
-   [[paper](https://www.aclweb.org/anthology/2020.lrec-1.212.pdf),
-    [bib](https://www.aclweb.org/anthology/2020.lrec-1.212.bib),
+   [[paper](https://aclanthology.org/2020.lrec-1.212.pdf),
+    [bib](https://aclanthology.org/2020.lrec-1.212.bib),
     [dataset](https://github.com/Alab-NII/FECFevalDataset)]
    </span>
 
- - **[TermEval 2020: TALN-LS2N System for Automatic Term Extraction](https://www.aclweb.org/anthology/2020.computerm-1.13.pdf).**\\
+ - **[TermEval 2020: TALN-LS2N System for Automatic Term Extraction](https://aclanthology.org/2020.computerm-1.13.pdf).**\\
    Amir Hazem, Mérieme Bouhandi, Florian Boudin, Beatrice Daille.\\
    *6th International Workshop on Computational Terminology (CompuTerm).*\\
    <span class="links">
-   [[paper](https://www.aclweb.org/anthology/2020.computerm-1.13.pdf),
-    [bib](https://www.aclweb.org/anthology/2020.computerm-1.13.bib)]
+   [[paper](https://aclanthology.org/2020.computerm-1.13.pdf),
+    [bib](https://aclanthology.org/2020.computerm-1.13.bib)]
    </span>
 
 # 2019
@@ -356,22 +356,22 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[KPTimes: A Large-Scale Dataset for Keyphrase Generation on News Documents](https://www.aclweb.org/anthology/W19-8617.pdf).**\\
+ - **[KPTimes: A Large-Scale Dataset for Keyphrase Generation on News Documents](https://aclanthology.org/W19-8617.pdf).**\\
    Ygor Gallina, Florian Boudin, Béatrice Daille.\\
    *International Conference on Natural Language Generation (INLG).*\\
    <span class="links">
-   [[paper](https://www.aclweb.org/anthology/W19-8617.pdf),
-    [bib](https://www.aclweb.org/anthology/W19-8617.bib),
+   [[paper](https://aclanthology.org/W19-8617.pdf),
+    [bib](https://aclanthology.org/W19-8617.bib),
     [arXiv](https://arxiv.org/abs/1911.12559),
     [dataset](https://github.com/ygorg/KPTimes)]
    </span>
 
- - **[DeFT 2019: Auto-encodeurs, Gradient Boosting et combinaisons de modèles pour l'identification automatique de mots-clés](https://www.aclweb.org/anthology/2019.jeptalnrecital-deft.6.pdf).**\\
+ - **[DeFT 2019: Auto-encodeurs, Gradient Boosting et combinaisons de modèles pour l'identification automatique de mots-clés](https://aclanthology.org/2019.jeptalnrecital-deft.6.pdf).**\\
    Mérième Bouhandi, Florian Boudin, Ygor Gallina.\\
    *Défi Fouille de Textes (DEFT).* \\
    <span class="links">
-   [[paper](https://www.aclweb.org/anthology/2019.jeptalnrecital-deft.6.pdf),
-    [bib](https://www.aclweb.org/anthology/2019.jeptalnrecital-deft.6.bib)]
+   [[paper](https://aclanthology.org/2019.jeptalnrecital-deft.6.pdf),
+    [bib](https://aclanthology.org/2019.jeptalnrecital-deft.6.bib)]
    </span>
 
 
@@ -444,21 +444,21 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
      [bib](http://aclweb.org/anthology/C16-1277.bib)]
    </span>
 
- - **[TermITH-Eval: a French Standard-Based Resource for Keyphrase Extraction Evaluation](https://www.aclweb.org/anthology/L16-1304.pdf).**\\
+ - **[TermITH-Eval: a French Standard-Based Resource for Keyphrase Extraction Evaluation](https://aclanthology.org/L16-1304.pdf).**\\
    Adrien Bougouin, Sabine Barreaux, Laurent Romary, Florian Boudin, Béatrice Daille.\\
    *Language Resources and Evaluation Conference (LREC).*\\
    <span class="links">
-    [[paper](https://www.aclweb.org/anthology/L16-1304.pdf),
-     [bib](https://www.aclweb.org/anthology/L16-1304.bib),
+    [[paper](https://aclanthology.org/L16-1304.pdf),
+     [bib](https://aclanthology.org/L16-1304.bib),
      [dataset](https://github.com/termith-anr/TermITH-Eval)]
    </span>
    
- - **[Modélisation unifiée du document et de son domaine pour une indexation par termes-clés libre et contrôlée](https://www.aclweb.org/anthology/2016.jeptalnrecital-long.18.pdf).**\\
+ - **[Modélisation unifiée du document et de son domaine pour une indexation par termes-clés libre et contrôlée](https://aclanthology.org/2016.jeptalnrecital-long.18.pdf).**\\
    Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
    *Traitement Automatique des Langues Naturelles (TALN).*\\
    <span class="links">
-    [[paper](https://www.aclweb.org/anthology/2016.jeptalnrecital-long.18.pdf),
-     [bib](https://www.aclweb.org/anthology/2016.jeptalnrecital-long.18.bib)]
+    [[paper](https://aclanthology.org/2016.jeptalnrecital-long.18.pdf),
+     [bib](https://aclanthology.org/2016.jeptalnrecital-long.18.bib)]
    </span>
    
  - **[Indexation d’articles scientifiques : Présentation et résultats du défi fouille de textes DEFT 2016](https://jep-taln2016.limsi.fr/actes/Actes%20JTR-2016/Papers/Ateliers/DEFT-1.pdf).**\\
@@ -530,12 +530,12 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
        [[paper](/data/articles/lacroix_cicling14.pdf)]
    </span>
 
- - **[Influence des domaines de spécialité dans l'extraction de termes-clés](https://www.aclweb.org/anthology/F14-1002.pdf).**\\
+ - **[Influence des domaines de spécialité dans l'extraction de termes-clés](https://aclanthology.org/F14-1002.pdf).**\\
    Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
    *Traitement Automatique des Langues Naturelles (TALN).* \\
    <span class="links">
-       [[paper](https://www.aclweb.org/anthology/F14-1002.pdf),
-        [bib](https://www.aclweb.org/anthology/F14-1002.bib)]
+       [[paper](https://aclanthology.org/F14-1002.pdf),
+        [bib](https://aclanthology.org/F14-1002.bib)]
    </span>
 
 # 2013
@@ -543,47 +543,47 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[TopicRank: Graph-Based Topic Ranking for Keyphrase Extraction](https://www.aclweb.org/anthology/I13-1062.pdf).**\\
+ - **[TopicRank: Graph-Based Topic Ranking for Keyphrase Extraction](https://aclanthology.org/I13-1062.pdf).**\\
    Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
    *International Joint Conference on Natural Language Processing (IJCNLP).* \\
    <span class="links">
-       [[paper](https://www.aclweb.org/anthology/I13-1062.pdf),
-        [bib](https://www.aclweb.org/anthology/I13-1062.bib)]
+       [[paper](https://aclanthology.org/I13-1062.pdf),
+        [bib](https://aclanthology.org/I13-1062.bib)]
    </span>
 
- - **[A Comparison of Centrality Measures for Graph-Based Keyphrase Extraction](https://www.aclweb.org/anthology/I13-1102.pdf).**\\
+ - **[A Comparison of Centrality Measures for Graph-Based Keyphrase Extraction](https://aclanthology.org/I13-1102.pdf).**\\
    Florian Boudin.\\
    *International Joint Conference on Natural Language Processing (IJCNLP).* \\
    <span class="links">
-       [[paper](https://www.aclweb.org/anthology/I13-1102.pdf),
-        [bib](https://www.aclweb.org/anthology/I13-1102.bib)]
+       [[paper](https://aclanthology.org/I13-1102.pdf),
+        [bib](https://aclanthology.org/I13-1102.bib)]
    </span>
 
- - **[Keyphrase Extraction for N-best Reranking in Multi-Sentence Compression](https://www.aclweb.org/anthology/N13-1030.pdf).**\\
+ - **[Keyphrase Extraction for N-best Reranking in Multi-Sentence Compression](https://aclanthology.org/N13-1030.pdf).**\\
    Florian Boudin, Emmanuel Morin.\\
    *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).* \\
    <span class="links">
-       [[paper](https://www.aclweb.org/anthology/N13-1030.pdf),
-        [bib](https://www.aclweb.org/anthology/N13-1030.bib),
+       [[paper](https://aclanthology.org/N13-1030.pdf),
+        [bib](https://aclanthology.org/N13-1030.bib),
         [dataset](https://github.com/boudinfl/lina-msc),
         [code](https://github.com/boudinfl/takahe)]
    </span>
 
- - **[TALN Archives : une archive numérique francophone des articles de recherche en Traitement Automatique de la Langue](https://www.aclweb.org/anthology/F13-2001.pdf).**\\
+ - **[TALN Archives : une archive numérique francophone des articles de recherche en Traitement Automatique de la Langue](https://aclanthology.org/F13-2001.pdf).**\\
    Florian Boudin.\\
    *Traitement Automatique des Langues Naturelles (TALN).* \\
     <span class="links">
-       [[paper](https://www.aclweb.org/anthology/F13-2001.pdf),
-        [bib](https://www.aclweb.org/anthology/F13-2001.bib),
+       [[paper](https://aclanthology.org/F13-2001.pdf),
+        [bib](https://aclanthology.org/F13-2001.bib),
         [dataset](https://github.com/boudinfl/taln-archives)]
    </span>
    
- - **[Construction d’un large corpus écrit libre annoté morpho-syntaxiquement en français](https://www.aclweb.org/anthology/F13-1012.pdf).**\\
+ - **[Construction d’un large corpus écrit libre annoté morpho-syntaxiquement en français](https://aclanthology.org/F13-1012.pdf).**\\
    Nicolas Hernandez, Florian Boudin.\\
    *Traitement Automatique des Langues Naturelles (TALN).* \\
    <span class="links">
-       [[paper](https://www.aclweb.org/anthology/F13-1012.pdf),
-        [bib](https://www.aclweb.org/anthology/F13-1012.bib)]
+       [[paper](https://aclanthology.org/F13-1012.pdf),
+        [bib](https://aclanthology.org/F13-1012.bib)]
    </span>
 
  - **[Contextualisation automatique de Tweets à partir de Wikipédia](http://asso-aria.org/coria/2013/coria/coria2013_23.pdf).**\\
@@ -614,12 +614,12 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
         [bib](https://citation-needed.springer.com/v2/references/10.1007/978-3-642-28997-2_46?format=bibtex&flavour=citation)]
    </span>
 
- - **[Détection et correction automatique d’erreurs d’annotation morpho-syntaxique du French TreeBank](https://www.aclweb.org/anthology/F12-2021.pdf).**\\
+ - **[Détection et correction automatique d’erreurs d’annotation morpho-syntaxique du French TreeBank](https://aclanthology.org/F12-2021.pdf).**\\
    Florian Boudin, Nicolas Hernandez.\\
    *Traitement Automatique des Langues Naturelles (TALN).* \\
    <span class="links">
-       [[paper](https://www.aclweb.org/anthology/F12-2021.pdf),
-        [bib](https://www.aclweb.org/anthology/F12-2021.bib)]
+       [[paper](https://aclanthology.org/F12-2021.pdf),
+        [bib](https://aclanthology.org/F12-2021.bib)]
    </span>
 
  - **[LIA/LINA at the INEX 2012 Tweet Contextualization track](http://ims-sites.dei.unipd.it/documents/71612/155385/CLEF2012wn-INEX-DeveaudEt2012.pdf).**\\
@@ -629,12 +629,12 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
        [[paper](http://ims-sites.dei.unipd.it/documents/71612/155385/CLEF2012wn-INEX-DeveaudEt2012.pdf)]
    </span>
 
- - **[Participation du LINA à DEFT 2012](https://www.aclweb.org/anthology/W12-1107.pdf).**\\
+ - **[Participation du LINA à DEFT 2012](https://aclanthology.org/W12-1107.pdf).**\\
    Florian Boudin, Amir Hazem, Nicolas Hernandez, Prajol Shrestha.\\
    *Défi Fouille de Textes (DEFT).* \\
    <span class="links">
-       [[paper](https://www.aclweb.org/anthology/W12-1107.pdf),
-        [bib](https://www.aclweb.org/anthology/W12-1107.bib)]
+       [[paper](https://aclanthology.org/W12-1107.pdf),
+        [bib](https://aclanthology.org/W12-1107.bib)]
    </span>
 
 # 2011
@@ -685,21 +685,21 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
         [ris](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/1472-6947-10-29.ris)]
    </span>
 
- - **[Positional Language Models for Clinical Information Retrieval](https://www.aclweb.org/anthology/D10-1011.pdf).**\\
+ - **[Positional Language Models for Clinical Information Retrieval](https://aclanthology.org/D10-1011.pdf).**\\
    Florian Boudin, Jian-Yun Nie, Martin Dawes.\\
    *Conference on Empirical Methods in Natural Language Processing (EMNLP).* \\
    <span class="links">
-       [[paper](https://www.aclweb.org/anthology/D10-1011.pdf),
-        [bib](https://www.aclweb.org/anthology/D10-1011.bib),
+       [[paper](https://aclanthology.org/D10-1011.pdf),
+        [bib](https://aclanthology.org/D10-1011.bib),
         [dataset](https://github.com/boudinfl/CLIREC)]
    </span>
 
- - **[Clinical Information Retrieval using Document and PICO Structure](https://www.aclweb.org/anthology/N10-1124.pdf).**\\
+ - **[Clinical Information Retrieval using Document and PICO Structure](https://aclanthology.org/N10-1124.pdf).**\\
    Florian Boudin, Jian-Yun Nie, Martin Dawes.\\
    *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).*\\
    <span class="links">
-       [[paper](https://www.aclweb.org/anthology/N10-1124.pdf),
-        [bib](https://www.aclweb.org/anthology/N10-1124.bib),
+       [[paper](https://aclanthology.org/N10-1124.pdf),
+        [bib](https://aclanthology.org/N10-1124.bib),
         [dataset](https://github.com/boudinfl/CLIREC)]
    </span>
 
@@ -744,12 +744,12 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[A Scalable MMR Approach to Sentence Scoring for Multi-Document Update Summarization](https://www.aclweb.org/anthology/C08-2006.pdf).**\\
+ - **[A Scalable MMR Approach to Sentence Scoring for Multi-Document Update Summarization](https://aclanthology.org/C08-2006.pdf).**\\
    Florian Boudin, Marc El-Bèze, Juan-Manuel Torres-Moreno.\\
    *International Conference on Computational Linguistics (COLING).* \\
    <span class="links">
-       [[paper](https://www.aclweb.org/anthology/C08-2006.pdf),
-        [bib](https://www.aclweb.org/anthology/C08-2006.bib)]
+       [[paper](https://aclanthology.org/C08-2006.pdf),
+        [bib](https://aclanthology.org/C08-2006.bib)]
    </span>
 
  - **[Mixing Statistical and Symbolic Approaches for Chemical Names Recognition](/data/articles/boudin_cicling08.pdf).**\\
