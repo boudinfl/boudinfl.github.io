@@ -12,6 +12,21 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
+  - **[SciClaimEval: Cross-modal Claim Verification in Scientific Papers](https://arxiv.org/abs/2602.07621).**\\
+    Xanh Ho, Yun-Ang Wu, Sunisth Kumar, Tian Cheng Xia, Florian Boudin, Andre Greiner-Petter, Akiko Aizawa.\\
+    *Language Resources and Evaluation Conference (LREC).*\\
+    <span class="links">
+      [[arXiv](https://arxiv.org/abs/2602.07621),
+       [shared task](https://sciclaimeval.github.io/)]
+    </span>
+
+  - **[Evaluating the Homogeneity of Keyphrase Prediction Models](https://arxiv.org/abs/2602.12989).**\\
+    Maël Houbre, Florian Boudin, Beatrice Daille\\
+    *Language Resources and Evaluation Conference (LREC).*\\
+    <span class="links">
+      [[arXiv](https://arxiv.org/abs/2602.12989)]
+    </span>
+
   - **[Format Matters: The Robustness of Multimodal LLMs in Reviewing Evidence from Tables and Charts](https://arxiv.org/abs/2511.10075).**\\
     Xanh Ho, Yun-Ang Wu, Sunisth Kumar, Florian Boudin, Atsuhiro Takasu, Akiko Aizawa.\\
     *Annual AAAI Conference on Artificial Intelligence (AAAI).*\\
