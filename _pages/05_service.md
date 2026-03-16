@@ -13,6 +13,7 @@ permalink: /service/
 # Area Chairing
 {: .underline}
 
+* The 64th Annual Meeting of the Association for Computational Linguistics ([ACL 2026][acl-2026])
 * The 63nd Annual Meeting of the Association for Computational Linguistics ([ACL 2025][acl-2025])
 * 2025 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2025][emnlp-2025])
 * The 62nd Annual Meeting of the Association for Computational Linguistics ([ACL 2024][acl-2024])
@@ -101,6 +102,7 @@ permalink: /service/
 * Past maintainer of [TALN Archives](http://www.atala.org/taln_archives/), a digital archive of French research articles in Natural Language Processing
 * I was an elected member of the [ATALA](http://www.atala.org/) from 2013-2016
 
+[acl-2026]: https://2026.aclweb.org/
 [taln-2025]: https://coria-taln-2025.lis-lab.fr/
 [emnlp-2025]: https://2025.emnlp.org/
 [acl-2025]: https://2025.aclweb.org/

@@ -12,6 +12,13 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
+  - **[EarlySciRev: A Dataset of Early-Stage Scientific Revisions Extracted from LaTeX Writing Traces].**\\
+    Léane Jourdan, Julien Aubert-Béduchaud, Yannis Chupin, Marah Baccari, Florian Boudin.\\
+    *Workshop on Natural Scientific Language Processing (NSLP).*\\
+    <span class="links">
+      [[code](github.com/JourdanL/EarlySciRev)]
+    </span>
+
   - **[SciClaimEval: Cross-modal Claim Verification in Scientific Papers](https://arxiv.org/abs/2602.07621).**\\
     Xanh Ho, Yun-Ang Wu, Sunisth Kumar, Tian Cheng Xia, Florian Boudin, Andre Greiner-Petter, Akiko Aizawa.\\
     *Language Resources and Evaluation Conference (LREC).*\\
