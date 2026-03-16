@@ -12,7 +12,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
-  - **[EarlySciRev: A Dataset of Early-Stage Scientific Revisions Extracted from LaTeX Writing Traces].**\\
+  - **EarlySciRev: A Dataset of Early-Stage Scientific Revisions Extracted from LaTeX Writing Traces.**\\
     Léane Jourdan, Julien Aubert-Béduchaud, Yannis Chupin, Marah Baccari, Florian Boudin.\\
     *Workshop on Natural Scientific Language Processing (NSLP).*\\
     <span class="links">

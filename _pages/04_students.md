@@ -16,8 +16,8 @@ permalink: /students/
 # M.S. Students
 {: .underline}
 
-- Yannis Chupin (2026, co-supervised with Richard Dufour) working on scientific reading lists
-- Marah Baccari (2026, co-supervised with Richard Dufour) working on literature review tables
+- Yannis Chupin (2026, co-supervised with Richard Dufour) working on evaluating scientific reading lists
+- Marah Baccari (2026, co-supervised with Richard Dufour) working on generating literature review tables
 - Rima Boubekeur (2022) worked on automatic twitter hashtag generation.
 - Timothée Poulain (2020) worked on keyphrase generation.
 - Carol Couillerot (2019) worked on spam detection.
