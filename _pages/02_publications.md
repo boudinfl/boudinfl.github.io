@@ -12,11 +12,19 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
-  - **EarlySciRev: A Dataset of Early-Stage Scientific Revisions Extracted from LaTeX Writing Traces.**\\
+  - **[Towards Reliable Paper Contributions Annotation in the ACL Rolling Review](https://openreview.net/forum?id=1ZBM1KZ5YR).**\\
+    Julien Aubert-Béduchaud, Florian Boudin, Akiko Aizawa, Beatrice Daille, Richard Dufour.\\
+    *Association for Computational Linguistics (ACL) - Findings.*\\
+    <span class="links">
+      [[paper](https://openreview.net/forum?id=1ZBM1KZ5YR)]
+    </span>
+
+  - **[EarlySciRev: A Dataset of Early-Stage Scientific Revisions Extracted from LaTeX Writing Traces](https://arxiv.org/abs/2603.28515).**\\
     Léane Jourdan, Julien Aubert-Béduchaud, Yannis Chupin, Marah Baccari, Florian Boudin.\\
     *Workshop on Natural Scientific Language Processing (NSLP).*\\
     <span class="links">
-      [[code](github.com/JourdanL/EarlySciRev)]
+      [[arXiv](https://arxiv.org/abs/2603.28515),
+        [code](github.com/JourdanL/EarlySciRev)]
     </span>
 
   - **[SciClaimEval: Cross-modal Claim Verification in Scientific Papers](https://arxiv.org/abs/2602.07621).**\\
