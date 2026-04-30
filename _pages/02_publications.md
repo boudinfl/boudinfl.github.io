@@ -12,6 +12,14 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
+  - **Identifying Where Large Language Models Struggle in Answering Complex Questions.**\\
+  Xanh Ho, Florian Boudin, Saku Sugawara, Khoa Duong, Akiko Aizawa.\\
+  *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM^2).*
+
+  - **Reassessing Extractive QA Datasets at Scale: LLM-as-a-Judge and In-Depth Analyses.**\\
+  Xanh Ho, Jiahao Huang, Florian Boudin, Akiko Aizawa.\\
+  *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM^2).*
+
   - **[Towards Reliable Paper Contributions Annotation in the ACL Rolling Review](https://openreview.net/forum?id=1ZBM1KZ5YR).**\\
     Julien Aubert-Béduchaud, Florian Boudin, Akiko Aizawa, Beatrice Daille, Richard Dufour.\\
     *Association for Computational Linguistics (ACL) - Findings.*\\
