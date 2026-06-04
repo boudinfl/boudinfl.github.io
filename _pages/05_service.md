@@ -14,6 +14,7 @@ permalink: /service/
 {: .underline}
 
 * The 64th Annual Meeting of the Association for Computational Linguistics ([ACL 2026][acl-2026])
+* 19th Conference of the European Chapter of the Association for Computational Linguistics ([EACL 2026](https://2026.eacl.org/))
 * The 63nd Annual Meeting of the Association for Computational Linguistics ([ACL 2025][acl-2025])
 * 2025 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2025][emnlp-2025])
 * The 62nd Annual Meeting of the Association for Computational Linguistics ([ACL 2024][acl-2024])
@@ -29,6 +30,9 @@ permalink: /service/
 # Programme Committee &amp; Paper Reviewing
 {: .underline}
 
+* 49th International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR 2026](https://sigir2026.org/))
+* 3rd Conference on Language Modeling ([COLM 2026](https://colmweb.org/))
+* International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval ([ICTIR 2026](https://sigir-ictir.github.io/ictir2026/))
 * 9th International Workshop on Narrative Extraction from Texts ([Text2Story](https://text2story26.inesctec.pt/) at [ECIR 2026](https://ecir2026.eu/)) 
 * 15th International Conference on Language Resources and Evaluation ([LREC 2026](https://lrec2026.info/))
 * 48th European Conference on Information Retrieval ([ECIR 2026](https://ecir2026.eu/))
