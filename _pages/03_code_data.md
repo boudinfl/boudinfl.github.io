@@ -36,15 +36,15 @@ permalink: /code/
 # Datasets
 {: .underline}
 
- - [`SciClaimEval`: A dataset for cross-modal claim verification in scientific Papers](https://huggingface.co/datasets/alabnii/sciclaimeval-shared-task)
+ - [`SciClaimEval`: A dataset for cross-modal claim verification in scientific Papers](https://huggingface.co/datasets/alabnii/sciclaimeval-shared-task)  
    A dataset of authentic scientific claims paired with figure and table evidence. Refuted examples are built by perturbing the evidence rather than generating synthetic claims, resulting in realistic and controlled instances for evaluating cross-modal scientific claim verification systems.
    - <span class="stats" data-hf-id="alabnii/sciclaimeval-shared-task">Loading...</span>
 
- - [`pararev`: A dataset of revised scientific paragraphs with revision instructions](https://huggingface.co/datasets/taln-ls2n/pararev)
+ - [`pararev`: A dataset of revised scientific paragraphs with revision instructions](https://huggingface.co/datasets/taln-ls2n/pararev)  
    A dataset of revised scientific paragraphs, providing pairs of original and revised versions enriched with detailed revision instructions and a manually annotated evaluation subset, enabling research on context-aware and instruction-guided scientific text revision.
    - <span class="stats" data-hf-id="taln-ls2n/pararev">Loading...</span>
 
- - [`CASIMIR`: A Corpus of Scientific Articles enhanced with Multiple Author-Integrated Revisions](https://huggingface.co/datasets/taln-ls2n/CASIMIR)
+ - [`CASIMIR`: A Corpus of Scientific Articles enhanced with Multiple Author-Integrated Revisions](https://huggingface.co/datasets/taln-ls2n/CASIMIR)  
    A dataset of 15,646 scientific articles from OpenReview, providing sentence-aligned revisions across multiple versions along with peer reviews, automatically extracted edits, revision intentions, and paragraph-level metadata to support studies on scientific writing and revision.
    - <span class="stats" data-hf-id="taln-ls2n/CASIMIR">Loading...</span>
 
@@ -95,6 +95,7 @@ const hfItems = [
   { id: "taln-ls2n/semeval-2010-pre", type: "dataset" },
   { id: "taln-ls2n/wikinews-fr-100", type: "dataset" },
   { id: "taln-ls2n/taln-archives", type: "dataset" },
+  { id: "alabnii/sciclaimeval-shared-task", type: "dataset" },
   
   // --- Models ---
   { id: "taln-ls2n/bart-base-kp20k", type: "model" },
