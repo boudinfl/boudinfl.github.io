@@ -12,19 +12,32 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
-  - **Identifying Where Large Language Models Struggle in Answering Complex Questions.**\\
+  - **[Identifying Where Large Language Models Struggle in Answering Complex Questions](https://aclanthology.org/2026.gem-main.11.pdf).**\\
   Xanh Ho, Florian Boudin, Saku Sugawara, Khoa Duong, Akiko Aizawa.\\
-  *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM^2).*
+  *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM^2).*\\
+  <span class="links">
+      [[paper](https://aclanthology.org/2026.gem-main.11.pdf),
+      [bib](https://aclanthology.org/2026.gem-main.11.bib),
+      [data](https://github.com/Alab-NII/complex_ques_decomposition)]
+  </span>
 
-  - **Reassessing Extractive QA Datasets at Scale: LLM-as-a-Judge and In-Depth Analyses.**\\
+  - **[Reassessing Extractive QA Datasets at Scale: LLM-as-a-Judge and In-Depth Analyses](https://aclanthology.org/2026.gem-main.9.pdf).**\\
   Xanh Ho, Jiahao Huang, Florian Boudin, Akiko Aizawa.\\
-  *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM^2).*
+  *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM^2).*\\
+  <span class="links">
+      [[paper](https://aclanthology.org/2026.gem-main.9.pdf),
+      [bib](https://aclanthology.org/2026.gem-main.9.bib),
+      [data](https://github.com/Alab-NII/llm-judge-extract-qa)]
+  </span>
 
-  - **[Towards Reliable Paper Contributions Annotation in the ACL Rolling Review](https://openreview.net/forum?id=1ZBM1KZ5YR).**\\
+  - **[Towards Reliable Paper Contributions Annotation in the ACL Rolling Review](https://aclanthology.org/2026.findings-acl.178.pdf).**\\
     Julien Aubert-Béduchaud, Florian Boudin, Akiko Aizawa, Beatrice Daille, Richard Dufour.\\
     *Association for Computational Linguistics (ACL) - Findings.*\\
     <span class="links">
-      [[paper](https://openreview.net/forum?id=1ZBM1KZ5YR)]
+      [[paper](https://aclanthology.org/2026.findings-acl.178.pdf),
+      [bib](https://aclanthology.org/2026.findings-acl.178.bib),
+      [data](https://huggingface.co/datasets/taln-ls2n/ARRContributions),
+      [model](https://huggingface.co/taln-ls2n/ContriBERT-ACL)]
     </span>
 
   - **[EarlySciRev: A Dataset of Early-Stage Scientific Revisions Extracted from LaTeX Writing Traces](https://arxiv.org/abs/2603.28515).**\\
