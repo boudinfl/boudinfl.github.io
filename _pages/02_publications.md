@@ -12,6 +12,14 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
+  - **[How Robust Is Multimodal Claim Verification to LLM Rewriting?]()**\\
+    Yun-Ang Wu, Xanh Ho, Andre Greiner-Petter, Sunisth Kumar, Tian Cheng Xia, Florian Boudin, Akiko Aizawa.\\
+    *Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP).*
+
+  - **[Encoded but Not Routed: Explaining the Table-Chart Gap in Scientific Claim Verification](https://arxiv.org/pdf/2606.01679)**\\
+    Sunisth Kumar, Xanh Ho, Tim Schopf, Andre Greiner-Petter, Florian Boudin, Akiko Aizawa.\\
+    *Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP) - Findings.*
+
   - **[Identifying Where Large Language Models Struggle in Answering Complex Questions](https://aclanthology.org/2026.gem-main.11.pdf).**\\
   Xanh Ho, Florian Boudin, Saku Sugawara, Khoa Duong, Akiko Aizawa.\\
   *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM^2).*\\
