@@ -87,12 +87,48 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
        [code](https://github.com/Alab-NII/tables-vs-charts)]
     </span>
 
+  - **[Vers une annotation fiable des contributions scientifiques dans les articles soumis à l’ACL Rolling Review](https://talnarchives.atala.org/TALN/TALN-2026/24.pdf).**\\
+    Julien Aubert-Béduchaud, Florian Boudin, Akiko Aizawa, Beatrice Daille, Richard Dufour.\\
+    *Traitement Automatique des Langues Naturelles (TALN).* \\
+    <span class="links">
+      [[paper](https://talnarchives.atala.org/TALN/TALN-2026/24.pdf)]
+    </span>
+
+  - **[Recommandation séquentielle pour les articles scientifiques](https://hal.science/hal-05708489).**\\
+    Julien Aubert-Béduchaud, Florian Boudin, Akiko Aizawa, Beatrice Daille, Richard Dufour.\\
+    *Atelier sur l’Analyse et Recherche de Textes Scientifiques (ARTS).* \\
+    <span class="links">
+      [[hal](https://hal.science/hal-05708489)]
+    </span>
+
   - **[NaviTerm Scientific Article Search : Un outil de recommandation séquentielle d'article scientifique basé sur l'historique de lecture](https://hal.science/hal-05708489).**\\
-  Léane Jourdan, Florian Boudin, Richard Dufour, Nicolas Hernandez.\\
-  *Traitement Automatique des Langues Naturelles (TALN).* \\
-  <span class="links">
-  [[hal](https://hal.science/hal-05708489)]
-  </span>
+    Léane Jourdan, Florian Boudin, Richard Dufour, Nicolas Hernandez.\\
+    *Atelier sur l’Analyse et Recherche de Textes Scientifiques (ARTS).* \\
+    <span class="links">
+      [[hal](https://hal.science/hal-05708489)]
+    </span>
+
+  - **[Évaluer les tableaux de revue de littérature générés par les LLM : état de l’art et étude préliminaire](https://hal.science/hal-05708487).**\\
+    Marah Baccari, Florian Boudin, Richard Dufour.\\
+    *Atelier sur l’Analyse et Recherche de Textes Scientifiques (ARTS).* \\
+    <span class="links">
+      [[hal](https://hal.science/hal-05708487)]
+    </span>
+
+  - **[Position: il faut donner du sens aux listes de lectures pour les jeunes chercheurs](https://hal.science/hal-05708490).**\\
+    Yannis Chupin, Florian Boudin, Richard Dufour, Julien Aubert-Béduchaud.\\
+    *Atelier sur l’Analyse et Recherche de Textes Scientifiques (ARTS).* \\
+    <span class="links">
+      [[hal](https://hal.science/hal-05708490)]
+    </span>
+    
+  - **[EarlySciRev: Un jeu de données sur les révisions scientifiques à un stade précoce, extraites des traces d’écriture LaTeX](https://hal.science/hal-05708485).**\\
+    Léane Jourdan, Julien Aubert-Béduchaud, Yannis Chupin, Marah Baccari, Florian Boudin.\\
+    *Atelier sur l’Analyse et Recherche de Textes Scientifiques (ARTS).* \\
+    <span class="links">
+      [[hal](https://hal.science/hal-05708485)]
+    </span>
+
 
 # 2025
 {: .underline}
