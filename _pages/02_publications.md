@@ -22,7 +22,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   - **[Identifying Where Large Language Models Struggle in Answering Complex Questions](https://aclanthology.org/2026.gem-main.11.pdf).**\\
   Xanh Ho, Florian Boudin, Saku Sugawara, Khoa Duong, Akiko Aizawa.\\
-  *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM^2).*\\
+  *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM).*\\
   <span class="links">
       [[paper](https://aclanthology.org/2026.gem-main.11.pdf),
       [bib](https://aclanthology.org/2026.gem-main.11.bib),
@@ -31,7 +31,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   - **[Reassessing Extractive QA Datasets at Scale: LLM-as-a-Judge and In-Depth Analyses](https://aclanthology.org/2026.gem-main.9.pdf).**\\
   Xanh Ho, Jiahao Huang, Florian Boudin, Akiko Aizawa.\\
-  *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM^2).*\\
+  *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM).*\\
   <span class="links">
       [[paper](https://aclanthology.org/2026.gem-main.9.pdf),
       [bib](https://aclanthology.org/2026.gem-main.9.bib),
@@ -48,36 +48,51 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
       [model](https://huggingface.co/taln-ls2n/ContriBERT-ACL)]
     </span>
 
-  - **[EarlySciRev: A Dataset of Early-Stage Scientific Revisions Extracted from LaTeX Writing Traces](https://arxiv.org/abs/2603.28515).**\\
+  - **[EarlySciRev: A Dataset of Early-Stage Scientific Revisions Extracted from LaTeX Writing Traces](https://aclanthology.org/2026.nslp-1.12.pdf).**\\
     Léane Jourdan, Julien Aubert-Béduchaud, Yannis Chupin, Marah Baccari, Florian Boudin.\\
     *Workshop on Natural Scientific Language Processing (NSLP).*\\
     <span class="links">
-      [[arXiv](https://arxiv.org/abs/2603.28515),
-        [code](github.com/JourdanL/EarlySciRev)]
+      [[paper](https://aclanthology.org/2026.nslp-1.12.pdf),
+       [bib](https://aclanthology.org/2026.nslp-1.12.bib),
+       [arXiv](https://arxiv.org/abs/2603.28515),
+       [code](github.com/JourdanL/EarlySciRev),
+       [hal](https://hal.science/hal-05637490/)]
     </span>
 
-  - **[SciClaimEval: Cross-modal Claim Verification in Scientific Papers](https://arxiv.org/abs/2602.07621).**\\
+  - **[SciClaimEval: Cross-modal Claim Verification in Scientific Papers](https://aclanthology.org/2026.lrec-1.864.pdf).**\\
     Xanh Ho, Yun-Ang Wu, Sunisth Kumar, Tian Cheng Xia, Florian Boudin, Andre Greiner-Petter, Akiko Aizawa.\\
     *Language Resources and Evaluation Conference (LREC).*\\
     <span class="links">
-      [[arXiv](https://arxiv.org/abs/2602.07621),
+      [[paper](https://aclanthology.org/2026.lrec-1.864.pdf),
+       [bib](https://aclanthology.org/2026.lrec-1.864.bib),
+       [arXiv](https://arxiv.org/abs/2602.07621),
        [shared task](https://sciclaimeval.github.io/)]
     </span>
 
-  - **[Evaluating the Homogeneity of Keyphrase Prediction Models](https://arxiv.org/abs/2602.12989).**\\
+  - **[Evaluating the Homogeneity of Keyphrase Prediction Models](https://aclanthology.org/2026.lrec-1.349.pdf).**\\
     Maël Houbre, Florian Boudin, Beatrice Daille\\
     *Language Resources and Evaluation Conference (LREC).*\\
     <span class="links">
-      [[arXiv](https://arxiv.org/abs/2602.12989)]
+      [[paper](https://aclanthology.org/2026.lrec-1.349.pdf),
+       [bib](https://aclanthology.org/2026.lrec-1.349.bib),
+       [arXiv](https://arxiv.org/abs/2602.12989)]
     </span>
 
-  - **[Format Matters: The Robustness of Multimodal LLMs in Reviewing Evidence from Tables and Charts](https://arxiv.org/abs/2511.10075).**\\
+  - **[Format Matters: The Robustness of Multimodal LLMs in Reviewing Evidence from Tables and Charts](https://ojs.aaai.org/index.php/AAAI/article/view/40361/44322).**\\
     Xanh Ho, Yun-Ang Wu, Sunisth Kumar, Florian Boudin, Atsuhiro Takasu, Akiko Aizawa.\\
     *Annual AAAI Conference on Artificial Intelligence (AAAI).*\\
     <span class="links">
-      [[arXiv](https://arxiv.org/abs/2511.10075),
+      [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/40361/44322),
+       [arXiv](https://arxiv.org/abs/2511.10075),
        [code](https://github.com/Alab-NII/tables-vs-charts)]
     </span>
+
+  - **[NaviTerm Scientific Article Search : Un outil de recommandation séquentielle d'article scientifique basé sur l'historique de lecture](https://hal.science/hal-05708489).**\\
+  Léane Jourdan, Florian Boudin, Richard Dufour, Nicolas Hernandez.\\
+  *Traitement Automatique des Langues Naturelles (TALN).* \\
+  <span class="links">
+  [[hal](https://hal.science/hal-05708489)]
+  </span>
 
 # 2025
 {: .underline}
@@ -128,7 +143,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   - **[An Analysis of Datasets, Metrics and Models in Keyphrase Generation](https://arxiv.org/pdf/2506.10346).**\\
   Florian Boudin, Akiko Aizawa.\\
-  *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM^2).*\\
+  *Workshop on Natural Language Generation, Evaluation, and Metrics (GEM).*\\
   <span class="links">
    [[paper](https://aclanthology.org/2025.gem-1.76.pdf),
     [bib](https://aclanthology.org/2025.gem-1.76.bib),
@@ -167,27 +182,20 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [hal](https://hal.science/hal-05538818)]
   </span>
 
-  - **[Identification de mesures d'évaluation fiables pour la révision de textes scientifiques](https://talnarchives.atala.org/TALN/TALN-2025/38.pdf).**\\
+  - **[Identification de mesures d'évaluation fiables pour la révision de textes scientifiques](https://aclanthology.org/2025.jeptalnrecital-taln.25.pdf).**\\
   Léane Jourdan, Florian Boudin, Richard Dufour, Nicolas Hernandez.\\
   *Traitement Automatique des Langues Naturelles (TALN).* \\
   <span class="links">
-  [[paper](https://talnarchives.atala.org/TALN/TALN-2025/38.pdf),
-    [bib](https://talnarchives.atala.org/TALN/TALN-2025/38.bib)]
+  [[paper](https://aclanthology.org/2025.jeptalnrecital-taln.25.pdf),
+    [bib](https://aclanthology.org/2025.jeptalnrecital-taln.25.bib)]
   </span>
 
-  - **[ACL-rlg: Un dataset pour la génération de listes de lecture](https://talnarchives.atala.org/TALN/TALN-2025/24.pdf).**\\
+  - **[ACL-rlg: Un dataset pour la génération de listes de lecture](https://aclanthology.org/2025.jeptalnrecital-trad.2.pdf).**\\
   Julien Aubert-Béduchaud, Florian Boudin, Béatrice Daille, Richard Dufour.\\
   *Traitement Automatique des Langues Naturelles (TALN).*\\
   <span class="links">
-  [[paper](https://talnarchives.atala.org/TALN/TALN-2025/24.pdf),
-    [bib](https://talnarchives.atala.org/TALN/TALN-2025/24.bib)]
-  </span>
-
-  - **[LLM-as-a-Judge: Reassessing the Performance of LLMs in Extractive QA](https://arxiv.org/abs/2504.11972).**\\
-  Xanh Ho, Jiahao Huang, Florian Boudin, Akiko Aizawa.\\
-  <span class="links">
-    [[arXiv](https://arxiv.org/pdf/2504.11972.pdf),
-    [code](https://github.com/Alab-NII/llm-judge-extract-qa)]
+  [[paper](https://aclanthology.org/2025.jeptalnrecital-trad.2.pdf),
+    [bib](https://aclanthology.org/2025.jeptalnrecital-trad.2.bib)]
   </span>
 
 # 2024
