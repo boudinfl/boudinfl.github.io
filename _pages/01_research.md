@@ -25,7 +25,7 @@ permalink: /research/
   Collaborator: Akiko Aizawa (National Institute of Informatics, Japan)
 
 * 2019 -- <b>IKEBANA project - Improving keyphrase extraction by adopting neural architectures</b><br/>
-  Atlanstic2020 sabbatical grant, research stay at the at the National Institute of Informatics (NII), Tokyo<br/>
+  Atlanstic2020 sabbatical grant, research stay at the National Institute of Informatics (NII), Tokyo<br/>
   <i>This project aims to improve the effectiveness of automatic keyphrase extraction by using recurrent neural network models.</i><br/>
   Collaborator: Akiko Aizawa (National Institute of Informatics, Japan)
 

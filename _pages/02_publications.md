@@ -12,7 +12,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
   {: .block}
 
-  - **[How Robust Is Multimodal Claim Verification to LLM Rewriting?]()**\\
+  - **[How Robust Is Multimodal Claim Verification to LLM Rewriting?](https://arxiv.org/abs/2610.02841)**\\
     Yun-Ang Wu, Xanh Ho, Andre Greiner-Petter, Sunisth Kumar, Tian Cheng Xia, Florian Boudin, Akiko Aizawa.\\
     *Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-IJCNLP).*
 
@@ -55,7 +55,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
       [[paper](https://aclanthology.org/2026.nslp-1.12.pdf),
        [bib](https://aclanthology.org/2026.nslp-1.12.bib),
        [arXiv](https://arxiv.org/abs/2603.28515),
-       [code](github.com/JourdanL/EarlySciRev),
+       [code](https://github.com/JourdanL/EarlySciRev),
        [hal](https://hal.science/hal-05637490/)]
     </span>
 

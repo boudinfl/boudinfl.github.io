@@ -7,15 +7,15 @@ permalink: /service/
 # ACL Rolling Review
 {: .underline}
 
-* Enrolled as an area chair (prev. action editor) for the [ACL Rolling Review](https://aclrollingreview.org/) (starting from october 2021)
-* Enrolled as a reviewer for the [ACL Rolling Review](https://aclrollingreview.org/) (starting from may 2021)
+* Enrolled as an area chair (prev. action editor) for the [ACL Rolling Review](https://aclrollingreview.org/) (starting from October 2021)
+* Enrolled as a reviewer for the [ACL Rolling Review](https://aclrollingreview.org/) (starting from May 2021)
 
 # Area Chairing
 {: .underline}
 
 * The 64th Annual Meeting of the Association for Computational Linguistics ([ACL 2026][acl-2026])
 * 19th Conference of the European Chapter of the Association for Computational Linguistics ([EACL 2026](https://2026.eacl.org/))
-* The 63nd Annual Meeting of the Association for Computational Linguistics ([ACL 2025][acl-2025])
+* The 63rd Annual Meeting of the Association for Computational Linguistics ([ACL 2025][acl-2025])
 * 2025 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2025][emnlp-2025])
 * The 62nd Annual Meeting of the Association for Computational Linguistics ([ACL 2024][acl-2024])
 * 2024 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2024][emnlp-2024])
@@ -37,13 +37,13 @@ permalink: /service/
 * 15th International Conference on Language Resources and Evaluation ([LREC 2026](https://lrec2026.info/))
 * 48th European Conference on Information Retrieval ([ECIR 2026](https://ecir2026.eu/))
 * 19th ACM International Conference on Web Search and Data Mining ([WSDM 2026](https://wsdm-conference.org/2026/))
-* 3nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific ([SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025/)), for which I have been selected among the outstanding reviewers
+* 3rd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific ([SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025/)), for which I have been selected among the outstanding reviewers
 * 8th International Workshop on Narrative Extraction from Texts ([Text2Story](http://text2story25.inesctec.pt/) at [ECIR 2025](https://ecir2025.eu/))
 * 5th New Frontiers in Summarization Workshop ([NewSum](https://oriern.github.io/newsumm_2025/) at [EMNLP 2025][emnlp-2025])
 * 2nd Conference on Language Modeling ([COLM 2025](https://colmweb.org/))
 * 48th International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR 2025](https://sigir2025.dei.unipd.it/))
 * 31st International Conference on Computational Linguistics ([COLING 2025][coling-2025])
-* 32e Conférence sur le Traitement Automatique des Langues Naturelles ([TALN 2025](taln-2025))
+* 32e Conférence sur le Traitement Automatique des Langues Naturelles ([TALN 2025][taln-2025])
 * Workshop on Future of Event Detection ([FuturED 2024](https://future-of-event-detection.github.io/) at [EMNLP 2024][emnlp-2024])
 * 28th International Conference on Theory and Practice of Digital Libraries ([TPDL 2024](https://tpdl2024.nuk.si/))
 * 1st Conference on Language Modeling ([COLM 2024](https://colmweb.org/))
@@ -53,7 +53,7 @@ permalink: /service/
 * 19ème COnférence en Recherche d’Information et Applications ([CORIA 2024](https://coria.asso-aria.org/2024/))
 * 61st Annual Meeting of the Association for Computational Linguistics ([ACL 2023][acl-2023])
 * 4th Workshop on New Frontiers in Summarization ([NewSum](https://newsumm.github.io/2023/) at [EMNLP 2023][emnlp-2023])
-* 6th International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR 2023](https://sigir.org/sigir2023/))
+* 46th International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR 2023](https://sigir.org/sigir2023/))
 * 45th European Conference on Information Retrieval ([ECIR 2023][ecir-2023])
 * 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics ([IJCNLP-AACL 2023][ijcnlp-aacl-2023])
 * 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing ([AACL-IJCNLP 2022](https://www.aacl2022.org/))
@@ -103,7 +103,7 @@ permalink: /service/
 # Other
 {: .underline}
 
-* Past maintainer of [TALN Archives](http://www.atala.org/taln_archives/), a digital archive of French research articles in Natural Language Processing
+* Past maintainer of [TALN Archives](https://talnarchives.atala.org/), a digital archive of French research articles in Natural Language Processing
 * I was an elected member of the [ATALA](http://www.atala.org/) from 2013-2016
 
 [acl-2026]: https://2026.aclweb.org/
@@ -141,7 +141,7 @@ permalink: /service/
 [acl-2017]: http://acl2017.org/
 [ijcnlp-2017]: http://ijcnlp2017.org/
 [coling-2012]: http://www.coling2012-iitb.org/
-[coling-2016]: http://coling2016.anlp.jp/)
+[coling-2016]: http://coling2016.anlp.jp/
 [cikm-2011]: http://www.cikm2011.org/
 
 

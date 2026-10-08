@@ -4,8 +4,4 @@ _site
 
 *.DS_Store
 
-*.lock
-*.lock
 .idea
-Gemfile
-Gemfile.lock

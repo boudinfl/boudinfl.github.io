@@ -10,7 +10,7 @@ permalink: /code/
 - [`pke`](https://github.com/boudinfl/pke)
   is an open source python-based keyphrase extraction toolkit. It provides
   an end-to-end keyphrase extraction pipeline in which each component can be
-  easily modified or extented to develop new approaches. This toolkit also allows for
+  easily modified or extended to develop new approaches. This toolkit also allows for
   easy benchmarking of state-of-the-art keyphrase extraction approaches, and
   ships with supervised models trained on the
   [SemEval-2010 dataset](https://github.com/boudinfl/semeval-2010-pre).
@@ -25,13 +25,13 @@ permalink: /code/
 # Models
 {: .underline}
 
- - [`bart-large-kp20k`](https://huggingface.co/taln-ls2n/bart-base-kp20k)
+ - [`bart-large-kp20k`](https://huggingface.co/taln-ls2n/bart-large-kp20k)
     is a [bart-large](https://huggingface.co/facebook/bart-large) model for scientific keyphrase generation fine-tuned on the [KP20k dataset](https://huggingface.co/datasets/taln-ls2n/kp20k).
-    - <span class="stats" data-hf-id="taln-ls2n/bart-large-kp20k">Loading...</span>
+    - <span class="stats" data-hf-id="taln-ls2n/bart-large-kp20k" data-hf-type="model">Loading...</span>
 
  - [`bart-base-kp20k`](https://huggingface.co/taln-ls2n/bart-base-kp20k)
     is a [bart-base](https://huggingface.co/facebook/bart-base) model for scientific keyphrase generation fine-tuned on the [KP20k dataset](https://huggingface.co/datasets/taln-ls2n/kp20k).
-   - <span class="stats" data-hf-id="taln-ls2n/bart-base-kp20k">Loading...</span>
+   - <span class="stats" data-hf-id="taln-ls2n/bart-base-kp20k" data-hf-type="model">Loading...</span>
 
 # Datasets
 {: .underline}
@@ -79,50 +79,28 @@ permalink: /code/
    composed by human assessors.
 
  - [`CLIREC`: CLinical Information Retrieval Evaluation Collection](https://github.com/boudinfl/CLIREC)  
-   CLIREC is a a test collection for clinical IR. From a set of systematic
+   CLIREC is a test collection for clinical IR. From a set of systematic
    reviews, we have generated 423 queries with relevance data. Relevance
    judgments were manually collected from the References section containing the
-   citations from which the synthetized results of the review were extracted.
+   citations from which the synthesized results of the review were extracted.
 
 <script>
-const hfItems = [
-  // --- Datasets ---
-  { id: "taln-ls2n/silk", type: "dataset" },
-  { id: "taln-ls2n/pararev", type: "dataset" },
-  { id: "taln-ls2n/CASIMIR", type: "dataset" },
-  { id: "taln-ls2n/kpbiomed", type: "dataset" },
-  { id: "taln-ls2n/KPTimes", type: "dataset" },
-  { id: "taln-ls2n/semeval-2010-pre", type: "dataset" },
-  { id: "taln-ls2n/wikinews-fr-100", type: "dataset" },
-  { id: "taln-ls2n/taln-archives", type: "dataset" },
-  { id: "alabnii/sciclaimeval-shared-task", type: "dataset" },
-  
-  // --- Models ---
-  { id: "taln-ls2n/bart-base-kp20k", type: "model" },
-  { id: "taln-ls2n/bart-large-kp20k", type: "model" },
-];
-
 async function fetchDownloads(id, type) {
-  const base = type === "dataset" ? "datasets" : "models";
+  const base = type === "model" ? "models" : "datasets";
   const url = `https://huggingface.co/api/${base}/${id}?expand[]=downloadsAllTime`;
   try {
     const res = await fetch(url);
+    if (!res.ok) return "N/A";
     const data = await res.json();
-    return data.downloadsAllTime || 0;
+    return data.downloadsAllTime ?? "N/A";
   } catch {
     return "N/A";
   }
 }
 
-async function showDownloads() {
-  for (const item of hfItems) {
-    const el = document.querySelector(`[data-hf-id="${item.id}"]`);
-    if (!el) continue;
-    el.textContent = "📦 loading...";
-    const downloads = await fetchDownloads(item.id, item.type);
-    el.textContent = `📦 ${downloads} downloads`;
-  }
-}
-
-showDownloads();
+document.querySelectorAll("[data-hf-id]").forEach(async (el) => {
+  el.textContent = "📦 loading...";
+  const downloads = await fetchDownloads(el.dataset.hfId, el.dataset.hfType);
+  el.textContent = `📦 ${downloads} downloads`;
+});
 </script>
