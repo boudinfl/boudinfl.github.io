@@ -9,6 +9,11 @@ permalink: /research/
 
 ## As Principal Investigator
 
+* 2026-2030 -- <b>[FABULEUX project](https://anr-fabuleux.github.io/) - Combating fabrications and misuse of LLMs in scientific writing</b><br/>
+  Collaborative research project (PRC) funded by the French National Research Agency (ANR)<br/>
+  <i>This project aims to make LLM-assisted scientific writing more reliable by detecting and explaining fabricated or misleading content, and to develop methods and tools for identifying unreliable or fraudulent scientific publications.</i><br/>
+  Collaborators: ISIR (Sorbonne Université, CNRS), ALMAnaCH team (Inria Paris), Mosaik team (LORIA, Université de Lorraine)
+
 * 2023-2027 -- <b>[NaviTerm project](https://cnrs-naviterm.github.io/) - Terminological navigation through the scientific literature</b><br/>
   Funded by the French Defense Innovation Agency (AID) and the CNRS<br/>
   <i>This project aims to accelerate how researchers familiarize themselves with a new field by automatically generating navigable representations of scientific knowledge.</i><br/>
