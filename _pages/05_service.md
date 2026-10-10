@@ -56,7 +56,7 @@ permalink: /service/
 * 46th International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR 2023](https://sigir.org/sigir2023/))
 * 45th European Conference on Information Retrieval ([ECIR 2023][ecir-2023])
 * 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics ([IJCNLP-AACL 2023][ijcnlp-aacl-2023])
-* 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing ([AACL-IJCNLP 2022](https://www.aacl2022.org/))
+* 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing ([AACL-IJCNLP 2022](https://aclanthology.org/events/aacl-2022/))
 * 1st Workshop on Automatic Summarization for Creative Writing ([Creative-sum](https://creativesumm.github.io/) at [COLING 2022][coling-2022])
 * 29th International Conference on Computational Linguistics in 2022 ([COLING 2022][coling-2022])
 * 2nd Workshop on Digital Infrastructures for Scholarly Content Objects ([DISCO](https://infoqualitylab.org/events/disco2022/) at [JCDL 2022][jcdl-2022])
@@ -97,14 +97,14 @@ permalink: /service/
 # Journal Reviewing
 {: .underline}
 
-* ad-hoc reviewer for [Traitement Automatique des Langues](http://www.atala.org/-Revue-TAL-), [Information Retrieval](http://link.springer.com/journal/10791), [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering), [Information Processing & Management](http://www.journals.elsevier.com/information-processing-and-management), [Journal of Cheminformatics](https://jcheminf.springeropen.com/), [Language Resources and Evaluation](http://link.springer.com/journal/10579), [Artificial Intelligence](https://aij.ijcai.org/), [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/).
+* ad-hoc reviewer for [Traitement Automatique des Langues](http://www.atala.org/-Revue-TAL-), [Information Retrieval](https://link.springer.com/journal/10791), [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering), [Information Processing & Management](http://www.journals.elsevier.com/information-processing-and-management), [Journal of Cheminformatics](https://jcheminf.springeropen.com/), [Language Resources and Evaluation](https://link.springer.com/journal/10579), [Artificial Intelligence](https://aij.ijcai.org/), [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/).
 * guest editor for the [special issue of the TAL journal on Scholarly Document Processing](https://tal-65-2.sciencesconf.org/)
 
 # Other
 {: .underline}
 
 * Past maintainer of [TALN Archives](https://talnarchives.atala.org/), a digital archive of French research articles in Natural Language Processing
-* I was an elected member of the [ATALA](http://www.atala.org/) from 2013-2016
+* I was an elected member of the [ATALA](https://www.atala.org/) from 2013-2016
 
 [acl-2026]: https://2026.aclweb.org/
 [taln-2025]: https://coria-taln-2025.lis-lab.fr/
@@ -114,7 +114,7 @@ permalink: /service/
 [coling-2025]: https://coling2025.org/
 [emnlp-2024]: https://2024.emnlp.org/
 [lrec-coling-2024]: https://lrec-coling-2024.org/
-[ijcnlp-aacl-2023]: https://ijcnlp-aacl2023.org/
+[ijcnlp-aacl-2023]: https://aclanthology.org/events/ijcnlp-2023/
 [ecir-2023]: https://ecir2023.org/
 [acl-2023]: https://2023.aclweb.org/
 [emnlp-2023]: https://2023.emnlp.org/
@@ -128,20 +128,20 @@ permalink: /service/
 [naacl-hlt-2021]: https://2021.naacl.org/
 [ecir-2021]: https://www.ecir2021.eu/
 [jcdl-2021]: https://2021.jcdl.org/
-[acl-2020]: https://acl2020.org/
+[acl-2020]: https://aclanthology.org/events/acl-2020/
 [lrec-2020]: https://lrec2020.lrec-conf.org/en/
-[emnlp-2020]: https://2020.emnlp.org/
+[emnlp-2020]: https://aclanthology.org/events/emnlp-2020/
 [coling-2020]: https://coling2020.org/
-[aacl-ijcnlp-2020]: http://aacl2020.org/
-[acl-2019]: https://acl2019.org/
-[emnlp-ijcnlp-2019]: https://www.emnlp-ijcnlp2019.org/
+[aacl-ijcnlp-2020]: https://aacl2020.org/
+[acl-2019]: https://aclanthology.org/events/acl-2019/
+[emnlp-ijcnlp-2019]: https://aclanthology.org/events/emnlp-2019/
 [naacl-hlt-2019]:https://naacl2019.org/
-[naacl-hlt-2018]: http://naacl2018.org/
+[naacl-hlt-2018]: https://aclanthology.org/events/naacl-2018/
 [coling-2018]: http://coling2018.org/
 [acl-2017]: http://acl2017.org/
-[ijcnlp-2017]: http://ijcnlp2017.org/
+[ijcnlp-2017]: https://ijcnlp2017.org/
 [coling-2012]: http://www.coling2012-iitb.org/
-[coling-2016]: http://coling2016.anlp.jp/
+[coling-2016]: https://coling2016.anlp.jp/
 [cikm-2011]: http://www.cikm2011.org/
 
 

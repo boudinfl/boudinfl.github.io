@@ -48,7 +48,6 @@ p {
 	color: #CCC;
 	font-style:italic;
 	font-size: 80%;
-	//border: 0px;
 }
 
 h1 {
@@ -104,7 +103,6 @@ ul.block li p {
 
 .site-nav .page-link {
 	color: #0C1844;
-	//font-weight: 500;
 	text-decoration: none;
 }
 
@@ -114,4 +112,24 @@ ul.block li p {
 
 .stats {
 	font-size: 90%;
+}
+
+@media screen and (max-width: $on-palm) {
+	#img-thumbnail {
+		position: static;
+		display: block;
+		margin: 0 auto 1em auto;
+	}
+
+	.decalage {
+		margin-left: 0;
+	}
+
+	p {
+		text-align: left;
+	}
+
+	#courriel {
+		overflow-wrap: anywhere;
+	}
 }

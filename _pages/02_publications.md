@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 Below is a list of my publications organized by date.
-You can also find my [Google Scholar profile](http://scholar.google.com/citations?user=Vk68rbkAAAAJ&hl=en) and my [ACL Anthology author page](https://aclanthology.org/people/florian-boudin/).
+You can also find my [Google Scholar profile](https://scholar.google.com/citations?user=Vk68rbkAAAAJ&hl=en) and my [ACL Anthology author page](https://aclanthology.org/people/florian-boudin/).
 
 # 2026
 {: .underline}
@@ -417,7 +417,7 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
    <span class="links">
    [[paper](https://aclanthology.org/2020.acl-main.105.pdf),
     [bib](https://aclanthology.org/2020.acl-main.105.bib),
-    [video](http://slideslive.com/38928736),
+    [video](https://slideslive.com/38928736),
     [code](https://github.com/boudinfl/ir-using-kg)]
    </span>
 
@@ -431,11 +431,11 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
     [dataset](https://github.com/boudinfl/ake-datasets)]
    </span>
 
- - **[The DELICES Project: Indexing Scientific Literature Through Semantic Expansion](http://ceur-ws.org/Vol-2621/CIRCLE20_27.pdf).**\\
+ - **[The DELICES Project: Indexing Scientific Literature Through Semantic Expansion](https://ceur-ws.org/Vol-2621/CIRCLE20_27.pdf).**\\
    Florian Boudin, Béatrice Daille, Evelyne Jacquey, Jian-Yun Nie.\\
    *Joint Conference of the Information Retrieval Communities in Europe (CIRCLE).*\\
    <span class="links">
-   [[paper](http://ceur-ws.org/Vol-2621/CIRCLE20_27.pdf)]
+   [[paper](https://ceur-ws.org/Vol-2621/CIRCLE20_27.pdf)]
    </span>
 
  - **[An Evaluation Dataset for Identifying Communicative Functions of Sentences in English Scholarly Papers](https://aclanthology.org/2020.lrec-1.212.pdf).**\\
@@ -484,12 +484,12 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[Unsupervised Keyphrase Extraction with Multipartite Graphs](http://aclweb.org/anthology/N18-2105.pdf).**\\
+ - **[Unsupervised Keyphrase Extraction with Multipartite Graphs](https://aclanthology.org/N18-2105.pdf).**\\
    Florian Boudin.\\
    *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).*\\
    <span class="links">
-   [[paper](http://aclweb.org/anthology/N18-2105.pdf),
-    [bib](http://aclweb.org/anthology/N18-2105.bib),
+   [[paper](https://aclanthology.org/N18-2105.pdf),
+    [bib](https://aclanthology.org/N18-2105.bib),
     [arXiv](https://arxiv.org/abs/1803.08721),
     [code](https://github.com/boudinfl/pke)]
    </span>
@@ -520,32 +520,32 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[How Document Pre-processing affects Keyphrase Extraction Performance](http://aclweb.org/anthology/W16-3917.pdf).**\\
+ - **[How Document Pre-processing affects Keyphrase Extraction Performance](https://aclanthology.org/W16-3917.pdf).**\\
   Florian Boudin, Hugo Mougard and Damien Cram.\\
   *Workshop on Noisy User-generated Text (WNUT).*\\
   <span class="links">
-  [[paper](http://aclweb.org/anthology/W16-3917.pdf),
-   [bib](http://aclweb.org/anthology/W16-3917.bib),
+  [[paper](https://aclanthology.org/W16-3917.pdf),
+   [bib](https://aclanthology.org/W16-3917.bib),
    [arXiv](https://arxiv.org/abs/1610.07809),
    [code](https://github.com/boudinfl/pke),
    [dataset](https://github.com/boudinfl/semeval-2010-pre)]
   </span>
 
- - **[pke: an open source python-based keyphrase extraction toolkit](http://aclweb.org/anthology/C16-2015.pdf).**\\
+ - **[pke: an open source python-based keyphrase extraction toolkit](https://aclanthology.org/C16-2015.pdf).**\\
    Florian Boudin.\\
    *International Conference on Computational Linguistics (COLING), demonstration papers.*\\
    <span class="links">
-   [[paper](http://aclweb.org/anthology/C16-2015.pdf),
-    [bib](http://aclweb.org/anthology/C16-2015.bib),
+   [[paper](https://aclanthology.org/C16-2015.pdf),
+    [bib](https://aclanthology.org/C16-2015.bib),
     [code](https://github.com/boudinfl/pke)]
    </span>
 
- - **[Keyphrase Annotation with Graph Co-Ranking](http://aclweb.org/anthology/C16-1277.pdf).**\\
+ - **[Keyphrase Annotation with Graph Co-Ranking](https://aclanthology.org/C16-1277.pdf).**\\
    Adrien Bougouin, Florian Boudin, Béatrice Daille.\\
    *International Conference on Computational Linguistics (COLING).*\\
    <span class="links">
-    [[paper](http://aclweb.org/anthology/C16-1277.pdf),
-     [bib](http://aclweb.org/anthology/C16-1277.bib)]
+    [[paper](https://aclanthology.org/C16-1277.pdf),
+     [bib](https://aclanthology.org/C16-1277.bib)]
    </span>
 
  - **[TermITH-Eval: a French Standard-Based Resource for Keyphrase Extraction Evaluation](https://aclanthology.org/L16-1304.pdf).**\\
@@ -584,28 +584,28 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[Concept-based Summarization using Integer Linear Programming: From Concept Pruning to Multiple Optimal Solutions](http://aclweb.org/anthology/D15-1220.pdf).**\\
+ - **[Concept-based Summarization using Integer Linear Programming: From Concept Pruning to Multiple Optimal Solutions](https://aclanthology.org/D15-1220.pdf).**\\
    Florian Boudin, Hugo Mougard, Benoit Favre.\\
    *Conference on Empirical Methods in Natural Language Processing (EMNLP).* \\
    <span class="links">
-       [[paper](http://aclweb.org/anthology/D15-1220.pdf),
-        [bib](http://aclweb.org/anthology/D15-1220.bib)]
+       [[paper](https://aclanthology.org/D15-1220.pdf),
+        [bib](https://aclanthology.org/D15-1220.bib)]
    </span>
 
- - **[Reducing Over-generation Errors for Automatic Keyphrase Extraction using Integer Linear Programming](http://aclweb.org/anthology/W15-3605.pdf).**\\
+ - **[Reducing Over-generation Errors for Automatic Keyphrase Extraction using Integer Linear Programming](https://aclanthology.org/W15-3605.pdf).**\\
    Florian Boudin.\\
    *Workshop on Novel Computational Approaches to Keyphrase Extraction.* \\
    <span class="links">
-       [[paper](http://aclweb.org/anthology/W15-3605.pdf),
-        [bib](http://aclweb.org/anthology/W15-3605.bib)]
+       [[paper](https://aclanthology.org/W15-3605.pdf),
+        [bib](https://aclanthology.org/W15-3605.bib)]
    </span>
 
- - **[LINA: Identifying Comparable Documents from Wikipedia](http://aclweb.org/anthology/W15-3413.pdf).**\\
+ - **[LINA: Identifying Comparable Documents from Wikipedia](https://aclanthology.org/W15-3413.pdf).**\\
    Emmanuel Morin, Amir Hazem, Florian Boudin, Elizaveta Loginova-Clouet.\\
    *Eighth Workshop on Building and Using Comparable Corpora (BUCC).* \\
    <span class="links">
-       [[paper](http://aclweb.org/anthology/W15-3413.pdf),
-        [bib](http://aclweb.org/anthology/W15-3413.bib)]
+       [[paper](https://aclanthology.org/W15-3413.pdf),
+        [bib](https://aclanthology.org/W15-3413.bib)]
    </span>
 
 # 2014
@@ -620,11 +620,11 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
        [[paper](https://www.atala.org/sites/default/files/2._Bougoin-TAL55-1_0.pdf)]
    </span>
 
- - **[De quoi parle ce Tweet? Résumer Wikipédia pour contextualiser des microblogs](http://www.irit.fr/journal-i3/2014/article_14_03.pdf).**\\
+ - **[De quoi parle ce Tweet? Résumer Wikipédia pour contextualiser des microblogs](https://hal.science/hal-01096926/file/RI3.pdf).**\\
    Romain Deveaud, Florian Boudin.\\
    *The Information - Intelligence - Interaction (I3) Journal.*\\
    <span class="links">
-       [[paper](http://www.irit.fr/journal-i3/2014/article_14_03.pdf)]
+       [[paper](https://hal.science/hal-01096926/file/RI3.pdf)]
    </span>
 
  - **[Label Pre-annotation for Building Non-projective Dependency Treebanks for French](/data/articles/lacroix_cicling14.pdf).**\\
@@ -697,11 +697,11 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
        [[paper](http://asso-aria.org/coria/2013/coria/coria2013_23.pdf)]
    </span>
 
- - **[Effective Tweet Contextualization with Hashtags Performance Prediction and Multi-Document Summarization](http://www.clef-initiative.eu/documents/71612/f20ff540-8fc7-476a-9c51-db20f8413cc6).**\\
+ - **[Effective Tweet Contextualization with Hashtags Performance Prediction and Multi-Document Summarization](https://ceur-ws.org/Vol-1179/CLEF2013wn-INEX-DeveaudEt2013.pdf).**\\
    Romain Deveaud, Florian Boudin. \\
    *INitiative for the Evaluation of XML Retrieval (INEX).* \\
    <span class="links">
-       [[paper](http://www.clef-initiative.eu/documents/71612/f20ff540-8fc7-476a-9c51-db20f8413cc6)]
+       [[paper](https://ceur-ws.org/Vol-1179/CLEF2013wn-INEX-DeveaudEt2013.pdf)]
    </span>
 
 
@@ -726,11 +726,11 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
         [bib](https://aclanthology.org/F12-2021.bib)]
    </span>
 
- - **[LIA/LINA at the INEX 2012 Tweet Contextualization track](http://ims-sites.dei.unipd.it/documents/71612/155385/CLEF2012wn-INEX-DeveaudEt2012.pdf).**\\
+ - **[LIA/LINA at the INEX 2012 Tweet Contextualization track](https://ceur-ws.org/Vol-1178/CLEF2012wn-INEX-DeveaudEt2012.pdf).**\\
    Romain Deveaud, Florian Boudin.\\
    *INitiative for the Evaluation of XML Retrieval (INEX).* \\
    <span class="links">
-       [[paper](http://ims-sites.dei.unipd.it/documents/71612/155385/CLEF2012wn-INEX-DeveaudEt2012.pdf)]
+       [[paper](https://ceur-ws.org/Vol-1178/CLEF2012wn-INEX-DeveaudEt2012.pdf)]
    </span>
 
  - **[Participation du LINA à DEFT 2012](https://aclanthology.org/W12-1107.pdf).**\\
@@ -870,11 +870,11 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
        [[paper](/data/articles/boudin_gotal08.pdf)]
    </span>
 
- - **[The LIA Update Summarization system at TAC-2008](http://www.nist.gov/tac/publications/2008/participant.papers/LIA.proceedings.pdf).**\\
+ - **[The LIA Update Summarization system at TAC-2008](https://tac.nist.gov/publications/2008/participant.papers/LIA.proceedings.pdf).**\\
    Florian Boudin, Marc El-Bèze, Juan-Manuel Torres-Moreno.\\
    *Text Analysis Conference (TAC).* \\
    <span class="links">
-       [[paper](http://www.nist.gov/tac/publications/2008/participant.papers/LIA.proceedings.pdf)]
+       [[paper](https://tac.nist.gov/publications/2008/participant.papers/LIA.proceedings.pdf)]
    </span>
 
  - **[Exploration d’approches statistiques pour le résumé automatique de texte](/data/articles/thesis_florian_boudin.pdf).**\\
@@ -903,11 +903,11 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
        [[paper](/data/articles/boudin_cicling07.pdf)]
    </span>
 
- - **[The LIA-Thales summarization system at DUC-2007](http://www-nlpir.nist.gov/projects/duc/pubs/2007papers/uavignon.ps).**\\
+ - **[The LIA-Thales summarization system at DUC-2007](https://www-nlpir.nist.gov/projects/duc/pubs/2007papers/uavignon.ps).**\\
    Florian Boudin, Benoit Favre, Frederic Béchet, Marc El-Bèze, Laurent Gillard, Juan-Manuel Torres-Moreno.\\
    *Document Understanding Conference (DUC).* \\
    <span class="links">
-       [[paper](http://www-nlpir.nist.gov/projects/duc/pubs/2007papers/uavignon.ps)]
+       [[paper](https://www-nlpir.nist.gov/projects/duc/pubs/2007papers/uavignon.ps)]
    </span>
 
 # 2006
@@ -915,9 +915,9 @@ You can also find my [Google Scholar profile](http://scholar.google.com/citation
 
    {: .block}
 
- - **[The LIA-Thales summarization system at DUC-2006](http://www-nlpir.nist.gov/projects/duc/pubs/2006papers/LIA-Thales_Duc06_final.pdf).**\\
+ - **[The LIA-Thales summarization system at DUC-2006](https://www-nlpir.nist.gov/projects/duc/pubs/2006papers/LIA-Thales_Duc06_final.pdf).**\\
    Benoit Favre, Frederic Béchet, Patrice Bellot, Florian Boudin, Marc El-Beze, Laurent Gillard, Guy Lapalme, Juan-Manuel Torres-Moreno.\\
    *Document Understanding Conference (DUC).*\\
    <span class="links">
-       [[paper](http://www-nlpir.nist.gov/projects/duc/pubs/2006papers/LIA-Thales_Duc06_final.pdf)]
+       [[paper](https://www-nlpir.nist.gov/projects/duc/pubs/2006papers/LIA-Thales_Duc06_final.pdf)]
    </span>
