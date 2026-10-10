@@ -5,7 +5,10 @@ layout: default
 ![Picture of Florian Boudin](data/florian-boudin-small-jiburi.webp){: #img-thumbnail}
 
 **Florian Boudin**<br>
-<span id="courriel">&#102;&#108;&#111;&#114;&#105;&#097;&#110;&#046;&#098;&#111;&#117;&#100;&#105;&#110;&#064;&#117;&#110;&#105;&#118;&#045;&#110;&#097;&#110;&#116;&#101;&#115;&#046;&#102;&#114;</span>
+<span id="courriel">&#102;&#108;&#111;&#114;&#105;&#097;&#110;&#046;&#098;&#111;&#117;&#100;&#105;&#110;&#064;&#117;&#110;&#105;&#118;&#045;&#110;&#097;&#110;&#116;&#101;&#115;&#046;&#102;&#114;</span><br>
+[Google Scholar](https://scholar.google.com/citations?user=Vk68rbkAAAAJ&hl=en) ·
+[GitHub](https://github.com/boudinfl) ·
+[ACL Anthology](https://aclanthology.org/people/florian-boudin/)
 {: .decalage}
 
 I am Associate Professor ([HDR](https://theses.hal.science/tel-04137160)) of Computer Science at Nantes University, where I co-lead the [TALN research group](http://taln.ls2n.fr) (together with [Richard Dufour](https://cv.hal.science/richard-dufour)) at the [Laboratory of Digital Sciences of Nantes (LS2N)](https://www.ls2n.fr).

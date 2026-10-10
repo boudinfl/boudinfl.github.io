@@ -92,7 +92,7 @@ async function fetchDownloads(id, type) {
     const res = await fetch(url);
     if (!res.ok) return "N/A";
     const data = await res.json();
-    return data.downloadsAllTime ?? "N/A";
+    return data.downloadsAllTime?.toLocaleString("en-US") ?? "N/A";
   } catch {
     return "N/A";
   }
