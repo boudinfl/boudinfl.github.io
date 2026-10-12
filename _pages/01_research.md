@@ -7,11 +7,14 @@ permalink: /research/
 # Research Interests
 {: .underline}
 
-* <b>AI-assisted writing:</b> I study how language models can help researchers revise and improve scientific text, from building datasets of real author revisions to evaluating revision systems reliably. This work continues in the [FABULEUX project](https://anr-fabuleux.github.io/), which aims to make LLM-assisted writing more reliable.
+* <b>AI-assisted writing:</b> helping researchers express their ideas clearly, with language models as assistants rather than authors.<br/>
+  <i>text revision · writing assistance · evaluation of revision systems</i>
 
-* <b>AI-assisted verification of scientific content:</b> Language models have made writing scientific text nearly effortless, but checking it still takes careful reading and expertise. I develop methods that check whether a paper's claims are supported by their evidence, whether in the text, a table, a figure or a cited work, along with benchmarks to evaluate whether these methods reach the right conclusion for the right reasons.
+* <b>AI-assisted verification of scientific content:</b> making sure that claims rest on evidence, now that writing has become effortless and checking has not.<br/>
+  <i>claim verification · evidence in tables and figures · reliability of LLM-generated text</i>
 
-* <b>Literature search:</b> I work on helping researchers find and navigate the scientific literature: keyphrase extraction and generation for indexing scientific documents, citation and paper recommendation, and reading list generation. This includes the open-source keyphrase extraction toolkit [pke](https://github.com/boudinfl/pke).
+* <b>Literature search:</b> helping researchers find and make sense of an ever-growing literature.<br/>
+  <i>keyphrase generation · scientific document retrieval · paper recommendation · reading lists</i>
 
 # Research Grants and Projects
 {: .underline}
