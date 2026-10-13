@@ -1,0 +1,10 @@
+<ul class="news">
+{%- if include.limit -%}
+  {%- assign news_items = site.data.news | slice: 0, include.limit -%}
+{%- else -%}
+  {%- assign news_items = site.data.news -%}
+{%- endif -%}
+{%- for item in news_items %}
+<li><b>[{{ item.date | date: "%b %Y" }}]</b> {{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>
+{%- endfor %}
+</ul>

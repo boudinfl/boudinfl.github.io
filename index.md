@@ -20,4 +20,13 @@ I am currently on secondment at [Inria](https://www.inria.fr) (France).
 **trajectory:** grad student at [LIA, Université d'Avignon](http://lia.univ-avignon.fr) (France) &rarr; post-doc at [RALI, Université de Montréal](https://rali.iro.umontreal.ca) (Canada) &rarr; associate professor at [LS2N, Université de Nantes](https://www.ls2n.fr) (France) &rarr; visiting researcher at [Aizawa lab, National Institute of Informatics](http://www-al.nii.ac.jp/) (Japan) &rarr; researcher at [JFLI, National Institute of Informatics](https://jfli.cnrs.fr/) (Japan) &rarr; researcher at [Inria](https://www.inria.fr) (France).
 {: .decalage}
 
+<div class="decalage" markdown="1">
 
+**news:**
+{: .news-label}
+
+{% include news.html limit=5 %}
+
+[Older news →]({{ "/news/" | relative_url }})
+
+</div>

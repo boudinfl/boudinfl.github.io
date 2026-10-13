@@ -1,0 +1,14 @@
+# News items, newest first. The home page shows the first 5;
+# the /news/ page shows all of them. Text can use Markdown links.
+
+- date: 2026-10-06
+  text: "Two papers on scientific claim verification accepted at [AACL-IJCNLP 2026](https://2026.aaclnet.org/)."
+
+- date: 2026-10-01
+  text: "Our ANR project [FABULEUX](https://anr-fabuleux.github.io/) on fabrications and misuse of LLMs in scientific writing has started."
+
+- date: 2026-05-01
+  text: "Paper on annotating paper contributions in ACL Rolling Review accepted at ACL 2026 (Findings)."
+
+- date: 2026-02-01
+  text: "Two papers accepted at LREC 2026, including the [SciClaimEval](https://sciclaimeval.github.io/) dataset."
